@@ -1,0 +1,47 @@
+---
+Model::TrackModel:
+  connect_info:
+    - dbi:SQLite:dbname=/home/canto/data/track.sqlite3
+  schema_class: Canto::TrackDB
+data_directory: /home/canto/data
+
+name: PHI-Canto
+database_name: PHI-base
+long_name: Curation application for PHI-base, the Pathogen-Host Interactions database
+
+email:
+  from_address:    contact@phi-base.org
+  admin_address:   contact@phi-base.org
+  noreply_address: contact@phi-base.org
+
+implementation_classes:
+  gene_adaptor:     Canto::UniProt::GeneLookup
+  ontology_adaptor: Canto::Track::OntologyLookup
+  status_adaptor:   Canto::Track::StatusStorage
+  person_adaptor:   Canto::Track::PersonLookup
+  pubs_adaptor:     Canto::Track::PubsLookup
+
+messages:
+  gene_upload:
+    systematic_identifier_desc: UniProt identifier
+    primary_name_desc: ~
+    examples:
+      gene_identifier: 'Q00909'
+      gene_name: ~
+
+host_organism_taxonids: [
+  5755, 5757, 108276, 5341, 176616, 4679, 8839, 7936, 226677, 7460, 4045, 
+  3702, 3818, 85549, 39291, 4498, 28974, 7091, 9913, 15368, 52824, 3707, 
+  3708, 3712, 3711, 6239, 4072, 4073, 134033, 60419, 21020, 10141, 63459, 
+  10152, 34839, 9534, 3827, 13427, 3654, 159033, 79217, 64884, 2708, 171249, 
+  85571, 2711, 55188, 269719, 292731, 29159, 39473, 3656, 3659, 3661, 3662, 
+  4265, 7955, 35525, 4039, 3570, 44689, 7227, 685034, 9796, 38414, 32224, 
+  4606, 4608, 7137, 9031, 3847, 3634, 3635, 6999, 4232, 9606, 4513, 336126, 
+  7998, 6945, 4236, 4472, 3864, 4006, 7004, 4521, 4522, 7200, 9541, 74068, 
+  3750, 106564, 7130, 29780, 3983, 3879, 3880, 10036, 10090, 4641, 63479, 
+  4100, 62141, 4097, 4146, 8019, 8022, 9986, 4530, 9940, 8255, 6687, 3435, 
+  4043, 3885, 7116, 3339, 88730, 3349, 3350, 3888, 51655, 43335, 9310, 
+  122118, 36596, 42229, 3758, 3755, 3760, 23211, 3767, 3726, 10116, 10117, 
+  6941, 456999, 329032, 267246, 4547, 52904, 4550, 7048, 856898, 4081, 4111, 
+  73574, 4082, 4113, 4558, 7107, 7109, 62615, 9823, 7067, 3641, 7070, 96903, 
+  4565, 3906, 29760, 163159, 69721, 94108, 4577 ]
