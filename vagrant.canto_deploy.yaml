@@ -21,6 +21,61 @@ implementation_classes:
   person_adaptor:   Canto::Track::PersonLookup
   pubs_adaptor:     Canto::Track::PubsLookup
 
+available_annotation_types:
+  - name: phenotype
+    category: ontology
+    namespace: fission_yeast_phenotype
+    very_short_display_name: 'phenotype'
+    short_display_name: 'phenotype'
+    display_name: 'phenotype'
+    synonyms_to_display:
+      - exact
+    feature_type: 'genotype'
+    can_have_conditions: 1
+    evidence_codes:
+      - Asexual sporulation assay
+      - Cell growth assay
+      - Chromatin immunoprecipitation experiment
+      - Chromatography evidence
+      - Competitive growth assay evidence
+      - Electrophoretic mobility shift assay data
+      - Electrophysiology assay
+      - Enzyme assay data
+      - Epitope-tagged protein immunolocalization experiment data
+      - Flow cytometry data
+      - Functional test in host
+      - Gel electrophoresis evidence
+      - Immunolocalization experiment data
+      - Macroscopic observation (qualitative observation)
+      - Macroscopic observation (quantitative observation)
+      - Microscopy
+      - Other
+      - Particle size and count assay
+      - Penetration assay
+      - Quantitative PCR
+      - Reporter gene assay
+      - Sexual sporulation assay
+      - Substance quantification evidence
+      - Transcript expression level evidence
+      - Western blot assay
+    broad_term_suggestions: >
+      multinucleate, abnormal spindle, inviable
+    specific_term_examples: >
+      growth auxotrophic for arginine, abnormal cytokinetic cell separation
+    help_text: >
+      Annotate normal or abnormal phenotypes of cells with this genotype.
+    more_help_text: >
+      A phenotype is any observable characteristic or trait of an organism;
+      observable characteristics include morphology, development, biochemical or
+      physiological properties, behaviour, and products of behaviour of the
+      organism. Phenotypes result from the expression of the genes of an organism as well
+      as the influence of environmental factors and the interactions between
+      the two.
+    extra_help_text: >
+      Alleles may be annotated with multiple phenotype terms,
+      including both normal and abnormal phenotypes for one allele.
+    detailed_help_path: /docs/fypo_annotation
+
 messages:
   gene_upload:
     systematic_identifier_desc: UniProt identifier
