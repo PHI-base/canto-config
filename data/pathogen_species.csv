@@ -56,7 +56,7 @@ Cercospora,apii,132184
 Cercospora,beticola,122368
 Cercospora,kikuchii,84275
 Cercospora,nicotianae,29003
-Cercospora,zeae,135779-maydis
+Cercospora,zeae-maydis,135779
 Chlamydia,muridarum,83560
 Chlamydia,pneumoniae,83558
 Chlamydia,trachomatis,813
@@ -138,7 +138,7 @@ Listeria,monocytogenes,1639
 Lonsdalea,quercina,71657
 Macrosiphum,euphorbiae,13131
 Magnaporthe,oryzae,318829
-Melampsora,larici,203908-populina
+Melampsora,larici-populina,203908
 Melampsora,lini,5261
 Meloidogyne,javanica,6303
 Metarhizium,acridum,92637
@@ -194,7 +194,7 @@ Puccinia,graminis,5297
 Puccinia,striiformis,27350
 Pyrenopeziza,brassicae,76659
 Pyrenophora,teres,53485
-Pyrenophora,tritici,45151-repentis
+Pyrenophora,tritici-repentis,45151
 Pythium,aphanidermatum,65070
 Radopholus,similis,46012
 Ralstonia,pickettii,329
@@ -221,7 +221,7 @@ Streptococcus,iniae,1346
 Streptococcus,parauberis,1348
 Streptococcus,pneumoniae,1313
 Streptococcus,pyogenes,1314
-Streptococcus,sp,36470. 'group A'
+Streptococcus,sp. 'group A',36470
 Streptococcus,suis,1307
 Streptococcus,uberis,1349
 Streptomyces,scabiei,1930
