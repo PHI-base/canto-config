@@ -21,7 +21,7 @@ implementation_classes:
   person_adaptor:   Canto::Track::PersonLookup
   pubs_adaptor:     Canto::Track::PubsLookup
 
-available_annotation_types:
+available_annotation_type_list:
   - name: phenotype
     category: ontology
     namespace: fission_yeast_phenotype
