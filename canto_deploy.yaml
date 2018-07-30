@@ -74,7 +74,7 @@ available_annotation_type_list:
       pyrimidine metabolic process or alpha-glucoside transport
     help_text: >
       A biological process is series of events accomplished by one or more
-      ordered assemblies of molecular functions, such as cell cycle regulation, 
+      ordered assemblies of molecular functions, such as cell cycle regulation,
       ion transport, or signal transduction.
     more_help_text: >
       It can be difficult to distinguish between a biological process
@@ -119,6 +119,54 @@ available_annotation_type_list:
       proteins or nucleic acids. Cellular component also does not include
       multicellular anatomical terms.
     detailed_help_path: /docs/go_annotation
+  - name: disease formation phenotype
+    category: ontology
+    namespace: disease formation phenotype
+    very_short_display_name: 'PHI-phenotype'
+    short_display_name: 'PHI-phenotype'
+    display_name: 'disease formation phenotype'
+    synonyms_to_display:
+      - exact
+    feature_type: 'metagenotype'
+    can_have_conditions: 1
+    evidence_codes:
+      - Cell growth assay
+      - Chromatin immunoprecipitation experiment
+      - Chromatography evidence
+      - Co-immunoprecipitation experiment
+      - Competitive growth assay evidence
+      - Electrophoretic mobility shift assay data
+      - Enzyme assay data
+      - Epitope-tagged protein immunolocalization experiment data
+      - Flow cytometry data
+      - Gel electrophoresis evidence
+      - Immunolocalization experiment data
+      - Microscopy
+      - Other
+      - Particle size and count assay
+      - Plasmid maintenance assay evidence
+      - Quantitative PCR
+      - Reporter gene assay
+      - Substance quantification evidence
+      - Transcript expression level evidence
+      - Western blot assay
+    broad_term_suggestions: >
+      multinucleate, abnormal spindle, inviable
+    specific_term_examples: >
+      growth auxotrophic for arginine, abnormal cytokinetic cell separation
+    help_text: >
+      Annotate normal or abnormal phenotypes of cells with this genotype.
+    more_help_text: >
+      A phenotype is any observable characteristic or trait of an organism;
+      observable characteristics include morphology, development, biochemical or
+      physiological properties, behaviour, and products of behaviour of the
+      organism. Phenotypes result from the expression of the genes of an organism as well
+      as the influence of environmental factors and the interactions between
+      the two.
+    extra_help_text: >
+      Alleles may be annotated with multiple phenotype terms,
+      including both normal and abnormal phenotypes for one allele.
+    detailed_help_path: /docs/fypo_annotation
   - name: phenotype
     category: ontology
     namespace: fission_yeast_phenotype
@@ -248,18 +296,18 @@ extra_sponsors:
     logo_url: "http://www.phi-base.org/images/logos/rres_logo.png"
 
 host_organism_taxonids: [
-  5755, 5757, 108276, 5341, 176616, 4679, 8839, 7936, 226677, 7460, 4045, 
-  3702, 3818, 85549, 39291, 4498, 28974, 7091, 9913, 15368, 52824, 3707, 
-  3708, 3712, 3711, 6239, 4072, 4073, 134033, 60419, 21020, 10141, 63459, 
-  10152, 34839, 9534, 3827, 13427, 3654, 159033, 79217, 64884, 2708, 171249, 
-  85571, 2711, 55188, 269719, 292731, 29159, 39473, 3656, 3659, 3661, 3662, 
-  4265, 7955, 35525, 4039, 3570, 44689, 7227, 685034, 9796, 38414, 32224, 
-  4606, 4608, 7137, 9031, 3847, 3634, 3635, 6999, 4232, 9606, 4513, 336126, 
-  7998, 6945, 4236, 4472, 3864, 4006, 7004, 4521, 4522, 7200, 9541, 74068, 
-  3750, 106564, 7130, 29780, 3983, 3879, 3880, 10036, 10090, 4641, 63479, 
-  4100, 62141, 4097, 4146, 8019, 8022, 9986, 4530, 9940, 8255, 6687, 3435, 
-  4043, 3885, 7116, 3339, 88730, 3349, 3350, 3888, 51655, 43335, 9310, 
-  122118, 36596, 42229, 3758, 3755, 3760, 23211, 3767, 3726, 10116, 10117, 
-  6941, 456999, 329032, 267246, 4547, 52904, 4550, 7048, 856898, 4081, 4111, 
-  73574, 4082, 4113, 4558, 7107, 7109, 62615, 9823, 7067, 3641, 7070, 96903, 
+  5755, 5757, 108276, 5341, 176616, 4679, 8839, 7936, 226677, 7460, 4045,
+  3702, 3818, 85549, 39291, 4498, 28974, 7091, 9913, 15368, 52824, 3707,
+  3708, 3712, 3711, 6239, 4072, 4073, 134033, 60419, 21020, 10141, 63459,
+  10152, 34839, 9534, 3827, 13427, 3654, 159033, 79217, 64884, 2708, 171249,
+  85571, 2711, 55188, 269719, 292731, 29159, 39473, 3656, 3659, 3661, 3662,
+  4265, 7955, 35525, 4039, 3570, 44689, 7227, 685034, 9796, 38414, 32224,
+  4606, 4608, 7137, 9031, 3847, 3634, 3635, 6999, 4232, 9606, 4513, 336126,
+  7998, 6945, 4236, 4472, 3864, 4006, 7004, 4521, 4522, 7200, 9541, 74068,
+  3750, 106564, 7130, 29780, 3983, 3879, 3880, 10036, 10090, 4641, 63479,
+  4100, 62141, 4097, 4146, 8019, 8022, 9986, 4530, 9940, 8255, 6687, 3435,
+  4043, 3885, 7116, 3339, 88730, 3349, 3350, 3888, 51655, 43335, 9310,
+  122118, 36596, 42229, 3758, 3755, 3760, 23211, 3767, 3726, 10116, 10117,
+  6941, 456999, 329032, 267246, 4547, 52904, 4550, 7048, 856898, 4081, 4111,
+  73574, 4082, 4113, 4558, 7107, 7109, 62615, 9823, 7067, 3641, 7070, 96903,
   4565, 3906, 29760, 163159, 69721, 94108, 4577 ]
