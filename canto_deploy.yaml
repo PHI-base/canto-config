@@ -119,7 +119,7 @@ available_annotation_type_list:
       proteins or nucleic acids. Cellular component also does not include
       multicellular anatomical terms.
     detailed_help_path: /docs/go_annotation
-  - name: disease formation phenotype
+  - name: disease_formation_phenotype
     category: ontology
     namespace: disease formation phenotype
     very_short_display_name: 'PHI-phenotype'
