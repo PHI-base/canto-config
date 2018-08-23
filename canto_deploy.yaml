@@ -132,11 +132,14 @@ available_annotation_type_list:
     can_have_conditions: 1
     evidence_codes:
       - Cell growth assay
+      - Electrophysiology assay
       - Enzyme assay data
       - Epitope-tagged protein immunolocalization experiment data
       - Flow cytometry data
       - Gel electrophoresis evidence
       - Immunolocalization experiment data
+      - Macroscopic observation (qualitative observation)
+      - Macroscopic observation (quantitative observation)
       - Microscopy
       - Other
       - Particle size and count assay
@@ -145,9 +148,6 @@ available_annotation_type_list:
       - Substance quantification evidence
       - Transcript expression level evidence
       - Western blot assay
-      - Macroscopic observation (qualitative observation)
-      - Macroscopic observation (quantitative observation)
-      - Electrophysiology assay
     broad_term_suggestions: >
       multinucleate, abnormal spindle, inviable
     specific_term_examples: >
@@ -177,27 +177,27 @@ available_annotation_type_list:
     feature_subtype: 'pathogen'
     can_have_conditions: 1
     evidence_codes:
+      - Asexual sporulation assay
       - Cell growth assay
       - Competitive growth assay evidence
+      - Electrophysiology assay
       - Enzyme assay data
       - Epitope-tagged protein immunolocalization experiment data
       - Flow cytometry data
       - Gel electrophoresis evidence
       - Immunolocalization experiment data
+      - Macroscopic observation (qualitative observation)
+      - Macroscopic observation (quantitative observation)
       - Microscopy
       - Other
       - Particle size and count assay
+      - Penetration assay
       - Quantitative PCR
       - Reporter gene assay
+      - Sexual sporulation assay
       - Substance quantification evidence
       - Transcript expression level evidence
       - Western blot assay
-      - Penetration assay
-      - Asexual sporulation assay
-      - Sexual sporulation assay
-      - Macroscopic observation (qualitative observation)
-      - Macroscopic observation (quantitative observation)
-      - Electrophysiology assay
     broad_term_suggestions: >
       multinucleate, abnormal spindle, inviable
     specific_term_examples: >
@@ -226,31 +226,31 @@ available_annotation_type_list:
     feature_type: 'metagenotype'
     can_have_conditions: 1
     evidence_codes:
+      - Asexual sporulation assay
       - Cell growth assay
       - Chromatin immunoprecipitation experiment
       - Chromatography evidence
       - Competitive growth assay evidence
       - Electrophoretic mobility shift assay data
+      - Electrophysiology assay
       - Enzyme assay data
       - Epitope-tagged protein immunolocalization experiment data
       - Flow cytometry data
+      - Functional test in host
       - Gel electrophoresis evidence
       - Immunolocalization experiment data
+      - Macroscopic observation (qualitative observation)
+      - Macroscopic observation (quantitative observation)
       - Microscopy
       - Other
       - Particle size and count assay
+      - Penetration assay
       - Quantitative PCR
       - Reporter gene assay
+      - Sexual sporulation assay
       - Substance quantification evidence
       - Transcript expression level evidence
       - Western blot assay
-      - Functional test in host
-      - Penetration assay
-      - Asexual sporulation assay
-      - Sexual sporulation assay
-      - Macroscopic observation (qualitative observation)
-      - Macroscopic observation (quantitative observation)
-      - Electrophysiology assay
     broad_term_suggestions: >
       multinucleate, abnormal spindle, inviable
     specific_term_examples: >
