@@ -137,7 +137,7 @@ available_annotation_type_list:
       - Flow cytometry data
       - Gel electrophoresis evidence
       - Immunolocalization experiment data
-      - Microscopy (cellular)
+      - Microscopy
       - Other
       - Particle size and count assay
       - Quantitative PCR
@@ -147,7 +147,6 @@ available_annotation_type_list:
       - Western blot assay
       - Macroscopic observation (qualitative observation)
       - Macroscopic observation (quantitative observation)
-      - Microscopy (subcellular)
       - Electrophysiology assay
     broad_term_suggestions: >
       multinucleate, abnormal spindle, inviable
@@ -185,7 +184,7 @@ available_annotation_type_list:
       - Flow cytometry data
       - Gel electrophoresis evidence
       - Immunolocalization experiment data
-      - Microscopy (cellular)
+      - Microscopy
       - Other
       - Particle size and count assay
       - Quantitative PCR
@@ -198,7 +197,6 @@ available_annotation_type_list:
       - Sexual sporulation assay
       - Macroscopic observation (qualitative observation)
       - Macroscopic observation (quantitative observation)
-      - Microscopy (subcellular)
       - Electrophysiology assay
     broad_term_suggestions: >
       multinucleate, abnormal spindle, inviable
@@ -238,7 +236,7 @@ available_annotation_type_list:
       - Flow cytometry data
       - Gel electrophoresis evidence
       - Immunolocalization experiment data
-      - Microscopy (cellular)
+      - Microscopy
       - Other
       - Particle size and count assay
       - Quantitative PCR
@@ -252,7 +250,6 @@ available_annotation_type_list:
       - Sexual sporulation assay
       - Macroscopic observation (qualitative observation)
       - Macroscopic observation (quantitative observation)
-      - Microscopy (subcellular)
       - Electrophysiology assay
     broad_term_suggestions: >
       multinucleate, abnormal spindle, inviable
