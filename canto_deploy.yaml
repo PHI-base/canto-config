@@ -74,7 +74,7 @@ available_annotation_type_list:
       pyrimidine metabolic process or alpha-glucoside transport
     help_text: >
       A biological process is series of events accomplished by one or more
-      ordered assemblies of molecular functions, such as cell cycle regulation, 
+      ordered assemblies of molecular functions, such as cell cycle regulation,
       ion transport, or signal transduction.
     more_help_text: >
       It can be difficult to distinguish between a biological process
@@ -378,6 +378,9 @@ enabled_annotation_type_list:
   - molecular_function
   - biological_process
   - cellular_component
+  - post_translational_modification
+  - genetic_interaction
+  - physical_interaction
 
 messages:
   gene_upload:
