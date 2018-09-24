@@ -379,7 +379,7 @@ enabled_annotation_type_list:
   - biological_process
   - cellular_component
   - post_translational_modification
-  - genetic_interaction
+  #- genetic_interaction
   - physical_interaction
 
 messages:
