@@ -1,9 +1,9 @@
 ---
 Model::TrackModel:
   connect_info:
-    - dbi:SQLite:dbname=/var/canto-data/track.sqlite3
+    - dbi:SQLite:dbname=/data/track.sqlite3
   schema_class: Canto::TrackDB
-data_directory: /var/canto-data
+data_directory: /data
 
 name: PHI-Canto
 database_name: PHI-base
