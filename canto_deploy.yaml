@@ -215,12 +215,12 @@ available_annotation_type_list:
       Alleles may be annotated with multiple phenotype terms,
       including both normal and abnormal phenotypes for one allele.
     detailed_help_path: /docs/fypo_annotation
-  - name: disease_formation_phenotype
+  - name: pathogen_host_interaction_phenotype
     category: ontology
-    namespace: disease_formation_phenotype
-    very_short_display_name: 'PHI-phenotype'
-    short_display_name: 'PHI-phenotype'
-    display_name: 'disease formation phenotype'
+    namespace: pathogen_host_interaction_phenotype
+    very_short_display_name: 'PHI phenotype'
+    short_display_name: 'PHI phenotype'
+    display_name: 'pathogen-host interaction phenotype'
     synonyms_to_display:
       - exact
     feature_type: 'metagenotype'
@@ -374,7 +374,7 @@ available_annotation_type_list:
 enabled_annotation_type_list:
   - pathogen_phenotype
   - host_phenotype
-  - disease_formation_phenotype
+  - pathogen_host_interaction_phenotype
   - molecular_function
   - biological_process
   - cellular_component
