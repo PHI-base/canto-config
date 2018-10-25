@@ -382,6 +382,9 @@ enabled_annotation_type_list:
   #- genetic_interaction
   - physical_interaction
 
+extension_conf_files:
+  - /import_export/phipo_extensions.tsv
+
 messages:
   gene_upload:
     systematic_identifier_desc: UniProt identifier
