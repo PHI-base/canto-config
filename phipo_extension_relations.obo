@@ -1,0 +1,8 @@
+format-version: 1.2
+ontology: phipo_extensions
+default-namespace: phipo_extensions
+
+[Typedef]
+id: infects_tissue
+name: infects_tissue
+def: "(Detailed definition here)"
