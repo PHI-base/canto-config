@@ -151,21 +151,15 @@ available_annotation_type_list:
       - Transcript expression level evidence
       - Western blot assay
     broad_term_suggestions: >
-      multinucleate, abnormal spindle, inviable
+      host, lethal, chemical, immune response
     specific_term_examples: >
-      growth auxotrophic for arginine, abnormal cytokinetic cell separation
+      abnormal host organism growth, increased resistance to chemical
     help_text: >
-      Annotate normal or abnormal phenotypes of cells with this genotype.
+      Annotate normal or abnormal phenotypes of host organisms with this genotype.
     more_help_text: >
-      A phenotype is any observable characteristic or trait of an organism;
-      observable characteristics include morphology, development, biochemical or
-      physiological properties, behaviour, and products of behaviour of the
-      organism. Phenotypes result from the expression of the genes of an organism as well
-      as the influence of environmental factors and the interactions between
-      the two.
+      A host phenotype is any observable characteristic or trait of a host organism; observable characteristics include morphology, development, biochemical or physiological properties, behaviour, and products of behaviour of the organism. Phenotypes result from the expression of the genes of an organism as well as the influence of environmental factors and the interactions between the two.
     extra_help_text: >
-      Alleles may be annotated with multiple phenotype terms,
-      including both normal and abnormal phenotypes for one allele.
+      Alleles may be annotated with multiple phenotype terms, including both normal and abnormal phenotypes for one allele.
     detailed_help_path: /docs/fypo_annotation
   - name: pathogen_phenotype
     category: ontology
@@ -201,21 +195,15 @@ available_annotation_type_list:
       - Transcript expression level evidence
       - Western blot assay
     broad_term_suggestions: >
-      multinucleate, abnormal spindle, inviable
+      pathogen, lethal, chemical, growth, motility, reproduction
     specific_term_examples: >
-      growth auxotrophic for arginine, abnormal cytokinetic cell separation
+      increased resistance to chemical, asexual spore decreased in size, loss of pathogen motility
     help_text: >
-      Annotate normal or abnormal phenotypes of cells with this genotype.
+      Annotate normal or abnormal phenotypes of pathogen organisms with this genotype.
     more_help_text: >
-      A phenotype is any observable characteristic or trait of an organism;
-      observable characteristics include morphology, development, biochemical or
-      physiological properties, behaviour, and products of behaviour of the
-      organism. Phenotypes result from the expression of the genes of an organism as well
-      as the influence of environmental factors and the interactions between
-      the two.
+      A pathogen phenotype is any observable characteristic or trait of a pathogen organism; observable characteristics include morphology, development, biochemical or physiological properties, behaviour, and products of behaviour of the organism. Phenotypes result from the expression of the genes of an organism as well as the influence of environmental factors and the interactions between the two.
     extra_help_text: >
-      Alleles may be annotated with multiple phenotype terms,
-      including both normal and abnormal phenotypes for one allele.
+      Alleles may be annotated with multiple phenotype terms, including both normal and abnormal phenotypes for one allele.
     detailed_help_path: /docs/fypo_annotation
   - name: pathogen_host_interaction_phenotype
     category: ontology
@@ -254,21 +242,15 @@ available_annotation_type_list:
       - Transcript expression level evidence
       - Western blot assay
     broad_term_suggestions: >
-      multinucleate, abnormal spindle, inviable
+      virulence, penetration, pathogenicity, binding, effector
     specific_term_examples: >
-      growth auxotrophic for arginine, abnormal cytokinetic cell separation
+      reduced virulence, decreased pathogen penetration across the host barrier, normal pathogenic phenotype
     help_text: >
-      Annotate normal or abnormal phenotypes of cells with this genotype.
+      Annotate normal or abnormal phenotypes of organisms within this pathogen-host interaction (metagenotype).
     more_help_text: >
-      A phenotype is any observable characteristic or trait of an organism;
-      observable characteristics include morphology, development, biochemical or
-      physiological properties, behaviour, and products of behaviour of the
-      organism. Phenotypes result from the expression of the genes of an organism as well
-      as the influence of environmental factors and the interactions between
-      the two.
+      A pathogen-host interaction phenotype is any observable characteristic or trait of an interaction between a pathogen organism and a host organism; observable characteristics include morphology, development, biochemical or physiological properties, behaviour, and products of behaviour of the organisms. Pathogen-host interaction phenotypes result from the expression of the genes of any of these organisms, as well as the influence of environmental factors (or the interaction between genes and environmental factors).
     extra_help_text: >
-      Alleles may be annotated with multiple phenotype terms,
-      including both normal and abnormal phenotypes for one allele.
+      Alleles may be annotated with multiple phenotype terms, including both normal and abnormal phenotypes for one allele.
     detailed_help_path: /docs/fypo_annotation
   - name: post_translational_modification
     category: ontology
