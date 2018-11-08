@@ -269,22 +269,6 @@ available_annotation_type_list:
     evidence_codes:
       - IDA
     detailed_help_path: /docs/modification_annotation
-  - name: genetic_interaction
-    category: interaction
-    display_name: 'genetic interaction'
-    feature_type: 'gene'
-    help_text: 'Examples: synthetic lethality, dosage suppression, phenotype enhancement.'
-    evidence_codes:
-      - Dosage Growth Defect
-      - Dosage Lethality
-      - Dosage Rescue
-      - Phenotypic Enhancement
-      - Phenotypic Suppression
-      - Synthetic Growth Defect
-      - Synthetic Haploinsufficiency
-      - Synthetic Lethality
-      - Synthetic Rescue
-    detailed_help_path: /docs/genetic_interaction_annotation
   - name: physical_interaction
     category: interaction
     display_name: 'physical interaction'
@@ -315,7 +299,6 @@ enabled_annotation_type_list:
   - biological_process
   - cellular_component
   - post_translational_modification
-  #- genetic_interaction
   - physical_interaction
 
 extension_conf_files:
