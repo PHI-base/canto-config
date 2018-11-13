@@ -16,6 +16,8 @@ email:
 
 contact_email:
   address: curation@phi-base.org
+  
+canto_demo_url: "http://demo-canto.phi-base.org"
 
 google_analytics_id: UA-12077899-6
 
