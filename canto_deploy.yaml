@@ -235,6 +235,7 @@ available_annotation_type_list:
       - Immunolocalization experiment data
       - Macroscopic observation (qualitative observation)
       - Macroscopic observation (quantitative observation)
+      - Macroscopic observation in heterologous species
       - Microscopy
       - Other
       - Particle size and count assay
