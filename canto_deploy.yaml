@@ -308,6 +308,9 @@ enabled_annotation_type_list:
 
 extension_conf_files:
   - /import_export/phipo_extensions.tsv
+  - /import_export/GO_BP_A_E_config.tsv
+  - /import_export/GO_CC_A_E_config.tsv
+  - /import_export/GO_MF_A_E_config.tsv
 
 instance_front_subtitle: Currently curating fungal, protist, and bacterial pathogens
 
