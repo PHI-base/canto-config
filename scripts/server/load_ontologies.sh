@@ -9,5 +9,5 @@ cd /var/canto_space/
 --ontology /import_export/phi-eco.obo \
 --ontology /canto/etc/ro.obo \
 --ontology https://raw.githubusercontent.com/PHI-base/phipo/a87351db4b07c4b21906cab1ef460148cf5889bc/phipo.obo \
---ontology http://data.bioontology.org/ontologies/BTO/submissions/33/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb \
+--ontology /import_export/BrendaTissue.obo \
 --ontology /import_export/phipo_extension_relations.obo
