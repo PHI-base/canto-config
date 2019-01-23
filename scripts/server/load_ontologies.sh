@@ -10,4 +10,5 @@ cd /var/canto_space/
 --ontology /canto/etc/ro.obo \
 --ontology https://raw.githubusercontent.com/PHI-base/phipo/a87351db4b07c4b21906cab1ef460148cf5889bc/phipo.obo \
 --ontology /import_export/BrendaTissue.obo \
---ontology /import_export/phipo_extension_relations.obo
+--ontology /import_export/phipo_extension_relations.obo \
+--ontology https://curation.pombase.org/dumps/latest_build/pombe-embl/mini-ontologies/has_qualifier_range.obo
