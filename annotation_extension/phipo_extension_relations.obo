@@ -6,3 +6,8 @@ default-namespace: phipo_extensions
 id: infects_tissue
 name: infects_tissue
 def: "(Detailed definition here)"
+
+[Typedef]
+id: causes_disease
+name: causes_disease
+def: "(Detailed definition here)"
