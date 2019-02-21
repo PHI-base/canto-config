@@ -1,3 +1,3 @@
 domain ID	subset relation	extension relation	range ID	Canto display text	Help text	cardinality	role
 PHIPO:0000001	is_a	infects_tissue	BTO:0000000	host tissue infected	(help text)	*	user
-PHIPO:0000001	is_a	causes_disease	PHIDO:0000473	disease caused	(help text)	*	user
+PHIPO:0000001	is_a	causes_disease	PHIDO:0000001	disease caused	(help text)	*	user
