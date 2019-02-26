@@ -189,7 +189,6 @@ available_annotation_type_list:
       - Macroscopic observation (qualitative observation)
       - Macroscopic observation (quantitative observation)
       - Microscopy
-      - Other
       - Particle size and count assay
       - Penetration assay
       - Quantitative PCR
@@ -198,6 +197,7 @@ available_annotation_type_list:
       - Substance quantification evidence
       - Transcript expression level evidence
       - Western blot assay
+      - Other
     broad_term_suggestions: >
       pathogen, lethal, chemical, growth, motility, reproduction
     specific_term_examples: >
@@ -224,6 +224,7 @@ available_annotation_type_list:
       - Cell growth assay
       - Chromatin immunoprecipitation experiment
       - Chromatography evidence
+      - Coimmunoprecipitation
       - Competitive growth assay evidence
       - Electrophoretic mobility shift assay data
       - Electrophysiology assay
@@ -237,7 +238,6 @@ available_annotation_type_list:
       - Macroscopic observation (quantitative observation)
       - Macroscopic observation in heterologous species
       - Microscopy
-      - Other
       - Particle size and count assay
       - Penetration assay
       - Quantitative PCR
@@ -246,6 +246,7 @@ available_annotation_type_list:
       - Substance quantification evidence
       - Transcript expression level evidence
       - Western blot assay
+      - Other
     broad_term_suggestions: >
       virulence, penetration, pathogenicity, binding, effector
     specific_term_examples: >
