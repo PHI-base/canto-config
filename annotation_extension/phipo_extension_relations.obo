@@ -11,3 +11,18 @@ def: "(Detailed definition here)"
 id: causes_disease
 name: causes_disease
 def: "(Detailed definition here)"
+
+[Typedef]
+id: has_penetrance
+name: has_penetrance
+def: "Relation between a phenotype and its observed penetrance in a population. Penetrance is the proportion of individuals carrying an allele that express a trait associated with the allele." [PomBase:mah]
+synonym: "penetrance" EXACT [PomBase:mah]
+property_value: local_domain FYPO:0000002 ! cell phenotype
+
+[Typedef]
+id: has_expressivity
+name: has_expressivity
+def: "Relation between a phenotype and its observed expressivity in a cell. Expressivity is the extent to which a phenotype is expressed in an individual." [PomBase:mah]
+synonym: "expressivity" EXACT [PomBase:mah]
+comment: Expressivity is relevant in individuals in which a phenotype is penetrant, i.e. that have an allele and express the phenotype associated with the allele.
+property_value: local_domain FYPO:0000001 ! phenotype

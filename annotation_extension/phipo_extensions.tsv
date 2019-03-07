@@ -1,3 +1,5 @@
 domain ID	subset relation	extension relation	range ID	Canto display text	Help text	cardinality	role
 PHIPO:0000001	is_a	infects_tissue	BTO:0000000	host tissue infected	(help text)	*	user
 PHIPO:0000001	is_a	causes_disease	PHIDO:0000001	disease caused	(help text)	*	user
+PHIPO:0000509	is_a|has_part	has_penetrance	FYPO_EXT:1000002|%	penetrance	proportion of the population that shows the phenotype (can be quantitative or qualitative)	0,1	user
+PHIPO:0000509	is_a|has_part	has_expressivity	FYPO_EXT:1000001	expressivity		0,1	user
