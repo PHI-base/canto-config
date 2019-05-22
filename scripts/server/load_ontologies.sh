@@ -8,7 +8,7 @@ cd /var/canto_space/
 --ontology https://curation.pombase.org/ontologies/PSI-MOD-2016-01-19.obo \
 --ontology /import_export/phi-eco.obo \
 --ontology /canto/etc/ro.obo \
---ontology https://raw.githubusercontent.com/PHI-base/phipo/master/phipo-simple.obo \
+--ontology http://purl.obolibrary.org/obo/phipo/phipo-simple.obo \
 --ontology /import_export/BrendaTissue.obo \
 --ontology /import_export/phipo_extension_relations.obo \
 --ontology https://curation.pombase.org/dumps/latest_build/pombe-embl/mini-ontologies/has_qualifier_range.obo \
