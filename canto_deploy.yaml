@@ -25,6 +25,7 @@ google_analytics_id: UA-12077899-6
 
 strains_mode: 1
 allow_single_wildtype_allele: 1
+diploid_mode: 1
 
 implementation_classes:
   gene_adaptor:     Canto::UniProt::GeneLookup
