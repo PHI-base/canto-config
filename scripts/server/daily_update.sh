@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd /var/canto_space/
+cd /var/canto_space/ || exit 1
 
 cp config_canto/data/host_species.csv canto/host_species.csv
 cp config_canto/data/host_strains.csv canto/host_strains.csv
@@ -17,4 +17,4 @@ rm canto/host_strains.csv
 rm canto/pathogen_species.csv
 rm canto/pathogen_strains.csv
 
-"/var/canto_space/config_canto/scripts/server/load_ontologies.sh"
+/var/canto_space/config_canto/scripts/server/load_ontologies.sh
