@@ -49,6 +49,8 @@ available_annotation_type_list:
       - IMP
       - IPI
       - EXP
+    admin_evidence_codes:
+      - TAS
     broad_term_suggestions: >
       transporter, transferase activity
     specific_term_examples: >
@@ -78,6 +80,8 @@ available_annotation_type_list:
       - IGI
       - IPI
       - EXP
+    admin_evidence_codes:
+      - TAS
     broad_term_suggestions: >
       cell cycle, transport
     specific_term_examples: >
@@ -114,6 +118,8 @@ available_annotation_type_list:
       - IMP
       - IPI
       - EXP
+    admin_evidence_codes:
+      - TAS
     broad_term_suggestions: >
       rough endoplasmic reticulum, nucleus, ribosome
     specific_term_examples: >
