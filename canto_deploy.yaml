@@ -378,4 +378,4 @@ host_organism_taxonids: [
   4565, 3906, 29760, 163159, 69721, 94108, 4577 ]
 
 extra_config_files:
-  - import_export/species_strain_map.yaml
+  - /import_export/species_strain_map.yaml
