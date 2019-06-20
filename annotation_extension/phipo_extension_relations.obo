@@ -26,3 +26,8 @@ def: "Relation between a phenotype and its observed expressivity in a cell. Expr
 synonym: "expressivity" EXACT [PomBase:mah]
 comment: Expressivity is relevant in individuals in which a phenotype is penetrant, i.e. that have an allele and express the phenotype associated with the allele.
 property_value: local_domain FYPO:0000001 ! phenotype
+
+[Typedef]
+id: infective_ability
+name: infective_ability
+def: "Relation between a pathogen-host interaction phenotype and its observed pathogenicity and virulence. Pathogenicity is the ability of a pathogen to produce infectious disease. Virulence is the severity of an infectious disease."
