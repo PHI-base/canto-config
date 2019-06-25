@@ -350,15 +350,15 @@ curs_config:
 
 extra_sponsors:
   - link_url: "https://bbsrc.ukri.org/"
-    logo_url: "http://www.phi-base.org/images/logos/bbsrc_logo.png"
+    logo_url: "/logos/bbsrc_logo.png"
   - link_url: "http://www.elixiruknode.org/"
-    logo_url: "http://www.phi-base.org/images/logos/elixir_uk_logo.png"
+    logo_url: "/logos/elixir_uk_logo.png"
   - link_url: "http://www.phi-base.org/"
-    logo_url: "http://www.phi-base.org/images/logos/phi-base_logo.png"
+    logo_url: "/logos/phi-base_logo.png"
   - link_url: "http://www.phytopathdb.org/"
-    logo_url: "http://www.phi-base.org/images/logos/phytopath_logo.png"
+    logo_url: "/logos/phytopath_logo.png"
   - link_url: "https://www.rothamsted.ac.uk/"
-    logo_url: "http://www.phi-base.org/images/logos/rres_logo.png"
+    logo_url: "/logos/rres_logo.png"
 
 host_organism_taxonids: [
   5755, 5757, 108276, 5341, 176616, 4679, 8839, 7936, 226677, 7460, 4045,
