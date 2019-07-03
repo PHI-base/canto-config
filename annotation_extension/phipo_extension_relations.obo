@@ -8,11 +8,6 @@ name: infects_tissue
 def: "(Detailed definition here)"
 
 [Typedef]
-id: causes_disease
-name: causes_disease
-def: "(Detailed definition here)"
-
-[Typedef]
 id: has_penetrance
 name: has_penetrance
 def: "Relation between a phenotype and its observed penetrance in a population. Penetrance is the proportion of individuals carrying an allele that express a trait associated with the allele." [PomBase:mah]
