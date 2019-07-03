@@ -23,5 +23,5 @@ for i in *.sqlite3; do
   sqlite3 "$i" .dump > ${sql_dump_dir}/"$i".sql_dump;
 done
 
-date_str=$(date --utc "+%F_%H%M")
+date_str=$(date --utc "+%F")
 tar -czf ${archive_dir}/canto_"${date_str}".tar.gz -C $sql_dump_dir .
