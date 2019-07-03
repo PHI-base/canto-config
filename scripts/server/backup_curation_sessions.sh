@@ -24,4 +24,4 @@ for i in *.sqlite3; do
 done
 
 date_str=$(date --utc "+%F_%H%M")
-tar -czf ${archive_dir}/canto_"${date_str}".tar.gz $sql_dump_dir/*
+tar -czf ${archive_dir}/canto_"${date_str}".tar.gz -C $sql_dump_dir .
