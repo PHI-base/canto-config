@@ -141,14 +141,6 @@ allele_type_list:
     expression_required: true
     allele_name_required: false
     placeholder: 'e.g. aa123->stop, aa1299->amber'
-  - name: other
-    export_type: other
-    show_description: true
-    description_required: true
-    allele_name_required: false
-    allow_expression_change: true
-    expression_required: true
-    placeholder: Please provide a description
   - name: transformant
     export_type: transformant
     show_description: true
@@ -157,6 +149,14 @@ allele_type_list:
     expression_required: true
     allele_name_required: false
     placeholder: 'transformed (strain-gene) e.g. (sn100-Tox1A1)'
+  - name: other
+    export_type: other
+    show_description: true
+    description_required: true
+    allele_name_required: false
+    allow_expression_change: true
+    expression_required: true
+    placeholder: Please provide a description
 
 available_annotation_type_list:
   - name: molecular_function
