@@ -149,13 +149,6 @@ allele_type_list:
     expression_required: true
     allele_name_required: false
     placeholder: 'transformed (strain-gene) e.g. (sn100-Tox1A1)'
-  - name: ectopic expression in host
-    export_type: ectopic_expression_in_host
-    show_description: true
-    description_required: true
-    allow_expression_change: true
-    expression_required: true
-    allele_name_required: false
   - name: other
     export_type: other
     show_description: true
