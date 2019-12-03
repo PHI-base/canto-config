@@ -447,6 +447,12 @@ extension_conf_files:
   - /import_export/GO_CC_A_E_config.tsv
   - /import_export/GO_MF_A_E_config.tsv
 
+
+export:
+  gene_association_fields:
+    db: "PHI-base"
+    assigned_by: "PHI-base"
+  
 instance_front_subtitle: Currently curating fungal, protist, and bacterial pathogens
 
 messages:
