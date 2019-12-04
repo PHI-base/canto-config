@@ -447,6 +447,18 @@ extension_conf_files:
   - /import_export/GO_CC_A_E_config.tsv
   - /import_export/GO_MF_A_E_config.tsv
 
+ontology_namespace_config:
+  subsets_to_ignore:
+    primary_autocomplete:
+      - "is_a(Grouping_terms)"
+    primary_select:
+      - "is_a(Grouping_terms)"
+      - "is_a(qc_do_not_annotate)"
+    extension:
+      - "is_a(canto_root_subset)"
+  do_not_annotate_subsets:
+    - "is_a(canto_root_subset)"
+    - "is_a(qc_do_not_annotate)"
 
 export:
   gene_association_fields:
