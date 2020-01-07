@@ -9,6 +9,8 @@
 # Description:       Enable service provided by daemon.
 ### END INIT INFO
 
+export OWLTOOLS_MEMORY=4g
+
 canto_path="/var/canto_space"
 cmd="./canto/script/canto_start_docker_auto"
 user=""
