@@ -12,7 +12,7 @@
 export OWLTOOLS_MEMORY=4g
 
 canto_path="/var/canto_space"
-cmd="./canto/script/canto_start_docker_auto"
+cmd="./canto/script/canto_start_docker"
 user=""
 
 name="phi-canto"
