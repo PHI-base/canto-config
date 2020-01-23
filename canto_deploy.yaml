@@ -255,7 +255,7 @@ available_annotation_type_list:
     detailed_help_path: /docs/go_annotation
   - name: host_phenotype
     category: ontology
-    namespace: 'single_organism_phenotype'
+    namespace: 'single_species_phenotype'
     very_short_display_name: 'host phenotype'
     short_display_name: 'host phenotype'
     display_name: 'host phenotype'
@@ -293,7 +293,7 @@ available_annotation_type_list:
     detailed_help_path: /docs/fypo_annotation
   - name: pathogen_phenotype
     category: ontology
-    namespace: 'single_organism_phenotype'
+    namespace: 'single_species_phenotype'
     very_short_display_name: 'pathogen phenotype'
     short_display_name: 'pathogen phenotype'
     display_name: 'pathogen phenotype'
