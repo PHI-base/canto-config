@@ -233,7 +233,6 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 4236,Lactuca sativa,cv. Butter head,
 4236,Lactuca sativa,cv. Flandria,
 3864,Lens culinaris,cv.  Eston,
-4688,Lilium,cv. Stargazer,
 7004,Locusta migratoria,subsp. manilensis,
 4522,Lolium perenne,cv. Nui,
 3750,Malus domestica,cv. Petit Jaune,
@@ -501,10 +500,6 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 3767,Pyrus pyrifolia,cv. Nijisseiki,
 3726,Raphanus sativus,var. longipinnatus (daikon),
 3726,Raphanus sativus,var. longipinnatus (daikon) cv. Manshenhong,
-10114,Rattus,Sprague-Dawley strain CO/BS,
-10114,Rattus,Wistar,
-10114,Rattus,Cotton,
-10114,Rattus,Sprague-Dawley,
 10116,Rattus norvegicus,Wistar,
 10117,Rattus rattus,Sprague-Dawley,SD
 10117,Rattus rattus,Wistar,
