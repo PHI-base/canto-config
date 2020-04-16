@@ -11,6 +11,7 @@ Apis mellifera,7460,honey bee
 Apium graveolens,4045,
 Arabidopsis thaliana,3702,thale cress
 Arachis hypogaea,3818,peanut
+Artemia franciscana,6661,brine shrimp
 Artemia salina,85549,
 Athelia rolfsii,39291,
 Avena sativa,4498,oats
@@ -25,6 +26,7 @@ Brassica napus,3708,rape
 Brassica oleracea,3712,wild cabbage
 Brassica rapa,3711,field mustard
 Caenorhabditis elegans,6239,roundworm
+Canis lupus,9612,gray wolf
 Capsicum annuum,4072,
 Capsicum frutescens,4073,hot pepper
 Castanea dentata,134033,American chestnut
@@ -43,9 +45,12 @@ Citrus iyo,79217,
 Citrus jambhiri,64884,rough lemon
 Citrus limon,2708,lemon
 Citrus limonia,171249,yi mu zi
+Citrus paradisi,37656,grapefruit
 Citrus reticulata,85571,tangerine
 Citrus sinensis,2711,sweet orange
 Citrus unshiu,55188,satsuma mandarin
+Citrus x microcarpa,164113,calamondin
+Citrus x tangelo,229630,
 Cotinus coggygria,269719,smokebush
 Cotinus obovatus,292731,
 Crassostrea gigas,29159,Pacific oyster
@@ -54,6 +59,7 @@ Cucumis melo,3656,muskmelon
 Cucumis sativus,3659,cucumber
 Cucurbita maxima,3661,winter squash
 Cucurbita moschata,3662,crookneck pumpkin
+Cucurbita pepo,3663,vegetable marrow
 Cynara cardunculus,4265,wild artichoke
 Danio rerio,7955,zebrafish
 Daphnia magna,35525,
@@ -67,6 +73,7 @@ Eragrostis curvula,38414,weeping love grass
 Eriobotrya japonica,32224,loquat
 Festuca arundinacea,4606,tall fescue
 Festuca pratensis,4608,meadow ryegrass
+Fragaria ananassa,3747,strawberry
 Galleria mellonella,7137,greater wax moth
 Gallus gallus,9031,chicken
 Glycine max,3847,soybean
@@ -74,6 +81,7 @@ Gossypium barbadense,3634,sea-island cotton
 Gossypium hirsutum,3635,cotton
 Gryllus bimaculatus,6999,two-spotted cricket
 Helianthus annuus,4232,common sunflower
+Hevea brasiliensis,3981,para rubber tree
 Homo sapiens,9606,human
 Hordeum vulgare,4513,barley
 Hylocereus trigonus,336126,strawberry-pear
@@ -99,6 +107,7 @@ Medicago truncatula,3880,barrel medic
 Mesocricetus auratus,10036,golden hamster
 Mus musculus,10090,house mouse
 Musa acuminata,4641,dwarf banana
+Musa paradisiaca,89151,french plantain banana
 Nerium oleander,63479,common oleander
 Nicotiana benthamiana,4100,
 Nicotiana paniculata,62141,
@@ -110,6 +119,7 @@ Oryctolagus cuniculus,9986,rabbit
 Oryza sativa,4530,rice
 Ovis aries,9940,sheep
 Paralichthys olivaceus,8255,Japanese flounder
+Pelargonium hortorum,4031,common geranium
 Penaeus monodon,6687,black tiger shrimp
 Persea americana,3435,avocado
 Petroselinum crispum,4043,parsley
@@ -122,6 +132,7 @@ Pinus thunbergii,3350,Japanese black pine
 Pisum sativum,3888,pea
 Plutella xylostella,51655,diamondback moth
 Populus alba,43335,xin bai yang
+Populus canadensis,3690,canadian poplar
 Potorous tridactylus,9310,long-nosed potoroo
 Prunus americana,122118,goose plum
 Prunus armeniaca,36596,apricot
@@ -141,6 +152,7 @@ Saccharum officinarum,4547,sugarcane
 Scophthalmus maximus,52904,turbot
 Secale cereale,4550,rye
 Sitophilus oryzae,7048,rice weevil
+Solanum chacoense,4108,chaco potato
 Solanum huancabambense,856898,
 Solanum lycopersicum,4081,tomato
 Solanum melongena,4111,eggplant
@@ -149,6 +161,7 @@ Solanum peruvianum,4082,Peruvian tomato
 Solanum tuberosum,4113,potato
 Sorghum bicolor,4558,sorghum
 Spodoptera exigua,7107,beet armyworm
+Spodoptera frugiperda,7108,fall armyworm
 Spodoptera littoralis,7109,African cotton leafworm
 Stylosanthes guianensis,62615,stylo
 Sus scrofa,9823,pig
@@ -156,11 +169,13 @@ Tenebrio molitor,7067,yellow mealworm
 Theobroma cacao,3641,cacao
 Tribolium castaneum,7070,red flour beetle
 Trichogaster trichopterus,96903,three spot gourami
+Trichoplusia ni,7111,cabbage looper
+Triticum aestivum x Triticum timopheevi,4566,
 Triticum aestivum,4565,bread wheat
+Triticum turgidum,4571,poulard wheat
 Vicia faba,3906,fava bean
 Vitis vinifera,29760,wine grape
 Xenopsylla cheopis,163159,oriental rat flea
 Zantedeschia aethiopica,69721,pig-lily
 Zantedeschia elliotiana,94108,
 Zea mays,4577,maize
-
