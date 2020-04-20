@@ -8,18 +8,18 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 8839,Anas platyrhynchos,Cherry Valley,
 8839,Anas platyrhynchos,embryo fibroblast cells,
 4045,Apium graveolens,dulce group,
-3702,Arabidopsis thaliana,ecotype Col-0,
-3702,Arabidopsis thaliana,ecotype Col-5,
-3702,Arabidopsis thaliana,ecotype Columbia,
-3702,Arabidopsis thaliana,ecotype CW84,
-3702,Arabidopsis thaliana,ecotype Landsberg,
-3702,Arabidopsis thaliana,ecotype Landsberg erecta,
-3702,Arabidopsis thaliana,ecotype N70000,
-3702,Arabidopsis thaliana,ecotype Nd-0,
-3702,Arabidopsis thaliana,ecotype Nd-1,
-3702,Arabidopsis thaliana,ecotype No-0,
-3702,Arabidopsis thaliana,ecotype Wei-0,
-3702,Arabidopsis thaliana,ecotype Ws-0,
+3702,Arabidopsis thaliana,ecotype Col-0,Col-0
+3702,Arabidopsis thaliana,ecotype Col-5,Col-5
+3702,Arabidopsis thaliana,ecotype Columbia,Columbia
+3702,Arabidopsis thaliana,ecotype CW84,CW84
+3702,Arabidopsis thaliana,ecotype Landsberg,Landsberg
+3702,Arabidopsis thaliana,ecotype Landsberg erecta,Landsberg erecta
+3702,Arabidopsis thaliana,ecotype N70000,N70000
+3702,Arabidopsis thaliana,ecotype Nd-0,Nd-0
+3702,Arabidopsis thaliana,ecotype Nd-1,Nd-1
+3702,Arabidopsis thaliana,ecotype No-0,No-0
+3702,Arabidopsis thaliana,ecotype Wei-0,Wei-0
+3702,Arabidopsis thaliana,ecotype Ws-0,Ws-0
 3702,Arabidopsis thaliana,PG201,
 3702,Arabidopsis thaliana,RIL 3680,
 3818,Arachis hypogaea,cv. NC94022,
@@ -43,7 +43,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 3712,Brassica oleracea,var. capitata (cabbage),
 3712,Brassica oleracea,var. italica (sprouting broccoli),
 3711,Brassica rapa,subsp. pekinensis (chinese cabbage),
-3711,Brassica rapa,subsp. pekinensis (chinese cabbage) cv. Zhong Gan 21,
+3711,Brassica rapa,subsp. pekinensis (chinese cabbage) cv. Zhong Gan 21,cv. Zhong Gan 21
 3711,Brassica rapa,supsp. chinesis (bok-choy),
 6239,Caenorhabditis elegans,BW54,
 6239,Caenorhabditis elegans,CF512,
@@ -51,8 +51,8 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 6239,Caenorhabditis elegans,glp-4,
 6239,Caenorhabditis elegans,L4,
 6239,Caenorhabditis elegans,N2,
-6239,Caenorhabditis elegans,var. Bristol strain N2,
-9612,Canis lupus,subsp. familiaris MDCK cell line,
+6239,Caenorhabditis elegans,var. Bristol strain N2,N2
+9612,Canis lupus,subsp. familiaris MDCK cell line,MDCK cell line
 4072,Capsicum annuum,06221 line,
 4072,Capsicum annuum,cv. CA8,
 4072,Capsicum annuum,cv. Early Calwonder,"cv. Early Cal Wonder, cv. ECW"
@@ -210,21 +210,21 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 4513,Hordeum vulgare,cv. Turk,
 4513,Hordeum vulgare,cv. ZJ-8,
 4513,Hordeum vulgare,subsp. vulgare,
-4513,Hordeum vulgare,subsp. vulgare cv. Bowman,
-4513,Hordeum vulgare,subsp. vulgare cv. E9,
-4513,Hordeum vulgare,subsp. vulgare cv. Express,
-4513,Hordeum vulgare,subsp. vulgare cv. Four-arris,
-4513,Hordeum vulgare,subsp. vulgare cv. Golden Promise,
-4513,Hordeum vulgare,subsp. vulgare cv. Jinchang 1316,
-4513,Hordeum vulgare,subsp. vulgare cv. Kindred,
-4513,Hordeum vulgare,subsp. vulgare cv. Lacey,
-4513,Hordeum vulgare,subsp. vulgare cv. Nakaizumi,
-4513,Hordeum vulgare,subsp. vulgare cv. Nigrate,
-4513,Hordeum vulgare,subsp. vulgare cv. Odessa,
-4513,Hordeum vulgare,subsp. vulgare cv. Plaisant,
-4513,Hordeum vulgare,subsp. vulgare cv. Sangrok,
-4513,Hordeum vulgare,subsp. vulgare cv. Tipple,
-4513,Hordeum vulgare,subsp. vulgare cv. ZJ-8,
+4513,Hordeum vulgare,subsp. vulgare cv. Bowman,cv. Bowman
+4513,Hordeum vulgare,subsp. vulgare cv. E9,cv. E9
+4513,Hordeum vulgare,subsp. vulgare cv. Express,cv. Express
+4513,Hordeum vulgare,subsp. vulgare cv. Four-arris,cv. Four-arris
+4513,Hordeum vulgare,subsp. vulgare cv. Golden Promise,cv. Golden Promise
+4513,Hordeum vulgare,subsp. vulgare cv. Jinchang 1316,cv. Jinchang 1316
+4513,Hordeum vulgare,subsp. vulgare cv. Kindred,cv. Kindred
+4513,Hordeum vulgare,subsp. vulgare cv. Lacey,cv. Lacey
+4513,Hordeum vulgare,subsp. vulgare cv. Nakaizumi,cv. Nakaizumi
+4513,Hordeum vulgare,subsp. vulgare cv. Nigrate,cv. Nigrate
+4513,Hordeum vulgare,subsp. vulgare cv. Odessa,cv. Odessa
+4513,Hordeum vulgare,subsp. vulgare cv. Plaisant,cv. Plaisant
+4513,Hordeum vulgare,subsp. vulgare cv. Sangrok,cv. Sangrok
+4513,Hordeum vulgare,subsp. vulgare cv. Tipple,cv. Tipple
+4513,Hordeum vulgare,subsp. vulgare cv. ZJ-8,cv. ZJ-8
 6945,Ixodes scapularis,C3H-HeJ,
 4236,Lactuca sativa,cv. Butter head,
 4236,Lactuca sativa,cv. Capitata,
@@ -264,34 +264,41 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 10036,Mesocricetus auratus,CHO-K1 cell line,
 10036,Mesocricetus auratus,Hines,
 10090,Mus musculus,(C57BL x CBA)F1,
+10090,Mus musculus,129S-Hfe<tm1.1Nca>/Auer,
+10090,Mus musculus,129S-Hjv<tm1Nca>/Auer,
 10090,Mus musculus,129S6/SvEvTac,"129/SvEvTac, 129S6, 129Sv/Tac"
-10090,Mus musculus,129x1/SvEv,
-10090,Mus musculus,129X1/SvJ,129/SvJ
+10090,Mus musculus,129S7/SvEvBrd-Hprt<+>,
+10090,Mus musculus,129X1(B6)-Camp<tm1Rlg>/Kini,
+10090,Mus musculus,129X1/SvJ,"129/SvJ
+"
 10090,Mus musculus,A/J,"A, AJ"
 10090,Mus musculus,A/JCr,
 10090,Mus musculus,A/JJmsSlc,A/JSlc
 10090,Mus musculus,A/JUnib,
 10090,Mus musculus,Atg5 flox/flox +vavCre,
 10090,Mus musculus,B6.Cg-Tg(Alb-PLG)1Dgi/J,
+10090,Mus musculus,B6;129S7-Dbh<tm1Rpa>/Rpa,
+10090,Mus musculus,B6;129X1-Mpeg1<tm1Pod>/Pod,
+10090,Mus musculus,B6;SJLJ-Tg(Alb-PLG)1Dgi/Uqah,
 10090,Mus musculus,BALB,
 10090,Mus musculus,BALB/c,
 10090,Mus musculus,BALB/c SCID,
 10090,Mus musculus,BALB/c.NU,C.NU
 10090,Mus musculus,BALB/cBy,
 10090,Mus musculus,BALB/cByJ,
+10090,Mus musculus,BALB/cByJSlac,
 10090,Mus musculus,BALB/cJ,
-10090,Mus musculus,C.B-17/IcrHsd-Prkdc^scid,
+10090,Mus musculus,C.B-17IcrHanHsdArc-Prkdc<scid>,
 10090,Mus musculus,C3H,"C3, C3Hf"
 10090,Mus musculus,C3H/HeJ,
 10090,Mus musculus,C3H/HeN,
-10090,Mus musculus,C3H/HeN (NRAMP1+),
 10090,Mus musculus,C3H/HeNHsd,
 10090,Mus musculus,C3H/HeOuJ,
 10090,Mus musculus,C3HeB/FeJ,
 10090,Mus musculus,C57BL/6,"B6, Black 6, C57BL/6-Mx1<s1>"
 10090,Mus musculus,C57BL/6 (NRAMP1-),
-10090,Mus musculus,C57BL/6 IL-10 -/-,
-10090,Mus musculus,C57BL/6 scid,"B6 scid, B6.CB17-Prkdc^scid/SzJ"
+10090,Mus musculus,C57BL/6 IL-10<-/->,
+10090,Mus musculus,C57BL/6 scid,"B6 scid, B6.CB17-Prkdc<scid/SzJ>"
 10090,Mus musculus,C57BL/6J,"B6, B6J, Black 6, C57 Black"
 10090,Mus musculus,C57BL/6JJcl,
 10090,Mus musculus,C57BL/6JOlaHsd,
@@ -299,7 +306,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 10090,Mus musculus,C57BL/6NCr,
 10090,Mus musculus,C57BL/6NHsd,
 10090,Mus musculus,C57BL/6NJ,"B6N, Black 6N, C57BL/6NCrJ"
-10090,Mus musculus,CBA/J,"CBA Jackson, CBA/J-Mx1^s2, CBA/J-Pde6b^rd1"
+10090,Mus musculus,CBA/J,"CBA Jackson, CBA/J-Mx1<s2>, CBA/J-Pde6b<rd1>"
 10090,Mus musculus,CBA/JCrHsd,
 10090,Mus musculus,CBySmn.CB17-Prkdcscid/J,"BALB scid, BALB/c scid"
 10090,Mus musculus,CD-1,
@@ -308,26 +315,24 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 10090,Mus musculus,CD46 transgenic,
 10090,Mus musculus,CEABAC10,
 10090,Mus musculus,"CF1, Crl:CF1",
-10090,Mus musculus,CRAMP<−/−>,
+10090,Mus musculus,Crl:CD-1(ICR),
 10090,Mus musculus,Crl:CFW,"Crl:CFW(SW), Swiss Webster"
+10090,Mus musculus,Crl:SKH1-Hr<hr>,
 10090,Mus musculus,DBA/2,D2
 10090,Mus musculus,Fox Chase SCID,
-10090,Mus musculus,"Friend Virus B NIH, FVB/N-Pde6b^rd1",
+10090,Mus musculus,"Friend Virus B NIH, FVB/N-Pde6b<rd1>",
 10090,Mus musculus,FVB/N,
 10090,Mus musculus,Gbp -/-,
 10090,Mus musculus,hCD46Ge,
-10090,Mus musculus,HfeC282Y/C282Y Hjv-/-,
 10090,Mus musculus,Hos:HR-1,
-10090,Mus musculus,humanized plasminogen,
+10090,Mus musculus,Hsd:ICR,
+10090,Mus musculus,Hsd:ND4,
 10090,Mus musculus,ICR,IcrTac:ICR
-10090,Mus musculus,ICR (Swiss),
-10090,Mus musculus,ICR/Harlan-Sprague,
-10090,Mus musculus,ICR;CD-1,
-10090,Mus musculus,IL-10<–/–>,
-10090,Mus musculus,IL-10<–/–> (C57BL/6J),
+10090,Mus musculus,IL-10<-/->,
+10090,Mus musculus,IL-10<-/-> (C57BL/6J),
 10090,Mus musculus,Immunocompetent SKH1-hrBR hairless,
 10090,Mus musculus,IRF-1 -/-,
-10090,Mus musculus,IRF-1<–/–>,
+10090,Mus musculus,IRF-1<-/->,
 10090,Mus musculus,J774 cell line,
 10090,Mus musculus,J774.2 cell line,
 10090,Mus musculus,J774A.1 cell line,
@@ -340,20 +345,16 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 10090,Mus musculus,MF1,
 10090,Mus musculus,MH-S cell line,
 10090,Mus musculus,MS-1 cell line,
-10090,Mus musculus,ND4 Swiss Webster,
 10090,Mus musculus,NIH Swiss,
 10090,Mus musculus,NMRI,
 10090,Mus musculus,NR-9456 cell line,
-10090,Mus musculus,NU/J,
 10090,Mus musculus,OF1,"OF-1, Oncins France 1"
 10090,Mus musculus,RAW 264.7 cell line,
 10090,Mus musculus,Rj:SWISS,RjOrl:SWISS
 10090,Mus musculus,SCID,
 10090,Mus musculus,SKH1,
-10090,Mus musculus,SKH1-hrBR,Crl:SKH1-hrBR
 10090,Mus musculus,Slc:ICR,
 10090,Mus musculus,SPF CD-1,Specific pathogen-free CD-1
-10090,Mus musculus,SPF Kunming,Specific pathogen-free Kunming
 10090,Mus musculus,Swiss,"SW, Swiss, Swiss-8, Swiss-8, Swiss-R, Swiss-R, SWR"
 10090,Mus musculus,Swiss albino,
 10090,Mus musculus,Swiss Webster,"Swiss-Webster, Tac:SW"
@@ -451,14 +452,14 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 4530,Oryza sativa,P2,
 4530,Oryza sativa,rayada group,
 4530,Oryza sativa,subsp. indica,
-4530,Oryza sativa,subsp. indica cv. IR24,
+4530,Oryza sativa,subsp. indica cv. IR24,cv. IR24
 4530,Oryza sativa,subsp. japonica,
-4530,Oryza sativa,subsp. japonica cv. Dongjin,
-4530,Oryza sativa,subsp. japonica cv. LTH,
-4530,Oryza sativa,subsp. japonica cv. Nipponbare,
-4530,Oryza sativa,"subsp. japonica, cv. Taipei 309",
-4530,Oryza sativa,subsp. Xian cv. IR24,
-4530,Oryza sativa,var. glutinosa cv. Blanco,
+4530,Oryza sativa,subsp. japonica cv. Dongjin,cv. Dongjin
+4530,Oryza sativa,subsp. japonica cv. LTH,cv. LTH
+4530,Oryza sativa,subsp. japonica cv. Nipponbare,cv. Nipponbare
+4530,Oryza sativa,subsp. japonica cv. Taipei 309,cv. Taipei 309
+4530,Oryza sativa,subsp. Xian cv. IR24,cv. IR24
+4530,Oryza sativa,var. glutinosa cv. Blanco,cv. Blanco
 9940,Ovis aries,Lacaune,
 4031,Pelargonium x hortorum,cv. Anthony,
 3435,Persea americana,cv. Fuerte,
@@ -496,10 +497,10 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 23211,Pyrus communis,cv. Huangguan,
 23211,Pyrus communis,cv. Nijisseiki,
 23211,Pyrus communis,cv. Passe,
-23211,Pyrus communis,cv. Pyrus bretsch neideri Rehd,
+23211,Pyrus communis,cv. Pyrus bretschneideri Rehd,
 3767,Pyrus pyrifolia,cv. Nijisseiki,
 3726,Raphanus sativus,var. longipinnatus (daikon),
-3726,Raphanus sativus,var. longipinnatus (daikon) cv. Manshenhong,
+3726,Raphanus sativus,var. longipinnatus (daikon) cv. Manshenhong,cv. Manshenhong
 10116,Rattus norvegicus,Wistar,
 10117,Rattus rattus,Sprague-Dawley,SD
 10117,Rattus rattus,Wistar,
@@ -668,18 +669,18 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 4566,Triticum aestivum x Triticum timopheevi,cv. Nandu,
 4566,Triticum aestivum x Triticum timopheevi,cv. Norm,
 4566,Triticum aestivum x Triticum timopheevi,cv. Zimai 2,
-4571,Triticum turgidum,subsp. durum cv. Alkabo,
-4571,Triticum turgidum,subsp. durum cv. Ben,
-4571,Triticum turgidum,subsp. durum cv. Carpio,
-4571,Triticum turgidum,subsp. durum cv. Dilse,
-4571,Triticum turgidum,subsp. durum cv. Divide,
-4571,Triticum turgidum,subsp. durum cv. Grenora,
-4571,Triticum turgidum,subsp. durum cv. Langdon,
-4571,Triticum turgidum,subsp. durum cv. Lebsock,
-4571,Triticum turgidum,subsp. durum cv. Mountrail,
-4571,Triticum turgidum,subsp. durum cv. Pierce,
-4571,Triticum turgidum,subsp. durum cv. Rusty,
-4571,Triticum turgidum,subsp. durum cv. Tioga,
+4571,Triticum turgidum,subsp. durum cv. Alkabo,cv. Alkabo
+4571,Triticum turgidum,subsp. durum cv. Ben,cv. Ben
+4571,Triticum turgidum,subsp. durum cv. Carpio,cv. Carpio
+4571,Triticum turgidum,subsp. durum cv. Dilse,cv. Dilse
+4571,Triticum turgidum,subsp. durum cv. Divide,cv. Divide
+4571,Triticum turgidum,subsp. durum cv. Grenora,cv. Grenora
+4571,Triticum turgidum,subsp. durum cv. Langdon,cv. Langdon
+4571,Triticum turgidum,subsp. durum cv. Lebsock,cv. Lebsock
+4571,Triticum turgidum,subsp. durum cv. Mountrail,cv. Mountrail
+4571,Triticum turgidum,subsp. durum cv. Pierce,cv. Pierce
+4571,Triticum turgidum,subsp. durum cv. Rusty,cv. Rusty
+4571,Triticum turgidum,subsp. durum cv. Tioga,cv. Tioga
 29760,Vitis vinifera,cv. Cabernet Sauvignon,
 29760,Vitis vinifera,cv. Carignane,
 29760,Vitis vinifera,cv. Chardonnay,
@@ -731,19 +732,19 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 4577,Zea mays,cv. W64A-T,
 4577,Zea mays,cv. W64ARpp9,
 4577,Zea mays,subsp. mays,
-4577,Zea mays,subsp. mays cv. A188,
-4577,Zea mays,subsp. mays cv. B73,
-4577,Zea mays,subsp. mays cv. Early Golden Bantam,
-4577,Zea mays,subsp. mays cv. Golden Bantam,
-4577,Zea mays,subsp. mays cv. Golden Jubilee,
-4577,Zea mays,subsp. mays cv. Huangzao 4,
-4577,Zea mays,subsp. mays cv. Jubilee,
-4577,Zea mays,subsp. mays cv. Nathan,
-4577,Zea mays,subsp. mays cv. Pa91,
-4577,Zea mays,subsp. mays cv. Pioneer 2375,
-4577,Zea mays,subsp. mays cv. Silver Queen,
-4577,Zea mays,subsp. mays cv. W23,
-4577,Zea mays,subsp. mays cv. W64A,
-4577,Zea mays,subsp. mays cv. W64A-N,
-4577,Zea mays,subsp. mays cv. W64A-T,
+4577,Zea mays,subsp. mays cv. A188,cv. A188
+4577,Zea mays,subsp. mays cv. B73,cv. B73
+4577,Zea mays,subsp. mays cv. Early Golden Bantam,cv. Early Golden Bantam
+4577,Zea mays,subsp. mays cv. Golden Bantam,cv. Golden Bantam
+4577,Zea mays,subsp. mays cv. Golden Jubilee,cv. Golden Jubilee
+4577,Zea mays,subsp. mays cv. Huangzao 4,cv. Huangzao 4
+4577,Zea mays,subsp. mays cv. Jubilee,cv. Jubilee
+4577,Zea mays,subsp. mays cv. Nathan,cv. Nathan
+4577,Zea mays,subsp. mays cv. Pa91,cv. Pa91
+4577,Zea mays,subsp. mays cv. Pioneer 2375,cv. Pioneer 2375
+4577,Zea mays,subsp. mays cv. Silver Queen,cv. Silver Queen
+4577,Zea mays,subsp. mays cv. W23,cv. W23
+4577,Zea mays,subsp. mays cv. W64A,cv. W64A
+4577,Zea mays,subsp. mays cv. W64A-N,cv. W64A-N
+4577,Zea mays,subsp. mays cv. W64A-T,cv. W64A-T
 4577,Zea mays,subsp. mexicana,
