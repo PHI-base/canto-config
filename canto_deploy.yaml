@@ -454,6 +454,7 @@ export:
     assigned_by: "PHI-base"
   
 instance_front_subtitle: Currently curating fungal, protist, and bacterial pathogens
+base_docs_path: phi_base_docs
 
 messages:
   gene_upload:
