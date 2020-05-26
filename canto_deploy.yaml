@@ -291,7 +291,7 @@ available_annotation_type_list:
       A host phenotype is any observable characteristic or trait of a host organism; observable characteristics include morphology, development, biochemical or physiological properties, behaviour, and products of behaviour of the organism. Phenotypes result from the expression of the genes of an organism as well as the influence of environmental factors and the interactions between the two.
     extra_help_text: >
       Alleles may be annotated with multiple phenotype terms, including both normal and abnormal phenotypes for one allele.
-    detailed_help_path: /docs/fypo_annotation
+    detailed_help_path: /docs/phipo_annotation
   - name: pathogen_phenotype
     category: ontology
     namespace: 'single_species_phenotype'
@@ -333,7 +333,7 @@ available_annotation_type_list:
       A pathogen phenotype is any observable characteristic or trait of a pathogen organism; observable characteristics include morphology, development, biochemical or physiological properties, behaviour, and products of behaviour of the organism. Phenotypes result from the expression of the genes of an organism as well as the influence of environmental factors and the interactions between the two.
     extra_help_text: >
       Alleles may be annotated with multiple phenotype terms, including both normal and abnormal phenotypes for one allele.
-    detailed_help_path: /docs/fypo_annotation
+    detailed_help_path: /docs/phipo_annotation
   - name: pathogen_host_interaction_phenotype
     category: ontology
     namespace: pathogen_host_interaction_phenotype
@@ -380,7 +380,7 @@ available_annotation_type_list:
       A pathogen-host interaction phenotype is any observable characteristic or trait of an interaction between a pathogen organism and a host organism; observable characteristics include morphology, development, biochemical or physiological properties, behaviour, and products of behaviour of the organisms. Pathogen-host interaction phenotypes result from the expression of the genes of any of these organisms, as well as the influence of environmental factors (or the interaction between genes and environmental factors).
     extra_help_text: >
       Alleles may be annotated with multiple phenotype terms, including both normal and abnormal phenotypes for one allele.
-    detailed_help_path: /docs/fypo_annotation
+    detailed_help_path: /docs/phipo_annotation
   - name: post_translational_modification
     category: ontology
     namespace: PSI-MOD
