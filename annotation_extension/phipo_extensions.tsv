@@ -3,6 +3,7 @@ PHIPO:0000001	is_a	causes_disease	PHIDO:0000001	disease caused	(help text)	*	use
 PHIPO:0000001	is_a	has_penetrance	FYPO_EXT:1000002|%	penetrance	proportion of the population that shows the phenotype (can be quantitative or qualitative)	0,1	user
 PHIPO:0000001	is_a	infective_ability	PHIPO:0000006|PHIPO:0000038	extent of infectivity	extent of change in pathogenicity and virulence	*	user
 PHIPO:0000001	is_a	infects_tissue	BTO:0000000	host tissue infected	(help text)	*	user
+PHIPO:0000002	is_a	observed_organ	BTO:0001489|BTO:0001494|BTO:0001461	observed in organ	the organ where the phenotype was observed	0,1	user
 PHIPO:0000131	is_a	assayed_using	GeneID	affected proteins (add TWO, i.e. both binding partners)		2	user
 PHIPO:0000132	is_a	assayed_using	GeneID	affected proteins (add TWO, i.e. both binding partners)		2	user
 PHIPO:0000237	is_a	assayed_using	GeneID	assayed protein		0,1	user
