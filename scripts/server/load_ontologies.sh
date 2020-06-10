@@ -9,7 +9,7 @@ cd /var/canto_space/
 --ontology https://raw.githubusercontent.com/PHI-base/phi-eco/master/phi-eco.obo \
 --ontology /canto/etc/ro.obo \
 --ontology http://purl.obolibrary.org/obo/phipo/phipo-simple.obo \
---ontology http://purl.obolibrary.org/obo/bto.obo \
+--ontology /import_export/bto_isa.obo \
 --ontology /import_export/phipo_extension_relations.obo \
 --ontology https://curation.pombase.org/dumps/latest_build/pombe-embl/mini-ontologies/has_qualifier_range.obo \
 --ontology https://curation.pombase.org/dumps/latest_build/pombe-embl/mini-ontologies/fypo_extension.obo \
