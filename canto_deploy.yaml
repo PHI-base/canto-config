@@ -438,12 +438,14 @@ ontology_namespace_config:
   subsets_to_ignore:
     primary_autocomplete:
       - "is_a(Grouping_terms)"
+      - "is_a(qc_extension_only)"
     primary_select:
       - "is_a(Grouping_terms)"
       - "is_a(qc_do_not_annotate)"
+      - "is_a(qc_extension_only)"
     extension:
       - "is_a(canto_root_subset)"
-      - "is_a(qc_no_extension)"
+      - "is_a(qc_do_not_annotate)"
   do_not_annotate_subsets:
     - "is_a(canto_root_subset)"
     - "is_a(qc_do_not_annotate)"
