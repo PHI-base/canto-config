@@ -168,6 +168,7 @@ available_annotation_type_list:
     display_name: 'GO molecular function'
     feature_type: 'gene'
     can_have_with: 1
+    allow_annotation_transfer: 1
     evidence_codes:
       - IDA
       - IGI
@@ -197,6 +198,7 @@ available_annotation_type_list:
     display_name: 'GO biological process'
     feature_type: 'gene'
     can_have_with: 1
+    allow_annotation_transfer: 1
     evidence_codes:
       - IMP
       - IDA
@@ -233,6 +235,7 @@ available_annotation_type_list:
     display_name: 'GO cellular component'
     feature_type: 'gene'
     can_have_with: 1
+    allow_annotation_transfer: 1
     evidence_codes:
       - IDA
       - IGI
@@ -265,6 +268,7 @@ available_annotation_type_list:
     feature_type: 'genotype'
     feature_subtype: 'host'
     can_have_conditions: 1
+    allow_annotation_transfer: 1
     evidence_codes:
       - Cell growth assay
       - Electrophysiology assay
@@ -303,6 +307,7 @@ available_annotation_type_list:
     feature_type: 'genotype'
     feature_subtype: 'pathogen'
     can_have_conditions: 1
+    allow_annotation_transfer: 1
     evidence_codes:
       - Asexual sporulation assay
       - Cell growth assay
@@ -385,6 +390,7 @@ available_annotation_type_list:
     namespace: PSI-MOD
     display_name: 'protein modification'
     feature_type: 'gene'
+    allow_annotation_transfer: 1
     broad_term_suggestions: "phosphorylated, methylated, lysine"
     specific_term_examples: "O-phospho-L-serine, monomethylated L-lysine"
     help_text: >
@@ -399,6 +405,7 @@ available_annotation_type_list:
     category: interaction
     display_name: 'physical interaction'
     feature_type: 'gene'
+    allow_annotation_transfer: 1
     second_feature_organism_selector: 1
     help_text: 'Examples: co-purification, two-hybrid, affinity capture'
     evidence_codes:
