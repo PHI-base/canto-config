@@ -405,6 +405,7 @@ available_annotation_type_list:
     category: interaction
     display_name: 'physical interaction'
     feature_type: 'gene'
+    allow_annotation_transfer: 1
     second_feature_organism_selector: 1
     help_text: 'Examples: co-purification, two-hybrid, affinity capture'
     evidence_codes:
