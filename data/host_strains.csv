@@ -1,712 +1,816 @@
-NcbiTaxSpeciesId,CommonName,StrainCultivar
-4513,barley,subsp. vulgare (related: domesticated barley)
-4513,barley,subsp. vulgare Golden Promise (related: domesticated barley)
-4513,barley,subsp. vulgare Plaisant (related: domesticated barley)
-4513,barley,subsp. vulgare E9 (related: domesticated barley)
-4513,barley,subsp. vulgare Express (related: domesticated barley)
-4513,barley,subsp. vulgare ZJ-8 (related: domesticated barley)
-4513,barley,subsp. vulgare Golden Promise;Kindred (related: domesticated barley)
-4513,barley,subsp. vulgare Jinchang 1316 (related: domesticated barley)
-4513,barley,subsp. vulgare four-arris (related: domesticated barley)
-4513,barley,subsp. vulgare Nakaizumi (related: domesticated barley)
-4513,barley,subsp. vulgare Nigrate (related: domesticated barley)
-4513,barley,subsp. vulgare Lacey (related: domesticated barley)
-4513,barley,subsp. vulgare Bowman (related: domesticated barley)
-4513,barley,subsp. vulgare Tipple (related: domesticated barley)
-4513,barley,subsp. vulgare Golden Promise (related: domesticate
-4513,barley,subsp. vulgare Odessa (related: domesticated barley)
-4513,barley,subsp. vulgare SangRok (related: domesticated barley)
-4513,barley,Ingrid
-4513,barley,Atlas
-4513,barley,Atlas 46
-4513,barley,Turk
-4513,barley,Golden promise
-4513,barley,E9
-4513,barley,Jinchang 1316
-4513,barley,Nigrate
-4513,barley,Barke
-4513,barley,ZJ-8
-4513,barley,Express
-4513,barley,Bowman
-4513,barley,Golden Promise
-4513,barley,CDC Silky
-4513,barley,Four-arris
-4513,barley,GP
-4498,oats,Porter
-4550,rye,Common winter rye
-4550,rye,Lo37-PxLo55-N
-4577,maize,Golden Bantam
-4577,maize,Pioneer hybrid 33D47
-4577,maize,Pioneer 2375
-4577,maize,Early Golden Bantam
-4577,maize,Nathan
-4577,maize,Early Golden Bantam (Olds Seeds)
-4577,maize,Cacahuazintle
-4577,maize,W64A-N
-4577,maize,W64A-T
-4577,maize,B73
-4577,maize,Truckers Favorite
-4577,maize,Jubilee
-4577,maize,Seneca Horizon
-4577,maize,cacahuazintle
-4577,maize,subsp. mays (related: maize)
-4577,maize,subsp. mays Golden Bantam (related: maize)
-4577,maize,subsp. mays W64A-N (related: maize)
-4577,maize,subsp. mays W64A-T (related: maize)
-4577,maize,subsp. mays Pa91 (related: maize)
-4577,maize,subsp. mays W64A (related: maize)
-4577,maize,subsp. mays Silver Queen (related: maize)
-4577,maize,subsp. mays B73 (related: maize)
-4577,maize,subsp. mays Nathan (related: maize)
-4577,maize,subsp. mays Early Golden Bantam (related: maize)
-4577,maize,subsp. mays Pioneer 2375 (related: maize)
-4577,maize,subsp. mays A188 (related: maize)
-4577,maize,subsp. mays Huangzao-4 (related: maize)
-4577,maize,subsp. mays Golden Jubilee (related: maize)
-4577,maize,subsp. mays Jubilee (related: maize)
-4577,maize,subsp. mays W23 (related: maize)
-4577,maize,subsp. mexicana (related: teosinte)
-4577,maize,W64A
-4577,maize,Creek White
-4577,maize,SD43
-4577,maize,GS73CO
-4577,maize,W570
-4577,maize,SD44
-4577,maize,SD45
-4577,maize,FS8A
-4577,maize,ND301
-4577,maize,ND253
-4577,maize,ND101
-4577,maize,ND257
-4577,maize,Pa760
-4577,maize,NYRD4058
-4577,maize,SD40
-4577,maize,B75
-4577,maize,GEMS-0009
-4577,maize,P737M20
-4577,maize,W64ARpp9
-4577,maize,R225
-4577,maize,H116
-4577,maize,FS8B
-4577,maize,CML9
-4577,maize,CML247
-4577,maize,CML264
-4577,maize,CML277
-4577,maize,CML52
-4577,maize,ML287
-4577,maize,G80
-4577,maize,Silver Queen
-4577,maize,Mikado
-4577,maize,Huangzao4
-4577,maize,subsp. Mays
-3702,thale cress,Landsberg erecta
-3702,thale cress,RIL 3680
-3702,thale cress,CW84
-3702,thale cress,Col-0
-3702,thale cress,Columbia (Col-0)
-3702,thale cress,PG201
-3702,thale cress,Pad3
-3702,thale cress,Pad2
-3702,thale cress,Columbia-0
-3702,thale cress,Nd-0
-3702,thale cress,Ws-0
-3702,thale cress,Col-5
-3702,thale cress,Landsberg
-3702,thale cress,No-0
-3702,thale cress,Columbia
-3702,thale cress,Colombia
-3702,thale cress,Wei-0
-3702,thale cress,N70000
-3702,thale cress,Nd-1
-4565,bread wheat,Bobwhite
-4565,bread wheat,Zimai1
-4565,bread wheat,Norm
-4565,bread wheat,Eunpamil
-4565,bread wheat,Jimai22
-4565,bread wheat,XiaoYan 22
-4565,bread wheat,W-7984
-4565,bread wheat,Xiaoyan22
-4565,bread wheat,Riband
-4565,bread wheat,Calingiri
-4565,bread wheat,Suwon 11
-4565,bread wheat,Chinese Spring
-4565,bread wheat,Jimai 22
-4565,bread wheat,Kennedy
-4565,bread wheat,Nandu
-4565,bread wheat,Amaretto
-4565,bread wheat,Bainong 979
-4565,bread wheat,Mingxian 169
-4565,bread wheat,Erik
-4565,bread wheat,6B662
-4565,bread wheat,Grandin
-4565,bread wheat,Kadrilj
-4565,bread wheat,Zhenmai 5
-4565,bread wheat,McNair 701
-4565,bread wheat,Yangmai no. 49
-4565,bread wheat,Sumai3
-4565,bread wheat,Annong8455
-4565,bread wheat,no dat
-4565,bread wheat,Avalon
-4565,bread wheat,Su11
-4565,bread wheat,Galaxie
-4565,bread wheat,Jimai 33
-4565,bread wheat,Jimai 19
-4565,bread wheat,Huamai13
-4565,bread wheat,BG220
-4565,bread wheat,Obelisk
-4565,bread wheat,Zhenmai
-4565,bread wheat,Wheaton
-4565,bread wheat,Annong 8455
-4565,bread wheat,Emu Rock
-4565,bread wheat,Iride
-4565,bread wheat,Xiaoyang 22
-3885,string bean,cv. Hiltrud
-3885,string bean,Caruso
-3885,string bean,Blanca Rino´n
-3885,string bean,N90598
-3885,string bean,Contender
-3885,string bean,90598
-3885,string bean,Great Northern Tara
-3885,string bean,Blue Lake 274
-3885,string bean,Bush Blue Lake 47
-3885,string bean,Blanca
-3885,string bean,old Blue Lake 274
-3885,string bean,N9059
-4081,tomato,cv. Paradiser
-4081,tomato,cv. Moneymaker
-4081,tomato,Monika
-4081,tomato,Daniela
-4081,tomato,Moneymaker
-4081,tomato,C32
-4081,tomato,Race 1
-4081,tomato,MoneyMaker- Cf-0
-4081,tomato,Bonny Best
-4081,tomato,Vemar
-4081,tomato,H7998
-4081,tomato,90E341F (I-2 )
-4081,tomato,Moneymaker C32
-4081,tomato,1402
-4081,tomato,Kwangsoo
-4081,tomato,Shanghai 903
-4081,tomato,Moneymaker ss590
-4081,tomato,Money maker
-4081,tomato,UC82b
-4081,tomato,Encore
-4081,tomato,Rio Grande 76S
-4081,tomato,Rio Grande
-4081,tomato,VF36
-4081,tomato,Bonnie Best
-4081,tomato,Corbarino
-4081,tomato,Kwang-bok
-4081,tomato,money maker
-4081,tomato,Hawaii 7998
-4081,tomato,Hawaii 7996
-4081,tomato,money maker Cf-0
-4081,tomato,Marmande VR
-4081,tomato,Maofen-802
-4081,tomato,Hawaii7996
-4081,tomato,Glamour
-4081,tomato,Castlemart
-4081,tomato,Avigail
-4081,tomato,Money Maker
-4081,tomato,Sonatine
-4081,tomato,GCR161
-4081,tomato,Potentate
-4081,tomato,Vetomold
-4081,tomato,Purdue 135
-4081,tomato,Ontario 7818
-4081,tomato,Ontario 7716
-4081,tomato,moneymaker
-4081,tomato,Msk8 cell line
-4081,tomato,Ailsa Craig
-4081,tomato,Rome
-4081,tomato,ponderosa
-4081,tomato,LA3940
-4081,tomato,Platense
-4081,tomato,Super Marmande
-4081,tomato,Motelle
-4081,tomato,Marmande
-4081,tomato,Craigella
-3712,wild cabbage,var. capitata (related: cabbage)
-3712,wild cabbage,var. capitata Jonny’s (related: cabbage)
-3712,wild cabbage,Bartolo
-3712,wild cabbage,var. botrytis (related: cauliflower)
-3712,wild cabbage,var. italica (related: sprouting broccoli)
-3712,wild cabbage,Jingfeng No. 1
-39291,,(synonym: Sclerotium rolfsii)
-3654,wild melon,subsp. Vulgaris (related: watermelon)
-4265,wild artichoke,var. scolymus (related: globe artichoke)
-4530,rice,CO-39
-4530,rice,Nipponbare
-4530,rice,Aichi-asahi
-4530,rice,CO39
-4530,rice,Lijiangxintuanheigu
-4530,rice,Nakdongbyoe
-4530,rice,data not found
-4530,rice,51583
-4530,rice,NIL127
-4530,rice,Sariceltik
-4530,rice,Golden Promise
-4530,rice,Nakdongbyeo
-4530,rice,LTH
-4530,rice,Yashiro-mochi
-4530,rice,YT16
-4530,rice,P2
-4530,rice,Nackdongbyeo
-4530,rice,Shin No. 2
-4530,rice,Sasanishiki
-4530,rice,Hitomebore
-4530,rice,Kakehashi
-4530,rice,Kanto51
-4530,rice,Tsuyuake
-4530,rice,K60
-4530,rice,Nipponbare (subsp. japonica)
-4530,rice,Maratelli
-4530,rice,Nakdong
-4530,rice,Milyang 23
-4530,rice,Hopyung
-4530,rice,Nihonbare
-4530,rice,Trenasse
-4530,rice,Taichung Native
-4530,rice,Baldo
-4530,rice,Teyou 63
-4530,rice,Azucena
-4530,rice,Tainung 67
-4530,rice,Dom-sufid
-4530,rice,M202
-4530,rice,Moroberecan
-4530,rice,Cypress
-4530,rice,Kitaake
-4530,rice,Sadu-cho
-4530,rice,Minghui 63
-4530,rice,SHZ2
-4530,rice,IR64-21
-4530,rice,Swarna
-4530,rice,Pokkali
-4530,rice,Aswina
-4530,rice,Zhenshan 97B
-4530,rice,N 22
-4530,rice,Dular
-4530,rice,Rayada
-4530,rice,FR13 A
-4530,rice,Japonica
-4530,rice,Indica
-4530,rice,Kanto 51
-4530,rice,Moukoto
-4530,rice,Sasanishiki BL6
-4530,rice,Katy
-4530,rice,Drew
-4530,rice,IR24
-4530,rice,Shanyou63
-4530,rice,Shin-2
-4530,rice,M-202
-4530,rice,Lian-gyoupeijiu
-4530,rice,Jijing88
-4530,rice,Taichung Native-1
-4530,rice,IR31917
-4530,rice,Sariceltic
-4530,rice,TN-1
-4530,rice,Shanyou 63
-4530,rice,Bengal
-4530,rice,Jinhe 2
-4530,rice,Jingang 30
-4530,rice,Shanyou-63
-4530,rice,TP309
-4530,rice,Seraceltik
-4530,rice,PB1
-4530,rice,M201
-4530,rice,Jinheung
-4530,rice,japonica
-4530,rice,MH63
-4530,rice,Kitaake (resistant)
-4530,rice,Kanto51 (susceptible)
-4530,rice,Zhonghua 11
-4530,rice,HR-12
-4530,rice,Hwayeongbye (resistant cultivar)
-4530,rice,Nipponbare (susceptible cultivar)
-4530,rice,Koshihikari
-4530,rice,L. subsp. Indica IR24
-4530,rice,sp. Japonica cultivar Taipei 309
-4530,rice,subsp. Indica IR24
-4679,onion,data not found
-4679,onion,Texas Grando
-4679,onion,Napoleon
-4679,onion,Texas Grano
-4082,Peruvian tomato,Monica
-3708,rape,Darmor
-3708,rape,Eurol
-3708,rape,Z1
-3708,rape,Westar
-3708,rape,Columbus
-3708,rape,DH-Topas
-3708,rape,Zhongshuang 9
-3750,apple,Golden Delicious
-3750,apple,granny smith
-3750,apple,Holsteiner Cox
-3750,apple,Idared
-3750,apple,Rootstock Malus MM106
-3750,apple,Gala on rootstock MM 106
-3750,apple,Gala
-3750,apple,Fuji
-3750,apple,Braeburn
-3750,apple,Gold
-3750,apple,Golden delicious
-3750,apple,MM 106
-3750,apple,Pink Lady
-3750,apple,Ariane
-3750,apple,Granny Smith
-3750,apple,Reinette grise du Canada
-3750,apple,Marie Ménard
-3750,apple,Saireline
-3750,apple,Bedan
-3750,apple,Fréquin Rouge
-3750,apple,Avrolles
-3750,apple,Petit Jaune
-3750,apple,Gold delicious
-4097,common tobacco,Havana
-4097,common tobacco,K326
-4097,common tobacco,Burley 21
-4097,common tobacco,Petit Havana -SR1
-4097,common tobacco,SNN
-4097,common tobacco,Xanthi
-4097,common tobacco,Honghuadajinyuan
-4097,common tobacco,Samsun
-4097,common tobacco,H2B-RFP
-4097,common tobacco,NC89
-4097,common tobacco,Petit Havana
-4097,common tobacco,Samsun NN
-4097,common tobacco,SR1
-4097,common tobacco,Petite Havana SR1
-4097,common tobacco,RP-1
-10090,house mouse,CD-1
-10090,house mouse,CF-1
-10090,house mouse,BALB/c
-10090,house mouse,Balb/C mice
-10090,house mouse,Swiss
-10090,house mouse,CD1
-10090,house mouse,Leucopenic and non-leucopenic mouse models
-10090,house mouse,Immunocompromised murine model for systemic infection using CD-1 male mice
-10090,house mouse,BALB/c mice
-10090,house mouse,Swiss white mice
-10090,house mouse,SWISS CD-1
-10090,house mouse,ICR
-10090,house mouse,Swiss white
-10090,house mouse,A/J
-10090,house mouse,C57BL/6
-10090,house mouse,B6
-10090,house mouse,C3H/HeN
-10090,house mouse,C57BL/6JJcl
-10090,house mouse,C3H
-10090,house mouse,C57-BL/6
-10090,house mouse,BALB
-10090,house mouse,BALB/cJ
-10090,house mouse,SCID
-10090,house mouse,scid
-10090,house mouse,C57BL6
-10090,house mouse,BALB/cBy
-10090,house mouse,A/JUnib
-10090,house mouse,C57Bl/6
-10090,house mouse,KI E16P
-10090,house mouse,FVB/N CEABAC10
-10090,house mouse,ICR/CD-1
-10090,house mouse,ICR/Harlan-Sprague
-10090,house mouse,A/Jcr
-10090,house mouse,C57BL/6JOlaHsd
-10090,house mouse,MF1
-10090,house mouse,Hos:HR-1
-10090,house mouse,Gbp -/-
-10090,house mouse,CBA/ J
-10090,house mouse,BALBc/j
-10090,house mouse,BALBc/
-10090,house mouse,Swiss Webster
-10090,house mouse,FVB/N
-10090,house mouse,129S6/SvEvTac
-10090,house mouse,C57/BL6
-10090,house mouse,C57BL/6J
-10090,house mouse,Balb/c
-10090,house mouse,IRF-1 -/-
-10090,house mouse,C57 BL/6
-10090,house mouse,NIH-Swiss
-10090,house mouse,ND4 1180 Swiss Webster
-10090,house mouse,C57BL/6N.HSD
-10090,house mouse,C57BL/6 mice
-10090,house mouse,Slc:ICR
-10090,house mouse,C3H/HeJ
-10090,house mouse,DBA/2
-10090,house mouse,IRF-1/ -
-10090,house mouse,CBA/J
-10090,house mouse,C3H/heJ
-10090,house mouse,B6.Cg-Tg(Alb-PLG)1Dgi/J
-10090,house mouse,C3h/HeJ
-10090,house mouse,TIGR4
-10090,house mouse,129SvJ
-10090,house mouse,CD46 transgenic mice
-10090,house mouse,C57BL /6 IL- 10 − /−
-10090,house mouse,SPF-CD1
-10090,house mouse,FVB/n
-10090,house mouse,C57Bl6
-10090,house mouse,C57BL/ 6J
-10090,house mouse,AJCR
-10090,house mouse,OF-1
-10090,house mouse,Brown-Norway rats
-10090,house mouse,U937
-10090,house mouse,Swiss albino
-10090,house mouse,CD-1 Swiss
-10090,house mouse,Swiss white Hla (ICR)CVF
-10090,house mouse,immuno compromised mice
-10090,house mouse,humanized plasminogen mice
-10090,house mouse,J774.2 cells
-10090,house mouse,NMRI
-10090,house mouse,J774 A.1 cell line
-10090,house mouse,IL-10-/-
-10090,house mouse,RAW 264.7
-10090,house mouse,C3H-HeJ
-10090,house mouse,C57BL/6N
-10090,house mouse,swiss
-10090,house mouse,C57BL/6NCr
-10090,house mouse,BALB/c/SCID
-10090,house mouse,TLR2 and TLR4 deficient C57BL/6
-10090,house mouse,C57Bl6/J
-10090,house mouse,Swiss webster
-10090,house mouse,Swiss Albino
-10090,house mouse,BALB/c athymic nude mice
-10090,house mouse,SPF CD-1
-10090,house mouse,A/JCr
-10090,house mouse,C57BL/6JolaHsd
-10090,house mouse,C57BL6/J
-10090,house mouse,129x1/SvEv
-10090,house mouse,C.B-17/IcrHsd-Prkdcscid (SCID)
-10090,house mouse,C57/BL6NHsd (B6)
-10090,house mouse,BALB/c-ByJ
-10090,house mouse,ND4 Swiss-Webster
-10090,house mouse,BALB/C
-10090,house mouse,CD1 (Swiss)
-10090,house mouse,HfeC282Y/C282Y Hjv−/−
-10090,house mouse,Transgenic humanized plasminogen (AlbPLG1 +/−) mice
-10090,house mouse,J774 cells
-10090,house mouse,BALBc/By/J
-10090,house mouse,C3H/HeNHsd
-10090,house mouse,Immunocompetent SKH1-hrBR hairless
-10090,house mouse,C57BL/6 129X1/SvJ
-10090,house mouse,J774A.1
-10090,house mouse,Balb/cJ
-10090,house mouse,SPF Kun-Ming
-10090,house mouse,129X1/SvJ
-10090,house mouse,LACA (Swiss Webster)
-10090,house mouse,hCD46Ge transgenic? line
-10090,house mouse,CRAMP-/-
-10090,house mouse,BALB/cByJ
-10090,house mouse,CD1 Swiss
-10090,house mouse,C3H/HEN
-10090,house mouse,C3H/HeOuJ?
-10090,house mouse,BALB/c-nu
-10090,house mouse,RAW 264.7 cells
-10090,house mouse,SKH1
-10090,house mouse,SKH1-hrBR
-10090,house mouse,C57BL/6 SCID
-10090,house mouse,Swiss ICR
-10090,house mouse,C57BL/6j
-10090,house mouse,C3H/HeOuJ
-10090,house mouse,A/JJmsSlc
-10090,house mouse,Oncins France (OF) 1
-10090,house mouse,MH-S cell line
-10090,house mouse,C3HeB/FeJ
-10090,house mouse,Crl:CFW(SW)BR
-4111,eggplant,Black beauty
-4111,eggplant,Dingras Multiple Purple
-4111,eggplant,SM6
-4111,eggplant,Ceylan
-4111,eggplant,Surya
-4111,eggplant,AG91-25
-4113,potato,Hopyung
-4113,potato,Daeji
-4113,potato,Maris Piper
-4113,potato,Chippewa
-4113,potato,Ants
-4113,potato,Russet Norkotah
-4113,potato,Ranger Russet
-4113,potato,Van Gogh
-4113,potato,Desiree
-4113,potato,Kennebec
-4113,potato,HP10-45
-4113,potato,Cebeco44-31-5
-4113,potato,valor
-4113,potato,Bintje
-4113,potato,Impala
-4113,potato,Yukon Gold
-4072,,Kexing 3
-4072,,Nockwang
-4072,,Nokkwang
-4072,,ECW
-4072,,ECW-10R
-4072,,ECW–20R
-4072,,Early Cal Wonder
-4072,,6221
-4072,,PM687
-4072,,CA8
-4072,,PM659
-29760,wine grape,Chardonnay
-29760,wine grape,Thompson Seedless
-29760,wine grape,Cabernet Sauvignon
-29760,wine grape,Thompson
-29760,wine grape,Carignane
-29760,wine grape,Thompson seedless
-3760,peach,var. nucipersica nectarina (related: nectarine)
-3760,peach,TianTao
-3760,peach,Tian Tao
-3656,muskmelon,Ein Dor
-3656,muskmelon,Amus
-3656,muskmelon,Cha-T
-23211,pear,Bartlett
-23211,pear,Nijisseiki
-23211,pear,Bosc
-23211,pear,Passe
-23211,pear,Huangguan
-23211,pear,Cuiguan
-23211,pear,Devoe
-23211,pear,Conférence
-6239,roundworm,N2 Bristol
-6239,roundworm,N2
-6239,roundworm,DH26
-6239,roundworm,glp-4
-6239,roundworm,CF512
-6239,roundworm,L4
-4045,,dulce group (related: stalk celery)
-3726,radish,var. niger (related: chinese radish)
-7227,fruit fly,Toll mutant flies
-7227,fruit fly,Oregon R
-7955,zebrafish,AB line
-7955,zebrafish,AB
-7955,zebrafish,Tübingen
-2708,lemon,Eureka
-2708,lemon,Tahiti
-3659,cucumber,Suyo
-3659,cucumber,9930
-2711,sweet orange,Valencia
-2711,sweet orange,Navelina
-2711,sweet orange,valencia
-2711,sweet orange,Eureka
-2711,sweet orange,Hamlin
-2711,sweet orange,Pera
-2711,sweet orange,Sorocaba
-2711,sweet orange,Natal
-2711,sweet orange,Pineapple
-3435,avocado,Fuerte
-3983,cassava,HMC-1
-3847,soybean,Williams
-3847,soybean,Harosoy
-3847,soybean,Haro16
-3847,soybean,Hefeng 47
-3847,soybean,Peking
-3847,soybean,Norchief
-3847,soybean,Flambeau
-3847,soybean,Harosoy Rpg1-b
-3847,soybean,Merit Rpg1-b
-3847,soybean,Norchief Rpg1-b
-3847,soybean,Flambeau Rpg3 Rpg4
-3847,soybean,Merit rpg4
-3847,soybean,Merit rpg3
-3847,soybean,Williams 82
-3847,soybean,Wlliams
-3847,soybean,Demetra
-3847,soybean,Hefeng47
-3847,soybean,Essex
-4146,common olive,Arbequina
-3888,pea,Guido
-3661,winter squash,Crown
-3661,winter squash,Delica
-3661,winter squash,Triamble
-4100,,NC-95
-4100,,H2B-RFP
-7004,migratory locust,subsp. manilensis (related: oriental migratory locust)
-8839,mallard,Cherry Valley
-3635,cotton,Paymaster 2326 BG/RR; Deltapine-50
-3635,cotton,Junmian-1
-3635,cotton,Jimian11
-3635,cotton,Jimian 11
-3635,cotton,Junmian 1
-3635,cotton,Paymaster 2326 BG/RR
-3635,cotton,Deltapine-50
-43335,xin bai yang,Marte
-4236,garden lettuce,Romaine
-4236,garden lettuce,var. longifolia romaine hearts
-9606,human,U937
-9606,human,16HBE14o and CFBE41o cells
-9606,human,acute monocytic leukemia cell line
-9606,human,Hep-2 cells
-9606,human,hela cells
-9606,human,Hela cells
-9606,human,A549
-9606,human,MRC-5 cell line
-9606,human,Cells
-9606,human,CFBE41o
-9606,human,Caco-2
-9606,human,HEp-2 cells
-9606,human,AGS cell line
-9606,human,HeLa cells
-9606,human,THP-1
-9606,human,LS174T
-9606,human,Henle-407
-9606,human,Hep-2
-9606,human,TR146
-9606,human,A549 cells
-9606,human,GES-1 cells
-9606,human,THP-1 cells
-9606,human,Caco2 cells
-9606,human,Henle cells
-9606,human,polymorphonuclear leukocytes
-9606,human,HEK293 cells
-9606,human,IB3-1 cell line
-9606,human,INT-407 cells
-9606,human,MKN-28 cells
-9606,human,MKN28
-32224,loquat,Tanaka
-3827,chickpea,Spanish White
-3827,chickpea,Dwelley
-3827,chickpea,P-256
-10141,domestic guinea pig,Duncan Hartley
-10141,domestic guinea pig,Hartley
-9823,pig,Mini-Lewe
-9823,pig,SPF
-44689,,Ax2
-44689,,Ax4
-44689,,DH1-10
-44689,,AX4
-3879,lucerne,57Q77
-9534,grivet,CCL-81; THP-1
-9031,chicken,weiße Leghorn
-9031,chicken,Cobb
-9031,chicken,White Leghorn
-9031,chicken,Ross 308
-9031,chicken,White Leghorns
-3711,field mustard,subsp. pekinensis (related: chinese cabbage)
-3711,field mustard,subsp. chinensis (related: bok-choy)
-3711,field mustard,subsp. pekinensis (related: chinese cabbage) Zhong Gan 21
-15368,stiff brome,Bd21
-4547,sugarcane,CP68-1026
-9986,rabbit,New Zealand White
-9986,rabbit,New zealand
-9986,rabbit,New zealand white
-10116,Norway rat,Wistar
-10116,Norway rat,Brown Norway
-3767,sha li,var. culta Nijisseik (related: yama-nashi)
-9940,sheep,Lacaune
-9913,cattle,Holstein
-9913,cattle,Holstein Friesian
-10036,golden hamster,Syrian
-10036,golden hamster,Syrian golden
-4641,dwarf banana,cavendish
-9796,horse,EO cell line
-267246,tea rose,Flaming Peace
-3864,lentil,Eston
-3880,barrel medic,A17
-6945,black-legged tick,C3H-HeJ
-3758,plum,Santa Rosa
-10117,black rat,Sprague-Dawley
-10117,black rat,Wistar
-10117,black rat,SD
-3818,peanut,NC94022
-63479,common oleander,Cesena Italy
-9310,long-nosed potoroo,PtK2 cells
-94108,,Black magic
-5757,,Linc Ap-1
+NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
+5755,Acanthamoeba castellanii,ATCC 30010,
+5755,Acanthamoeba castellanii,ATCC 30234,
+5757,Acanthamoeba polyphaga,Linc Ap-1,
+4679,Allium cepa,cv. Hendrix,
+4679,Allium cepa,cv. Napoleon,
+4679,Allium cepa,cv. Texas Grando,
+4679,Allium cepa,cv. Texas Grano,
+8839,Anas platyrhynchos,Cherry Valley,
+8839,Anas platyrhynchos,embryo fibroblast cells,
+8839,Anas platyrhynchos,HBK-Q-SPF,
+4045,Apium graveolens,dulce group,
+3702,Arabidopsis thaliana,ecotype Col-0,Col-0
+3702,Arabidopsis thaliana,ecotype Col-5,Col-5
+3702,Arabidopsis thaliana,ecotype Columbia,Columbia
+3702,Arabidopsis thaliana,ecotype CW84,CW84
+3702,Arabidopsis thaliana,ecotype Landsberg,Landsberg
+3702,Arabidopsis thaliana,ecotype Landsberg erecta,"Landsberg erecta, Ler-0"
+3702,Arabidopsis thaliana,ecotype N70000,N70000
+3702,Arabidopsis thaliana,ecotype Nd-0,Nd-0
+3702,Arabidopsis thaliana,ecotype Nd-1,Nd-1
+3702,Arabidopsis thaliana,ecotype No-0,No-0
+3702,Arabidopsis thaliana,ecotype Wassilewskija,Ws
+3702,Arabidopsis thaliana,ecotype Wei-0,Wei-0
+3702,Arabidopsis thaliana,ecotype Ws-0,Ws-0
+3702,Arabidopsis thaliana,Pad2,
+3702,Arabidopsis thaliana,Pad3,
+3702,Arabidopsis thaliana,PG201,
+3702,Arabidopsis thaliana,RIL 3680,
+3818,Arachis hypogaea,cv. NC94022,
+6661,Artemia franciscana,San Francisco Bay Brand ASF65031,ASF65031
+4498,Avena sativa,cv. Porter,
+9913,Bos taurus,Angus cross,
+9913,Bos taurus,Holstein Friesian,Holstein
+9913,Bos taurus,MAC-T cell line,MAC-T
+15368,Brachypodium distachyon,cv. Bd21,
+3708,Brassica napus,cv. Columbus,
+3708,Brassica napus,cv. Darmor,
+3708,Brassica napus,cv. DH Topas,
+3708,Brassica napus,cv. Eurol,
+3708,Brassica napus,cv. Westar,
+3708,Brassica napus,cv. Zhongshuang 10,
+3708,Brassica napus,cv. Zhongshuang 9,
+3708,Brassica napus,cv. Zhongyou 821,
+3708,Brassica napus,Z1 line,
+3712,Brassica oleracea,cv. Bartolo,
+3712,Brassica oleracea,cv. Capitata,
+3712,Brassica oleracea,cv. Jingfeng No. 1,
+3712,Brassica oleracea,var. botrytis (cauliflower),
+3712,Brassica oleracea,var. capitata (cabbage),
+3712,Brassica oleracea,var. italica (sprouting broccoli),
+3711,Brassica rapa,subsp. pekinensis (chinese cabbage),
+3711,Brassica rapa,subsp. pekinensis (chinese cabbage) cv. Zhong Gan 21,cv. Zhong Gan 21
+3711,Brassica rapa,supsp. chinesis (bok-choy),
+6239,Caenorhabditis elegans,BW54,
+6239,Caenorhabditis elegans,CF512,
+6239,Caenorhabditis elegans,DH26,
+6239,Caenorhabditis elegans,glp-4,
+6239,Caenorhabditis elegans,L4,
+6239,Caenorhabditis elegans,N2,
+6239,Caenorhabditis elegans,var. Bristol strain N2,N2
+9612,Canis lupus,subsp. familiaris MDCK cell line,MDCK cell line
+4072,Capsicum annuum,6221,
+4072,Capsicum annuum,cv. CA8,
+4072,Capsicum annuum,cv. Early Calwonder,"cv. ECW, cv. Early Cal Wonder"
+4072,Capsicum annuum,cv. Early Calwonder 10R,cv. ECW-10R
+4072,Capsicum annuum,cv. Early Calwonder 20R,cv. ECW-20R
+4072,Capsicum annuum,cv. Early Calwonder 30R,cv. ECW-30R
+4072,Capsicum annuum,cv. Hanyu,
+4072,Capsicum annuum,cv. Kexing 3,
+4072,Capsicum annuum,cv. Maor,
+4072,Capsicum annuum,cv. Nockwang,
+4072,Capsicum annuum,cv. PM659,
+4072,Capsicum annuum,cv. PM687,
+10141,Cavia porcellus,Duncan-Hartley,
+10141,Cavia porcellus,Hartley,
+9534,Chlorocebus aethiops,CCL-81,
+9534,Chlorocebus aethiops,COS7 cells,
+9534,Chlorocebus aethiops,THP-1,
+9534,Chlorocebus aethiops,Vero cells,
+3827,Cicer arietinum,cv. Dwelley,
+3827,Cicer arietinum,cv. P-256,
+3827,Cicer arietinum,cv. Spanish White,
+3654,Citrullus lanatus,subsp. vulgaris,
+2708,Citrus limon,cv. Eureka,
+2708,Citrus limon,cv. Genova,
+2708,Citrus limon,cv. Tahiti,
+85571,Citrus reticulata,cv. Blanco,
+85571,Citrus reticulata,cv. Orah,
+85571,Citrus reticulata,cv. Ponkan,
+85571,Citrus reticulata,cv. Xinhuigan,
+85571,Citrus reticulata,Hongjv,
+2711,Citrus sinensis,cv. Clemenules,
+2711,Citrus sinensis,cv. Eureka,
+2711,Citrus sinensis,cv. Hamlin,
+2711,Citrus sinensis,cv. Lane late,
+2711,Citrus sinensis,cv. Natal,
+2711,Citrus sinensis,cv. Navelate,
+2711,Citrus sinensis,cv. Navelina,
+2711,Citrus sinensis,cv. Pera,
+2711,Citrus sinensis,cv. Pera Rio,
+2711,Citrus sinensis,cv. Pineapple,
+2711,Citrus sinensis,cv. Sorocaba,
+2711,Citrus sinensis,cv. Valencia,
+164113,Citrus x microcarpa,cv. Blanco,
+37656,Citrus x paradisi,cv. Duncan,
+37656,Citrus x paradisi,cv. Macfadyen,
+229630,Citrus x tangelo,cv. Blanco,
+3656,Cucumis melo,cv. Amus,
+3656,Cucumis melo,cv. Cha-T,
+3656,Cucumis melo,cv. Ein Dor,
+3656,Cucumis melo,var. cantalupo (cantaloupe),
+3659,Cucumis sativus,cv. 9930,
+3659,Cucumis sativus,cv. Suyo,
+3659,Cucumis sativus,cv. Xinjinyou 1,
+3661,Cucurbita maxima,cv. Crown,
+3661,Cucurbita maxima,cv. Delica,
+3661,Cucurbita maxima,cv. Triamble,
+3663,Cucurbita pepo,var. cylindrica (zucchini),
+4265,Cynara cardunculus,var. scolymus (globe artichoke),
+7955,Danio rerio,AB line,
+7955,Danio rerio,AB/TL,
+7955,Danio rerio,Tübingen,
+44689,Dictyostelium discoideum,AX2,
+44689,Dictyostelium discoideum,AX3,
+44689,Dictyostelium discoideum,AX4,
+44689,Dictyostelium discoideum,DH1-10,
+7227,Drosophila melanogaster,Oregon R,
+7227,Drosophila melanogaster,Toll mutant,
+9796,Equus caballus,EO cell line,
+32224,Eriobotrya japonica,cv. Tanaka,
+3747,Fragaria x ananassa,cv. Morioka,
+7137,Galleria mellonella,ATCC 26933,
+7137,Galleria mellonella,TruLarv,
+9031,Gallus gallus,Cobb,
+9031,Gallus gallus,DF-1 cells,
+9031,Gallus gallus,HD-11 cells,
+9031,Gallus gallus,HD11 cells,
+9031,Gallus gallus,Hy-line,
+9031,Gallus gallus,Hy-line white,
+9031,Gallus gallus,Leghorn,Livorno
+9031,Gallus gallus,Ross 308,
+9031,Gallus gallus,Ross 708,
+9031,Gallus gallus,White Leghorn,
+3847,Glycine max,cv. Demetra,
+3847,Glycine max,cv. Essex,
+3847,Glycine max,cv. Flambeau,
+3847,Glycine max,cv. Haro 16,
+3847,Glycine max,cv. Harosoy,
+3847,Glycine max,cv. Hefeng 47,
+3847,Glycine max,cv. Jinju1,
+3847,Glycine max,cv. Merit,
+3847,Glycine max,cv. Norchief,
+3847,Glycine max,cv. Peking,
+3847,Glycine max,cv. Spencer,
+3847,Glycine max,cv. Williams,
+3847,Glycine max,cv. Williams 82,
+3635,Gossypium hirsutum,cv. Chuangxin,
+3635,Gossypium hirsutum,cv. Coker 312,
+3635,Gossypium hirsutum,cv. Deltapine 50,
+3635,Gossypium hirsutum,cv. Guoxin,
+3635,Gossypium hirsutum,cv. Jimian 11,cv. Jimian No. 11
+3635,Gossypium hirsutum,cv. Junmian 1,
+3635,Gossypium hirsutum,cv. Paymaster 2326 BG/RR,
+3635,Gossypium hirsutum,cv. R15,
+3635,Gossypium hirsutum,cv. TM-1,
+3981,Hevea brasiliensis,cv. 73-3-97,
+9606,Homo sapiens,16HBE14o cells,16HBE14o
+9606,Homo sapiens,293ET cells,293ET
+9606,Homo sapiens,293T cells,ATCC CRL-3216
+9606,Homo sapiens,5637 cells,"HBC 5637 cells, human bladder carcinoma 5637 cells"
+9606,Homo sapiens,A172 cells,A-172
+9606,Homo sapiens,A549 cells,A549
+9606,Homo sapiens,AGS cells,AGS
+9606,Homo sapiens,Caco-2 cells,"ATCC HTB-37, CaCo-2, Caco 2"
+9606,Homo sapiens,Caco-2/TC7 cells,
+9606,Homo sapiens,Caco-2BBE cells,"C2BBE1, C2BBe 1, Caco-2/BBe 1, Caco-2/BBe, Caco-2BBe, Caco-2 BBe, Caco2-BBE, Caco2BBe, BBE"
+9606,Homo sapiens,CFBE41o cells,CFBE41o
+9606,Homo sapiens,Detroit 562,
+9606,Homo sapiens,EA.hy296 cells,EA.hy296
+9606,Homo sapiens,FaDu cells,
+9606,Homo sapiens,GES-1 cells,GES-1
+9606,Homo sapiens,HaCaT cells,HaCaT
+9606,Homo sapiens,HAP1 cells,
+9606,Homo sapiens,HBMEC,"BMEC, HBMECs, human brain microvascular endothelial cells"
+9606,Homo sapiens,HCMEC,human cardiac microvascular endothelial cells
+9606,Homo sapiens,HCMEC/D3 cells,
+9606,Homo sapiens,HCT116 cells,HCT116
+9606,Homo sapiens,HDMEC,"HDMECs, human dermal microvascular endothelial cells"
+9606,Homo sapiens,HEK293 cells,"HEK-293, HEK293"
+9606,Homo sapiens,HeLa 229 cells,HeLa 229
+9606,Homo sapiens,HeLa CCL2 cells,HeLa CCL2
+9606,Homo sapiens,HeLa cells,HeLa
+9606,Homo sapiens,Henle 407 cells,Henle 407
+9606,Homo sapiens,Henle cells,Henle
+9606,Homo sapiens,HEp-2 cells,HEp-2
+9606,Homo sapiens,HepG2 cells,
+9606,Homo sapiens,HFF cells,HFF
+9606,Homo sapiens,hMDMs,human monocyte-derived macrophages
+9606,Homo sapiens,HMEC-1,
+9606,Homo sapiens,HT-29 cells,HT-29
+9606,Homo sapiens,HT-29 MTX cells,HT-29 MTX
+9606,Homo sapiens,HuH7 cells,HuH-7
+9606,Homo sapiens,hVEC,human vaginal epithelial cell line
+9606,Homo sapiens,IB3-1 cells,IB3-1
+9606,Homo sapiens,IMR-32 cells,
+9606,Homo sapiens,INT 407 cells,", INT 407, INT-407, Int407, Intestine 407, Intestine-407"
+9606,Homo sapiens,J82 cells,J82
+9606,Homo sapiens,LCL 18592,lymphoblastoid cell line 18592
+9606,Homo sapiens,LS174T cells,LS174T
+9606,Homo sapiens,MKN-28 cells,MKN-28
+9606,Homo sapiens,MRC-5 cells,MRC-5
+9606,Homo sapiens,NCI-H292,
+9606,Homo sapiens,polymorphonuclear leukocytes,
+9606,Homo sapiens,SF268 cells,SF268
+9606,Homo sapiens,T24 cells,T24
+9606,Homo sapiens,T84 cells,"T84, ATCC CCL-248"
+9606,Homo sapiens,T98G cells,T98G
+9606,Homo sapiens,THP-1 cells,THP-1
+9606,Homo sapiens,TIGK cells,TIGK
+9606,Homo sapiens,TR146 cells,TR146
+9606,Homo sapiens,TREx-293 cells,TREx-293
+9606,Homo sapiens,U-937 cells,"U-937, ATCC CRL-1593.2"
+9606,Homo sapiens,U-937 monocytes,CRL-1593.2
+9606,Homo sapiens,U251 cells,U251
+4513,Hordeum vulgare,cv. Atlas,
+4513,Hordeum vulgare,cv. Atlas 46,
+4513,Hordeum vulgare,cv. Barke,
+4513,Hordeum vulgare,cv. Bowman,
+4513,Hordeum vulgare,cv. CDC Silky,
+4513,Hordeum vulgare,cv. CO-39,
+4513,Hordeum vulgare,cv. E9,
+4513,Hordeum vulgare,cv. Express,
+4513,Hordeum vulgare,cv. Four-arris,
+4513,Hordeum vulgare,cv. Golden Promise,GP
+4513,Hordeum vulgare,cv. Ingrid,
+4513,Hordeum vulgare,cv. Jinchang 1316,
+4513,Hordeum vulgare,cv. Nakaizumi-zairai,NZ
+4513,Hordeum vulgare,cv. NB6,
+4513,Hordeum vulgare,cv. Nigrate,
+4513,Hordeum vulgare,cv. Turk,
+4513,Hordeum vulgare,cv. ZJ-8,
+4513,Hordeum vulgare,subsp. vulgare,
+4513,Hordeum vulgare,subsp. vulgare cv. Bowman,cv. Bowman
+4513,Hordeum vulgare,subsp. vulgare cv. E9,cv. E9
+4513,Hordeum vulgare,subsp. vulgare cv. Express,cv. Express
+4513,Hordeum vulgare,subsp. vulgare cv. Four-arris,cv. Four-arris
+4513,Hordeum vulgare,subsp. vulgare cv. Golden Promise,cv. Golden Promise
+4513,Hordeum vulgare,subsp. vulgare cv. Jinchang 1316,cv. Jinchang 1316
+4513,Hordeum vulgare,subsp. vulgare cv. Kindred,cv. Kindred
+4513,Hordeum vulgare,subsp. vulgare cv. Lacey,cv. Lacey
+4513,Hordeum vulgare,subsp. vulgare cv. Nakaizumi,cv. Nakaizumi
+4513,Hordeum vulgare,subsp. vulgare cv. Nigrate,cv. Nigrate
+4513,Hordeum vulgare,subsp. vulgare cv. Odessa,cv. Odessa
+4513,Hordeum vulgare,subsp. vulgare cv. Plaisant,cv. Plaisant
+4513,Hordeum vulgare,subsp. vulgare cv. Sangrok,cv. Sangrok
+4513,Hordeum vulgare,subsp. vulgare cv. Tipple,cv. Tipple
+4513,Hordeum vulgare,subsp. vulgare cv. ZJ-8,cv. ZJ-8
+4236,Lactuca sativa,cv. Butter head,
+4236,Lactuca sativa,cv. Capitata,
+4236,Lactuca sativa,cv. Flandria,
+4236,Lactuca sativa,cv. Kordaat,
+4236,Lactuca sativa,cv. Romaine,
+4236,Lactuca sativa,var. longifolia (romaine hearts),
+3864,Lens culinaris,cv.  Eston,
+7004,Locusta migratoria,subsp. manilensis,
+4522,Lolium perenne,cv. Nui,
+3750,Malus domestica,cv. Ailsa Craig,
+3750,Malus domestica,cv. Ariane,
+3750,Malus domestica,cv. Avrolles,
+3750,Malus domestica,cv. Bedan,
+3750,Malus domestica,cv. Braeburn,
+3750,Malus domestica,cv. Fréquin Rouge,
+3750,Malus domestica,cv. Fuji,
+3750,Malus domestica,cv. Gala,
+3750,Malus domestica,cv. Golden Delicious,
+3750,Malus domestica,cv. Granny Smith,
+3750,Malus domestica,cv. Holsteiner Cox,
+3750,Malus domestica,cv. Idared,
+3750,Malus domestica,cv. Marie Ménard,
+3750,Malus domestica,cv. Petit Jaune,
+3750,Malus domestica,cv. Pink Lady,
+3750,Malus domestica,cv. Pinova,
+3750,Malus domestica,cv. Reinette grise du Canada,
+3750,Malus domestica,cv. Saireline,
+3750,Malus domestica,Gala on rootstock MM 106,
+3750,Malus domestica,MM 106,
+3750,Malus domestica,Rootstock Malus MM 106,
+106564,Malus prunifolia,cv. Ringo,
+3983,Manihot esculenta,var. HMC-1,
+3879,Medicago sativa,cv. 57Q77,
+3880,Medicago truncatula,cv. A17,
+10036,Mesocricetus auratus,BHK-21 cells,BHK-21
+10036,Mesocricetus auratus,CHO cells,CHO
+10036,Mesocricetus auratus,CHO-K1 cells,CHO-K1
+10036,Mesocricetus auratus,Hines,
+10090,Mus musculus,(C57BL x CBA)F1,
+10090,Mus musculus,129S-Hfe<tm1.1Nca>/Auer,
+10090,Mus musculus,129S-Hjv<tm1Nca>/Auer,
+10090,Mus musculus,129S6/SvEvTac,"129/SvEvTac, 129S6, 129Sv/Tac"
+10090,Mus musculus,129S7-Dbh<tm1Rpa>/Rpa,
+10090,Mus musculus,129S7/SvEvBrd-Hprt<+>,
+10090,Mus musculus,129X1(B6)-Camp<tm1Rlg>/Kini,
+10090,Mus musculus,129X1-Mpeg1<tm1Pod>/Pod,
+10090,Mus musculus,129X1/SvJ,129/SvJ
+10090,Mus musculus,A/J,"A, AJ"
+10090,Mus musculus,A/JCr,
+10090,Mus musculus,A/JJmsSlc,A/JSlc
+10090,Mus musculus,A/JUnib,
+10090,Mus musculus,AlbPLG1<+/−>,Transgenic humanized plasminogen mice (AlbPLG1+/−)
+10090,Mus musculus,Atg5 flox/flox +vavCre,
+10090,Mus musculus,B6,
+10090,Mus musculus,B6 BMDM,
+10090,Mus musculus,B6.Cg-Tg(Alb-PLG)1Dgi/J,
+10090,Mus musculus,BALB,
+10090,Mus musculus,BALB/c,
+10090,Mus musculus,BALB/c (Slc11a1<−/−>),
+10090,Mus musculus,BALB/c SCID,
+10090,Mus musculus,BALB/c.NU,C.NU
+10090,Mus musculus,BALB/cBy,
+10090,Mus musculus,BALB/cByJ,
+10090,Mus musculus,"BALB/cByJSlac
+",
+10090,Mus musculus,BALB/cJ,
+10090,Mus musculus,bEnd.3 cell line,
+10090,Mus musculus,BV2 cell line,BV2
+10090,Mus musculus,C.B-17IcrHanHsdArc-Prkdc<scid>,
+10090,Mus musculus,C3H,"C3, C3Hf"
+10090,Mus musculus,C3H/HeJ,
+10090,Mus musculus,C3H/HeN,
+10090,Mus musculus,C3H/HeNHsd,
+10090,Mus musculus,C3H/HeOuJ,
+10090,Mus musculus,C3HeB/FeJ,
+10090,Mus musculus,C57BL/6,"B6, Black 6, C57BL/6-Mx1<s1>"
+10090,Mus musculus,C57BL/6 (NRAMP1-),
+10090,Mus musculus,C57BL/6 IL-10<−/−>,
+10090,Mus musculus,C57BL/6 IL-22<−/−>,
+10090,Mus musculus,C57BL/6 scid,"B6.CB17-Prkdc<scid/SzJ>, B6 scid"
+10090,Mus musculus,C57BL/6J,"B6, B6J, Black 6, C57 Black"
+10090,Mus musculus,C57BL/6JJcl,
+10090,Mus musculus,C57BL/6JOlaHsd,
+10090,Mus musculus,C57BL/6N,
+10090,Mus musculus,C57BL/6NCr,
+10090,Mus musculus,C57BL/6NHsd,
+10090,Mus musculus,C57BL/6NJ,"B6N, Black 6N, C57BL/6NCrJ"
+10090,Mus musculus,CBA,
+10090,Mus musculus,CBA/J,"CBA Jackson, CBA/J-Mx1<s2>, CBA/J-Pde6b<rd1>"
+10090,Mus musculus,CBA/JCrHsd,
+10090,Mus musculus,CBySmn.CB17-Prkdcscid/J,"BALB scid, BALB/c scid"
+10090,Mus musculus,CD-1,
+10090,Mus musculus,CD-1 (Swiss),
+10090,Mus musculus,CD-1 Swiss,
+10090,Mus musculus,CD46 transgenic,
+10090,Mus musculus,CEABAC10,
+10090,Mus musculus,"CF1, Crl:CF1",
+10090,Mus musculus,Crl:CD-1(ICR),
+10090,Mus musculus,Crl:CFW,"Crl:CFW(SW), Swiss Webster"
+10090,Mus musculus,Crl:SKH1-Hr<hr>,
+10090,Mus musculus,DBA/2,D2
+10090,Mus musculus,Fox Chase SCID,
+10090,Mus musculus,FVB/N,"FVB/N-Pde6b<rd1>, Friend Virus B NIH"
+10090,Mus musculus,Gbp -/-,
+10090,Mus musculus,gp91phox<−/−>,
+10090,Mus musculus,hCD46Ge,
+10090,Mus musculus,Hines,
+10090,Mus musculus,Hos:HR-1,
+10090,Mus musculus,Hsd:ICR,
+10090,Mus musculus,Hsd:ND4,
+10090,Mus musculus,hu-SRC-SCID,
+10090,Mus musculus,ICR,IcrTac:ICR
+10090,Mus musculus,IL-10<−/−>,
+10090,Mus musculus,IL-10<−/−> (C57BL/6J),
+10090,Mus musculus,IRF-1 -/-,
+10090,Mus musculus,IRF-1<−/−>,
+10090,Mus musculus,J774 cells,
+10090,Mus musculus,J774.2 cells,
+10090,Mus musculus,J774A.1 cells,
+10090,Mus musculus,JAX BALB/cByJ,
+10090,Mus musculus,KI E16P,
+10090,Mus musculus,Kunming,"KM mouse, Kongmin, Kongmin White, Kunmin"
+10090,Mus musculus,L2 fibroblast cells,L2
+10090,Mus musculus,LA-4 cells,LA-4
+10090,Mus musculus,LACA (Swiss Webster),
+10090,Mus musculus,LL/2 cells,
+10090,Mus musculus,mBMDCs,
+10090,Mus musculus,mBMDMs,
+10090,Mus musculus,MF1,
+10090,Mus musculus,MH-S cell line,
+10090,Mus musculus,MH-S cells,
+10090,Mus musculus,MS-1 cells,
+10090,Mus musculus,NIH Swiss,
+10090,Mus musculus,NIH-3T3 cells,NIH-3T3
+10090,Mus musculus,NMRI,
+10090,Mus musculus,NR-9456 cell line,
+10090,Mus musculus,OF1,"OF-1, Oncins France 1"
+10090,Mus musculus,RAW 264.7 cell line,
+10090,Mus musculus,RAW 264.7 cells,
+10090,Mus musculus,Rj:SWISS,RjOrl:SWISS
+10090,Mus musculus,SCID,
+10090,Mus musculus,SJLJ-Tg(Alb-PLG)1Dgi/Uqah,
+10090,Mus musculus,SKH1,
+10090,Mus musculus,Slc:ICR,
+10090,Mus musculus,SPF CD-1,Specific pathogen-free CD-1
+10090,Mus musculus,Swiss,"SW, SWR, Swiss, Swiss-8, Swiss-R"
+10090,Mus musculus,Swiss albino,
+10090,Mus musculus,Swiss Webster,"Swiss-Webster, Tac:SW"
+10090,Mus musculus,Swiss white,
+10090,Mus musculus,Swiss white Hla (ICR)CVF,
+10090,Mus musculus,TLR2 and TLR4 deficient C57BL/6,
+10090,Mus musculus,U937 cell line,
+4641,Musa acuminata,Cavendish subgroup,
+4641,Musa acuminata,cv. Grand Nain,
+4641,Musa acuminata,Nakitembe clone set,
+89151,Musa x paradisiaca,cv. Cavendish,
+4100,Nicotiana benthamiana,cv. Xanthi-nc,
+4100,Nicotiana benthamiana,H2B-RFP,
+4100,Nicotiana benthamiana,NC-95,
+4097,Nicotiana tabacum,cv. Bright Yellow,
+4097,Nicotiana tabacum,cv. Burley 21,
+4097,Nicotiana tabacum,cv. Havana,
+4097,Nicotiana tabacum,cv. Havana 425,
+4097,Nicotiana tabacum,cv. Honghuadajinyuan,
+4097,Nicotiana tabacum,cv. K326,
+4097,Nicotiana tabacum,cv. NC89,
+4097,Nicotiana tabacum,cv. Petit Havana,
+4097,Nicotiana tabacum,cv. Petit Havana SR1,SR1
+4097,Nicotiana tabacum,cv. RP-1,
+4097,Nicotiana tabacum,cv. Samsun,
+4097,Nicotiana tabacum,cv. Samsun NN,
+4097,Nicotiana tabacum,cv. Xanthi,
+4097,Nicotiana tabacum,H2B-RFP,
+4146,Olea europaea,cv. Arbequina,
+9986,Oryctolagus cuniculus,New Zealand White,
+4530,Oryza sativa,51583,
+4530,Oryza sativa,Ashwina landrace,Aswina landrace
+4530,Oryza sativa,Azucena landrace,
+4530,Oryza sativa,cv. Aichi asahi,
+4530,Oryza sativa,cv. Baldo,
+4530,Oryza sativa,cv. Bengal,
+4530,Oryza sativa,cv. CO-39,
+4530,Oryza sativa,cv. Cypress,
+4530,Oryza sativa,cv. Dom Sufid,
+4530,Oryza sativa,cv. Dongjin,"cv. Dongjinbyeo, cv. Donjin, cv. Donjinbyeo, cv. IR348"
+4530,Oryza sativa,cv. Drew,
+4530,Oryza sativa,cv. Dular,
+4530,Oryza sativa,cv. FR13A,
+4530,Oryza sativa,cv. Golden Promise,
+4530,Oryza sativa,cv. Hitomebore,
+4530,Oryza sativa,cv. Hopyung,
+4530,Oryza sativa,cv. HR-12,
+4530,Oryza sativa,cv. Hwayeongbye,
+4530,Oryza sativa,cv. IR64-21,
+4530,Oryza sativa,cv. Jijing88,
+4530,Oryza sativa,cv. Jingang 30,
+4530,Oryza sativa,cv. Jinhe 2,
+4530,Oryza sativa,cv. Jinheung,
+4530,Oryza sativa,cv. K60,
+4530,Oryza sativa,cv. Kakehashi,
+4530,Oryza sativa,cv. Kanto 51,
+4530,Oryza sativa,cv. Katy,
+4530,Oryza sativa,cv. Kitaake,
+4530,Oryza sativa,cv. Koshihikari,
+4530,Oryza sativa,cv. Liangyoupeijiu,
+4530,Oryza sativa,cv. Lijiangxintuanheigu,LTH
+4530,Oryza sativa,cv. M-201,
+4530,Oryza sativa,cv. M-202,
+4530,Oryza sativa,cv. Maratelli,
+4530,Oryza sativa,cv. Milyang 23,
+4530,Oryza sativa,cv. Minghui 63,
+4530,Oryza sativa,cv. Moroberecan,
+4530,Oryza sativa,cv. Moukoto,
+4530,Oryza sativa,cv. N 22,
+4530,Oryza sativa,cv. Nakdong,
+4530,Oryza sativa,cv. Nakdongbyeo,
+4530,Oryza sativa,cv. NIL127,
+4530,Oryza sativa,cv. Nipponbare,
+4530,Oryza sativa,cv. PB1,
+4530,Oryza sativa,cv. Pokkali,
+4530,Oryza sativa,cv. Sadu-cho,
+4530,Oryza sativa,cv. Saeilmi,
+4530,Oryza sativa,cv. Sariceltik,
+4530,Oryza sativa,cv. Sasanishiki,
+4530,Oryza sativa,cv. Sasanishiki BL6,
+4530,Oryza sativa,cv. Shanyou 63,
+4530,Oryza sativa,cv. Shin No. 2,
+4530,Oryza sativa,cv. Shin-2,
+4530,Oryza sativa,cv. SHZ2,Shan-Huang Zhan-2
+4530,Oryza sativa,cv. Swarna,
+4530,Oryza sativa,cv. Taichung Native 1,"TN-1, TN1"
+4530,Oryza sativa,cv. Tainung 67,
+4530,Oryza sativa,cv. Taipei309,cv. TP309
+4530,Oryza sativa,cv. Teyou 63,
+4530,Oryza sativa,cv. Trenasse,
+4530,Oryza sativa,cv. Tsuyuake,
+4530,Oryza sativa,cv. Wanxian 98,
+4530,Oryza sativa,cv. Xiushui 134,
+4530,Oryza sativa,cv. Yashiro-mochi,cv. YM
+4530,Oryza sativa,cv. YT16,
+4530,Oryza sativa,cv. Zhenshan 97B,
+4530,Oryza sativa,cv. Zhonghua 11,
+4530,Oryza sativa,IR24 line,
+4530,Oryza sativa,IR31917 line,
+4530,Oryza sativa,LYP9,Liangyoupeijiu 9
+4530,Oryza sativa,MH63,
+4530,Oryza sativa,P2,
+4530,Oryza sativa,rayada group,
+4530,Oryza sativa,subsp. indica,
+4530,Oryza sativa,subsp. indica cv. IR24,cv. IR24
+4530,Oryza sativa,subsp. japonica,
+4530,Oryza sativa,subsp. japonica cv. Dongjin,cv. Dongjin
+4530,Oryza sativa,subsp. japonica cv. LTH,cv. LTH
+4530,Oryza sativa,subsp. japonica cv. Nipponbare,cv. Nipponbare
+4530,Oryza sativa,subsp. japonica cv. Taipei 309,cv. Taipei 309
+4530,Oryza sativa,subsp. Xian cv. IR24,cv. IR24
+4530,Oryza sativa,var. glutinosa cv. Blanco,cv. Blanco
+9940,Ovis aries,Lacaune,
+4031,Pelargonium x hortorum,cv. Anthony,
+3435,Persea americana,cv. Fuerte,
+3885,Phaseolus vulgaris,cv. 90598,
+3885,Phaseolus vulgaris,cv. Blanca,
+3885,Phaseolus vulgaris,cv. Blanca Riñón,
+3885,Phaseolus vulgaris,cv. Blue Lake 274,
+3885,Phaseolus vulgaris,cv. Bush Blue Lake 274,
+3885,Phaseolus vulgaris,cv. Bush Blue Lake 47,
+3885,Phaseolus vulgaris,cv. Canadian Wonder,
+3885,Phaseolus vulgaris,cv. Caruso,
+3885,Phaseolus vulgaris,cv. Contender,
+3885,Phaseolus vulgaris,cv. Great Northern Tara,
+3885,Phaseolus vulgaris,cv. Hiltrud,
+3885,Phaseolus vulgaris,cv. Red Mexican,
+3885,Phaseolus vulgaris,cv. Rosinha,
+3885,Phaseolus vulgaris,cv. Saxa,
+3885,Phaseolus vulgaris,cv. Soldier,
+3885,Phaseolus vulgaris,cv. Tendergreen,
+3885,Phaseolus vulgaris,N9059,
+3885,Phaseolus vulgaris,N90598,
+90988,Pimephales promelas,EPC cell line,"EPC, Epithelioma Papulosum Cyprini cell line"
+3888,Pisum sativum,cv. Guido,
+3888,Pisum sativum,cv. Lifter,
+3888,Pisum sativum,cv. PI240515,
+43335,Populus alba,cv. Marte,
+3690,Populus x canadensis,cv. 74/76,
+3690,Populus x canadensis,cv. Nanlin 895,
+9310,Potorous tridactylus,PtK2 cells,
+3758,Prunus domestica,cv. Santa Rosa,
+3760,Prunus persica,cv. Tian Tao,
+3760,Prunus persica,var. nucipersica (nectarine),
+23211,Pyrus communis,cv. Bartlett,
+23211,Pyrus communis,cv. Bosc,
+23211,Pyrus communis,cv. Conférence,
+23211,Pyrus communis,cv. Cuiguan,
+23211,Pyrus communis,cv. Devoe,
+23211,Pyrus communis,cv. Huangguan,
+23211,Pyrus communis,cv. Nijisseiki,
+23211,Pyrus communis,cv. Passe,
+23211,Pyrus communis,cv. Pyrus bretschneideri Rehd,
+3767,Pyrus pyrifolia,cv. Nijisseiki,
+3726,Raphanus sativus,var. longipinnatus (daikon),
+3726,Raphanus sativus,var. longipinnatus (daikon) cv. Manshenhong,cv. Manshenhong
+10116,Rattus norvegicus,Wistar,
+10117,Rattus rattus,Sprague-Dawley,SD
+10117,Rattus rattus,Wistar,
+267246,Rosa odorata,cv. Flaming Peace,
+4547,Saccharum officinarum,cv. CP68-1026,
+4547,Saccharum officinarum,cv. Heiganzhe,
+4550,Secale cereale,common winter rye,
+4550,Secale cereale,Lo37-PxLo55-N,
+4108,Solanum chacoense,cv. C9701,
+4081,Solanum lycopersicum,cv. 1402,
+4081,Solanum lycopersicum,cv. 90E341F,I-2
+4081,Solanum lycopersicum,cv. Ailsa Craig,
+4081,Solanum lycopersicum,cv. Avigail,
+4081,Solanum lycopersicum,cv. Bonny Best,cv. Bonnie Best
+4081,Solanum lycopersicum,cv. C32,
+4081,Solanum lycopersicum,cv. Castlemart,
+4081,Solanum lycopersicum,cv. Corbarino,
+4081,Solanum lycopersicum,cv. Craigella,
+4081,Solanum lycopersicum,cv. Daniela,
+4081,Solanum lycopersicum,cv. Encore,
+4081,Solanum lycopersicum,cv. GCR161,
+4081,Solanum lycopersicum,cv. Glamour,
+4081,Solanum lycopersicum,cv. Hawaii 7996,H7996
+4081,Solanum lycopersicum,cv. Hawaii 7998,H7998
+4081,Solanum lycopersicum,cv. Hongyangli,
+4081,Solanum lycopersicum,cv. Kwang-Bok,
+4081,Solanum lycopersicum,cv. Kwang-Soo,
+4081,Solanum lycopersicum,cv. LA3940,
+4081,Solanum lycopersicum,cv. Maofen-802,
+4081,Solanum lycopersicum,cv. Marmande,
+4081,Solanum lycopersicum,cv. Marmande VR,
+4081,Solanum lycopersicum,cv. Moneymaker,
+4081,Solanum lycopersicum,cv. Moneymaker C32,
+4081,Solanum lycopersicum,cv. Moneymaker Cf-0,
+4081,Solanum lycopersicum,cv. Moneymaker ss590,
+4081,Solanum lycopersicum,cv. Monika,
+4081,Solanum lycopersicum,cv. Motelle,
+4081,Solanum lycopersicum,cv. Ontario 7716,
+4081,Solanum lycopersicum,cv. Ontario 7818,
+4081,Solanum lycopersicum,cv. Paradiser,
+4081,Solanum lycopersicum,cv. Platense,
+4081,Solanum lycopersicum,cv. Ponderosa,
+4081,Solanum lycopersicum,cv. Potentate,
+4081,Solanum lycopersicum,cv. Purdue 135,
+4081,Solanum lycopersicum,cv. Rio Grande,
+4081,Solanum lycopersicum,cv. Rio Grande 76S,
+4081,Solanum lycopersicum,cv. Rome,
+4081,Solanum lycopersicum,cv. Shanghai 903,
+4081,Solanum lycopersicum,cv. Sonatine,
+4081,Solanum lycopersicum,cv. Summer sweet,
+4081,Solanum lycopersicum,cv. Super Marmande,
+4081,Solanum lycopersicum,cv. UC82b,
+4081,Solanum lycopersicum,cv. Vemar,
+4081,Solanum lycopersicum,cv. Vetomold,
+4081,Solanum lycopersicum,cv. VF36,
+4081,Solanum lycopersicum,Msk8 cell line,
+4081,Solanum lycopersicum,Never-ripe mutant,Nr
+4081,Solanum lycopersicum,race 1,
+4111,Solanum melongena,cv. AG91-25,
+4111,Solanum melongena,cv. Black Beauty,
+4111,Solanum melongena,cv. Ceylan,
+4111,Solanum melongena,cv. Dingras Multiple Purple,
+4111,Solanum melongena,cv. SM6,
+4111,Solanum melongena,cv. Surya,
+4082,Solanum peruvianum,cv. Monica,
+4113,Solanum tuberosum,Cebeco44-31-5,
+4113,Solanum tuberosum,cv. Amandine,
+4113,Solanum tuberosum,cv. Ants,
+4113,Solanum tuberosum,cv. Bintje,
+4113,Solanum tuberosum,cv. Chippewa,
+4113,Solanum tuberosum,cv. Daeji,
+4113,Solanum tuberosum,cv. Desiree,
+4113,Solanum tuberosum,cv. E-Potato 3,cv. E3
+4113,Solanum tuberosum,cv. Hopyung,
+4113,Solanum tuberosum,cv. HP10-45,
+4113,Solanum tuberosum,cv. Impala,
+4113,Solanum tuberosum,cv. Kennebec,
+4113,Solanum tuberosum,cv. Maris Piper,
+4113,Solanum tuberosum,cv. Ranger Russet,
+4113,Solanum tuberosum,cv. Russet Norkotah,
+4113,Solanum tuberosum,cv. Valor,
+4113,Solanum tuberosum,cv. Van Gogh,
+4113,Solanum tuberosum,cv. Yukon Gold,
+7108,Spodoptera frugiperda,cv. Sf9,
+9823,Sus scrofa,Mini-Lewe,
+9823,Sus scrofa,PIEC,
+9823,Sus scrofa,PK-15,
+9823,Sus scrofa,SJPL,
+9823,Sus scrofa,SPF,Specific pathogen-free
+9823,Sus scrofa,York-Landrace,"York/Landrace, Y/N"
+7111,Trichoplusia ni,BTI-Tn5B1-4 (Tn5),
+4565,Triticum aestivum,cv. 6B365,
+4565,Triticum aestivum,cv. 6B662,
+4565,Triticum aestivum,cv. Aikang 58,
+4565,Triticum aestivum,cv. Amaretto,
+4565,Triticum aestivum,cv. Annong 8455,
+4565,Triticum aestivum,cv. Auburn,
+4565,Triticum aestivum,cv. Avalon,
+4565,Triticum aestivum,cv. Axe,
+4565,Triticum aestivum,cv. Bainong 979,
+4565,Triticum aestivum,cv. Barlow,
+4565,Triticum aestivum,cv. Bess,
+4565,Triticum aestivum,cv. BG220,
+4565,Triticum aestivum,cv. Bobwhite,
+4565,Triticum aestivum,cv. BR34,
+4565,Triticum aestivum,cv. Brennan,
+4565,Triticum aestivum,cv. Briggs,
+4565,Triticum aestivum,cv. Calingiri,
+4565,Triticum aestivum,cv. Cerco,
+4565,Triticum aestivum,cv. Chinese Spring,
+4565,Triticum aestivum,cv. Corack,
+4565,Triticum aestivum,cv. Emu Rock,
+4565,Triticum aestivum,cv. Erik,
+4565,Triticum aestivum,cv. Eunpamil,
+4565,Triticum aestivum,cv. Fielder,
+4565,Triticum aestivum,cv. Gabo,
+4565,Triticum aestivum,cv. Galaxie,
+4565,Triticum aestivum,cv. Glenlea,
+4565,Triticum aestivum,cv. Glenn,
+4565,Triticum aestivum,cv. Grandin,
+4565,Triticum aestivum,cv. Guomai 301,
+4565,Triticum aestivum,cv. Harry,
+4565,Triticum aestivum,cv. Howard,
+4565,Triticum aestivum,cv. Huaimai 13,
+4565,Triticum aestivum,cv. Huaimai 33,
+4565,Triticum aestivum,cv. Iride,
+4565,Triticum aestivum,cv. Jenna,
+4565,Triticum aestivum,cv. Jimai 19,
+4565,Triticum aestivum,cv. Jimai 22,
+4565,Triticum aestivum,cv. Jimai 33,
+4565,Triticum aestivum,cv. Kadrilj,
+4565,Triticum aestivum,cv. Kelby,
+4565,Triticum aestivum,cv. Kennedy,
+4565,Triticum aestivum,cv. McNair 701,
+4565,Triticum aestivum,cv. Mingxian 169,
+4565,Triticum aestivum,cv. Mott,
+4565,Triticum aestivum,cv. Nandu,
+4565,Triticum aestivum,cv. ND495,
+4565,Triticum aestivum,cv. Ning 7840,
+4565,Triticum aestivum,cv. Norm,
+4565,Triticum aestivum,cv. Obelisk,
+4565,Triticum aestivum,cv. Prosper,
+4565,Triticum aestivum,cv. RB07,
+4565,Triticum aestivum,cv. Riband,
+4565,Triticum aestivum,cv. Roblin,
+4565,Triticum aestivum,cv. Rollag,
+4565,Triticum aestivum,cv. Russ,
+4565,Triticum aestivum,cv. Salamouni,
+4565,Triticum aestivum,cv. Select,
+4565,Triticum aestivum,cv. Spring wheat,
+4565,Triticum aestivum,cv. Steele-ND,
+4565,Triticum aestivum,cv. Su11,
+4565,Triticum aestivum,cv. Sumai 3,
+4565,Triticum aestivum,cv. Suwon 11,
+4565,Triticum aestivum,cv. SY Soren,
+4565,Triticum aestivum,cv. SY Tyra,
+4565,Triticum aestivum,cv. Thatcher-Sr31,
+4565,Triticum aestivum,cv. Vantage,
+4565,Triticum aestivum,cv. Velva,
+4565,Triticum aestivum,cv. W-7984,
+4565,Triticum aestivum,cv. Wesley,
+4565,Triticum aestivum,cv. Wheaton,
+4565,Triticum aestivum,cv. Xiaoyan 22,
+4565,Triticum aestivum,cv. Yangmai 49,
+4565,Triticum aestivum,cv. Zhengmai,
+4565,Triticum aestivum,cv. Zhenmai,
+4565,Triticum aestivum,cv. Zhenmai 5,
+4565,Triticum aestivum,cv. Zhongyuan 98-68,
+4565,Triticum aestivum,cv. Zhoumai 24,
+4565,Triticum aestivum,cv. Zhoumai 26,
+4565,Triticum aestivum,cv. Zimai 1,
+4565,Triticum aestivum,cv. Zimai 22,
+4566,Triticum aestivum x triticum timopheevi,cv. Nandu,
+4566,Triticum aestivum x triticum timopheevi,cv. Norm,
+4566,Triticum aestivum x triticum timopheevi,cv. Zimai 2,
+4571,Triticum turgidum,subsp. durum cv. Alkabo,cv. Alkabo
+4571,Triticum turgidum,subsp. durum cv. Ben,cv. Ben
+4571,Triticum turgidum,subsp. durum cv. Carpio,cv. Carpio
+4571,Triticum turgidum,subsp. durum cv. Dilse,cv. Dilse
+4571,Triticum turgidum,subsp. durum cv. Divide,cv. Divide
+4571,Triticum turgidum,subsp. durum cv. Grenora,cv. Grenora
+4571,Triticum turgidum,subsp. durum cv. Langdon,cv. Langdon
+4571,Triticum turgidum,subsp. durum cv. Lebsock,cv. Lebsock
+4571,Triticum turgidum,subsp. durum cv. Mountrail,cv. Mountrail
+4571,Triticum turgidum,subsp. durum cv. Pierce,cv. Pierce
+4571,Triticum turgidum,subsp. durum cv. Rusty,cv. Rusty
+4571,Triticum turgidum,subsp. durum cv. Tioga,cv. Tioga
+29760,Vitis vinifera,cv. Cabernet Sauvignon,
+29760,Vitis vinifera,cv. Carignane,
+29760,Vitis vinifera,cv. Chardonnay,
+29760,Vitis vinifera,cv. Thompson Seedless,
+94108,Zantedeschia elliottiana,cv. Black Magic,
+4577,Zea mays,cv. B73,
+4577,Zea mays,cv. B75,
+4577,Zea mays,cv. Cacahuazintle,
+4577,Zea mays,cv. CML247,
+4577,Zea mays,cv. CML264,
+4577,Zea mays,cv. CML277,
+4577,Zea mays,cv. CML52,
+4577,Zea mays,cv. CML9,
+4577,Zea mays,cv. Creek White,
+4577,Zea mays,cv. Early Golden Bantam,
+4577,Zea mays,cv. EGB,
+4577,Zea mays,cv. FS8A,
+4577,Zea mays,cv. FS8B,
+4577,Zea mays,cv. G80,
+4577,Zea mays,cv. GEMS-0009,
+4577,Zea mays,cv. Golden Bantam,
+4577,Zea mays,cv. Golden Jubilee,
+4577,Zea mays,cv. GS73CO,
+4577,Zea mays,cv. H116,
+4577,Zea mays,cv. Huangzao 4,Huangzao4
+4577,Zea mays,cv. Jubilee,
+4577,Zea mays,cv. Mikado,
+4577,Zea mays,cv. ML287,
+4577,Zea mays,cv. Nathan,
+4577,Zea mays,cv. ND101,
+4577,Zea mays,cv. ND253,
+4577,Zea mays,cv. ND257,
+4577,Zea mays,cv. ND301,
+4577,Zea mays,cv. NYRD4058,
+4577,Zea mays,cv. P737M20,
+4577,Zea mays,cv. Pa760,
+4577,Zea mays,cv. Pioneer 2375,
+4577,Zea mays,cv. Pioneer 33D47,
+4577,Zea mays,cv. R225,
+4577,Zea mays,cv. SD40,
+4577,Zea mays,cv. SD43,
+4577,Zea mays,cv. SD44,
+4577,Zea mays,cv. SD45,
+4577,Zea mays,cv. Seneca Horizon,
+4577,Zea mays,cv. Silver Queen,
+4577,Zea mays,cv. Takanestar,
+4577,Zea mays,cv. Truckers Favorite,
+4577,Zea mays,cv. W570,
+4577,Zea mays,cv. W64A,
+4577,Zea mays,cv. W64A-N,
+4577,Zea mays,cv. W64A-T,
+4577,Zea mays,cv. W64ARpp9,
+4577,Zea mays,subsp. mays,
+4577,Zea mays,subsp. mays cv. A188,cv. A188
+4577,Zea mays,subsp. mays cv. B73,cv. B73
+4577,Zea mays,subsp. mays cv. Early Golden Bantam,cv. Early Golden Bantam
+4577,Zea mays,subsp. mays cv. Golden Bantam,cv. Golden Bantam
+4577,Zea mays,subsp. mays cv. Golden Jubilee,cv. Golden Jubilee
+4577,Zea mays,subsp. mays cv. Huangzao 4,cv. Huangzao 4
+4577,Zea mays,subsp. mays cv. Jubilee,cv. Jubilee
+4577,Zea mays,subsp. mays cv. Nathan,cv. Nathan
+4577,Zea mays,subsp. mays cv. Pa91,cv. Pa91
+4577,Zea mays,subsp. mays cv. Pioneer 2375,cv. Pioneer 2375
+4577,Zea mays,subsp. mays cv. Silver Queen,cv. Silver Queen
+4577,Zea mays,subsp. mays cv. W23,cv. W23
+4577,Zea mays,subsp. mays cv. W64A,cv. W64A
+4577,Zea mays,subsp. mays cv. W64A-N,cv. W64A-N
+4577,Zea mays,subsp. mays cv. W64A-T,cv. W64A-T
+4577,Zea mays,subsp. mexicana,
+4577,Zea mays,UH002 line,
