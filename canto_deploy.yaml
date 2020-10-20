@@ -424,6 +424,36 @@ available_annotation_type_list:
       - Reconstituted Complex
       - Two-hybrid
     detailed_help_path: /docs/physical_interaction_annotation
+  - name: wt_rna_expression
+    category: ontology
+    ontology_size: small
+    namespace: PomGeneEx
+    display_name: 'RNA level'
+    feature_type: 'gene'
+    broad_term_suggestions: ~
+    specific_term_examples: ~
+    help_text: ~
+    more_help_text: ~
+    annotation_table_columns_to_hide: [term_ontid]
+    evidence_codes:
+      - Microarray
+      - Northern blot
+      - Quantitative PCR
+      - Reporter gene assay
+  - name: wt_protein_expression
+    category: ontology
+    ontology_size: small
+    namespace: PomGeneEx
+    display_name: 'Protein level'
+    feature_type: 'gene'
+    broad_term_suggestions: ~
+    specific_term_examples: ~
+    help_text: ~
+    more_help_text: ~
+    annotation_table_columns_to_hide: [term_ontid]
+    evidence_codes:
+      - Reporter gene assay
+      - Western blot
 
 enabled_annotation_type_list:
   - pathogen_phenotype
@@ -434,6 +464,8 @@ enabled_annotation_type_list:
   - cellular_component
   - post_translational_modification
   - physical_interaction
+  - wt_rna_expression
+  - wt_protein_expression
 
 extension_conf_files:
   - /import_export/phipo_extensions.tsv
