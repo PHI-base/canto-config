@@ -460,7 +460,7 @@ ontology_namespace_config:
 
 export:
   gene_association_fields:
-    db: "PHI-base"
+    db: "UniProtKB"
     assigned_by: "PHI-base"
   
 instance_front_subtitle: Currently curating fungal, protist, and bacterial pathogens
