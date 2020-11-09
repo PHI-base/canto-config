@@ -14,6 +14,7 @@ cd /var/canto_space/
 --ontology https://curation.pombase.org/dumps/latest_build/pombe-embl/mini-ontologies/has_qualifier_range.obo \
 --ontology https://curation.pombase.org/dumps/latest_build/pombe-embl/mini-ontologies/fypo_extension.obo \
 --ontology https://curation.pombase.org/dumps/latest_build/pombe-embl/mini-ontologies/pombase_gene_expression_ontology.obo \
+--ontology https://curation.pombase.org/dumps/latest_build/pombe-embl/mini-ontologies/chebi.obo \
 --ontology /import_export/phipo_namespace_destroyer.obo \
 --ontology https://raw.githubusercontent.com/PHI-base/phido/master/phido.obo \
 --ontology http://purl.obolibrary.org/obo/so/so-simple.obo
