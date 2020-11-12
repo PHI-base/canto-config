@@ -11,6 +11,7 @@ cd /var/canto_space/
 --ontology http://purl.obolibrary.org/obo/phipo/phipo-simple.obo \
 --ontology /import_export/bto_isa.obo \
 --ontology /import_export/phipo_extension_relations.obo \
+--ontology /import_export/phipo_ext.obo \
 --ontology https://curation.pombase.org/dumps/latest_build/pombe-embl/mini-ontologies/has_qualifier_range.obo \
 --ontology https://curation.pombase.org/dumps/latest_build/pombe-embl/mini-ontologies/fypo_extension.obo \
 --ontology https://curation.pombase.org/dumps/latest_build/pombe-embl/mini-ontologies/pombase_gene_expression_ontology.obo \
