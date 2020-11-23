@@ -535,6 +535,8 @@ ontology_namespace_config:
   do_not_annotate_subsets:
     - "is_a(canto_root_subset)"
     - "is_a(qc_do_not_annotate)"
+    - "is_a(gocheck_do_not_annotate)"
+    - "is_a(gocheck_do_not_manually_annotate)"
 
 export:
   gene_association_fields:
