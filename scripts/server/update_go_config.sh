@@ -13,7 +13,7 @@ download() {
     path=$2;
     headers="$(wget -O "$path" -q --server-response "$url" 2>&1)"
     if ! (echo "$headers" | head -n 1 | grep -q "200"); then
-      echo "ERROR: did not get status code 200 for URL:\n${url}" 1>&2
+      printf "ERROR: did not get status code 200 for URL:\n%s\n" "$url" 1>&2
       exit 1;
     fi
 }
