@@ -3,6 +3,11 @@
 github_url="https://raw.githubusercontent.com/pombase/pombase-config/master/canto/annotation_ex_config"
 destination="/var/canto_space/import_export"
 
+if [ ! -d "${destination}" ]; then
+  echo "ERROR: directory does not exist: ${destination}" 1>&2
+  exit 1;
+fi
+
 download() {
     url=$1;
     path=$2;
