@@ -26,4 +26,4 @@ download "${github_url}/PSI-MOD_A_E_config" /tmp/PSI-MOD_A_E_config.tsv
 mv /tmp/GO_BP_A_E_config.tsv ${destination}
 mv /tmp/GO_CC_A_E_config.tsv ${destination}
 mv /tmp/GO_MF_A_E_config.tsv ${destination}
-mv /tmp/PSI-MOD_A_E_config ${destination}
+mv /tmp/PSI-MOD_A_E_config.tsv ${destination}
