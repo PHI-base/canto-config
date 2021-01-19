@@ -287,8 +287,8 @@ available_annotation_type_list:
       - Substance quantification evidence
       - Transcript expression level evidence
       - Western blot assay
-    broad_term_suggestions: "host, lethal, chemical, immune response"
-    specific_term_examples: "abnormal host organism growth, increased resistance to chemical"
+    broad_term_suggestions: "inviable population, chemical phenotype (sensitivity or resistance), reproductive phenotype"
+    specific_term_examples: "normal transporter activity, abnormal cell wall organization"
     help_text: >
       Annotate normal or abnormal phenotypes of host organisms with this genotype.
     more_help_text: >
@@ -330,8 +330,8 @@ available_annotation_type_list:
       - Transcript expression level evidence
       - Western blot assay
       - Other
-    broad_term_suggestions: "pathogen, lethal, chemical, growth, motility, reproduction"
-    specific_term_examples: "increased resistance to chemical, asexual spore decreased in size, loss of pathogen motility"
+    broad_term_suggestions: "inviable population, chemical phenotype (sensitivity or resistance), hyphal growth phenotype, reproductive phenotype"
+    specific_term_examples: "decreased protein phosphorylation, increased level of pyocyanin, abolished chitinase activity"
     help_text: >
       Annotate normal or abnormal phenotypes of pathogen organisms with this genotype.
     more_help_text: >
@@ -376,8 +376,8 @@ available_annotation_type_list:
       - Transcript expression level evidence
       - Western blot assay
       - Other
-    broad_term_suggestions: "virulence, penetration, pathogenicity, binding, effector"
-    specific_term_examples: "reduced virulence, decreased pathogen penetration across the host barrier, normal pathogenic phenotype"
+    broad_term_suggestions: "pathogen colonization of host phenotype, binding, effector, host lesion"
+    specific_term_examples: "pathogen toxin within host absent, normal pathogen protein localization to host chloroplast"
     help_text: >
       Annotate normal or abnormal phenotypes of organisms within this pathogen-host interaction (metagenotype).
     more_help_text: >
@@ -422,8 +422,8 @@ available_annotation_type_list:
       - Transcript expression level evidence
       - Western blot assay
       - Other
-    broad_term_suggestions: "virulence, penetration, pathogenicity, binding, effector"
-    specific_term_examples: "reduced virulence, decreased pathogen penetration across the host barrier, normal pathogenic phenotype"
+    broad_term_suggestions: "absence of pathogen-associated host lesions, presence of pathogen-associated host lesions"
+    specific_term_examples: "absence of pathogen host protein-protein interaction, presence of pathogen host protein-protein interaction"
     help_text: >
       Annotate normal or abnormal gene-for-gene phenotypes of organisms within this pathogen-host interaction (metagenotype).
     extra_help_text: >
