@@ -207,8 +207,8 @@ available_annotation_type_list:
       - EXP
     admin_evidence_codes:
       - TAS
-    broad_term_suggestions: "cell cycle, transport"
-    specific_term_examples: "effector-mediated modulation of host process by symbiont, pyrimidine metabolic process or alpha-glucoside transport"
+    broad_term_suggestions: "effector-mediated modulation of host process by symbiont, transport"
+    specific_term_examples: "pyrimidine metabolic process or alpha-glucoside transport"
     help_text: >
       A biological process is series of events accomplished by one or more
       ordered assemblies of molecular functions, such as cell cycle regulation,
