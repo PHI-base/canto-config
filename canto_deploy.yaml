@@ -542,6 +542,7 @@ extension_conf_files:
   - /import_export/GO_MF_A_E_config.tsv
   - /import_export/PomGeneEx_A_E_config.tsv
   - /import_export/PSI-MOD_A_E_config.tsv
+  - /import_export/phido_extensions.tsv
 
 ontology_namespace_config:
   subsets_to_ignore:
