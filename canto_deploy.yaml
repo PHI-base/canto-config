@@ -502,6 +502,23 @@ available_annotation_type_list:
     evidence_codes:
       - Reporter gene assay
       - Western blot
+  - name: disease_name
+    category: ontology
+    namespace: phido
+    very_short_display_name: 'disease'
+    short_display_name: 'disease'
+    display_name: 'disease name'
+    synonyms_to_display:
+      - exact
+    feature_type: 'metagenotype'
+    can_have_conditions: 0
+    broad_term_suggestions: ""
+    specific_term_examples: ""
+    help_text:
+      Annotate the expected disease for this pathogen-host interaction, where 'expected' refers to the case of a pathogen strain interacting with a host strain with no experimentally-induced mutations, and where the interaction between the pathogen and the host is compatible (i.e. the interaction results in disease).
+    more_help_text: ~
+    extra_help_text: ~
+    detailed_help_path: /docs/disease_annotation
 
 enabled_annotation_type_list:
   - pathogen_phenotype
@@ -515,6 +532,7 @@ enabled_annotation_type_list:
   - physical_interaction
   - wt_rna_expression
   - wt_protein_expression
+  - disease_name
 
 extension_conf_files:
   - /import_export/phipo_extensions.tsv
