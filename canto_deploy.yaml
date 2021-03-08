@@ -582,6 +582,8 @@ messages:
 curs_config:
   gene_page_top_message: >
     <p><b>Note:</b> PHI-Canto groups UniProt identifiers by their nearest corresponding NCBI Taxonomy identifier (at the rank of species), so the organism name may not match what is shown in UniProt. Please use the 'experimental strains' field to specify lower taxonomic ranks (such as strains, subspecies, and pathovars).</p>
+  experimental_conditions_help_text: >
+    Please add experimental conditions (including delivery mechanism). Conditions are the aspects of the experimental setup that are independent of what cells (strain, genotype, constructs, etc.) are used.
   finish_form:
     extra_text_gene_information: >
       <p>
