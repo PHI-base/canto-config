@@ -480,8 +480,10 @@ available_annotation_type_list:
     help_text: >
       Qualitative descriptions of presence, absence, increase, decrease, etc. 
       of the RNA transcribed from a gene. Note: if you need to capture changes 
-      in RNA level observed in a mutant, please use “altered RNA level” 
-      phenotypes.
+      in RNA level observed in a mutant in a single species, please use the 
+      single-species 'RNA level' phenotypes, or for changes in RNA level in a 
+      pathogen-host interaction, please use the pathogen-host interaction 
+      'altered RNA level' phenotypes.
     more_help_text: ~
     annotation_table_columns_to_hide: [term_ontid]
     evidence_codes:
