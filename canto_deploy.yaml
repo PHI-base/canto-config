@@ -362,7 +362,6 @@ available_annotation_type_list:
       - Enzyme assay data
       - Epitope-tagged protein immunolocalization experiment data
       - Flow cytometry data
-      - Functional test in host
       - Gel electrophoresis evidence
       - Immunolocalization experiment data
       - Macroscopic observation (qualitative observation)
@@ -408,7 +407,6 @@ available_annotation_type_list:
       - Enzyme assay data
       - Epitope-tagged protein immunolocalization experiment data
       - Flow cytometry data
-      - Functional test in host
       - Gel electrophoresis evidence
       - Immunolocalization experiment data
       - Macroscopic observation (qualitative observation)
