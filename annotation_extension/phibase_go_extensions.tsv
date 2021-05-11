@@ -1,3 +1,3 @@
-domain ID	subset relation	extension relation	range ID	Canto display text	Help text	cardinality	role
-GO:0044419	is_a	with_symbiont_species	PathogenTaxonID	with symbiont species		0,1	user
-GO:0044419	is_a	with_host_species	HostTaxonID	with host species		0,1	user
+domain ID	subset relation	extension relation	range ID	Canto display text	Help text	cardinality	role	annotation type	feature type
+GO:0044419	is_a	with_symbiont_species	PathogenTaxonID	with symbiont species		0,1	user		host_gene
+GO:0044419	is_a	with_host_species	HostTaxonID	with host species		0,1	user		pathogen_gene
