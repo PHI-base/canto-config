@@ -1,0 +1,45 @@
+#!/bin/sh
+# /etc/init.d/canto
+
+### BEGIN INIT INFO
+# Provides:          canto
+# Required-Start:    $remote_fs $syslog
+# Required-Stop:     $remote_fs $syslog
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: Canto community annotation tool
+### END INIT INFO
+
+action=$1
+
+PORT=5000
+WORKERS=5
+CANTO_SPACE=/var/canto-space
+PID_PATH=import_export/canto.pid
+
+if [ -f /etc/default/canto ]; then
+  . /etc/default/canto
+fi
+
+case "$action" in
+  start)
+    echo "Starting Canto with $WORKERS workers"
+    (date; cd $CANTO_SPACE; canto/script/canto_docker --non-interactive --use-container-name start_server --pid-file=/$PID_PATH --port $PORT -- script/canto_start --workers $WORKERS --keepalive-timeout 5 -s Starman --preload) >> canto.log 2>&1 &
+    ;;
+  stop)
+    pid=`/bin/cat $CANTO_SPACE/$PID_PATH`
+    echo stopping $pid
+    (cd $CANTO_SPACE; docker exec canto kill -TERM $pid)
+    ;;
+  restart)
+    pid=`/bin/cat $CANTO_SPACE/$PID_PATH`
+    echo restarting $pid
+    (cd $CANTO_SPACE; docker exec canto kill -HUP $pid)
+    ;;
+  *)
+    echo "Usage: $0 {start|restart|stop}"
+    exit 1
+    ;;
+esac
+
+exit 0
