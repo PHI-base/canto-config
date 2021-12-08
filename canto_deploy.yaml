@@ -587,6 +587,8 @@ messages:
       gene_identifier: 'Q00909'
       gene_name: ~
 
+email_signature: "Kim Hammond-Kosack and the PHI-base team"
+
 curs_config:
   gene_page_top_message: >
     <p><b>Note:</b> PHI-Canto groups UniProt identifiers by their nearest corresponding NCBI Taxonomy identifier (at the rank of species), so the organism name may not match what is shown in UniProt. Please use the 'experimental strains' field to specify lower taxonomic ranks (such as strains, subspecies, and pathovars).</p>
