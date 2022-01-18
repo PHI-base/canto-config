@@ -1,11 +1,17 @@
 Acanthamoeba castellanii,5755,
 Acanthamoeba polyphaga,5757,
+Acipenser sinensis,61970,Chinese sturgeon
+Actinidia chinensis,3625,
+Acyrthosiphon pisum,7029,pea aphid
+Adalia bipunctata,7084,two-spotted ladybird beetle
+Aedes aegypti,7159,yellow fever mosquito
 Aeschynomene virginica,108276,
 Agaricus bisporus,5341,cultivated mushroom
 Ageratina adenophora,176616,
 Allium cepa,4679,onion
 Anas platyrhynchos,8839,mallard
 Anguilla anguilla,7936,European eel
+Anopheles stephensi,30069,Asian malaria mosquito
 Anthurium andraeanum,226677,oilcloth-flower
 Apis mellifera,7460,honey bee
 Apium graveolens,4045,
@@ -14,7 +20,8 @@ Arachis hypogaea,3818,peanut
 Artemia franciscana,6661,brine shrimp
 Artemia salina,85549,
 Athelia rolfsii,39291,
-Avena sativa,4498,oats
+Avena sativa,4498,oat
+Avena strigosa,38783,black oat
 Averrhoa carambola,28974,
 Beta vulgaris,161934,sugar beet
 Bombyx mori,7091,domestic silkworm
@@ -29,6 +36,7 @@ Caenorhabditis elegans,6239,roundworm
 Canis lupus,9612,gray wolf
 Capsicum annuum,4072,
 Capsicum frutescens,4073,hot pepper
+Carassius carassius,217509,crucian carp
 Castanea dentata,134033,American chestnut
 Castanea mollissima,60419,Chinese chestnut
 Castanea sativa,21020,European chestnut
@@ -37,6 +45,8 @@ Chenopodium quinoa,63459,quinoa
 Chinchilla chinchilla,10152,short-tailed chinchilla
 Chinchilla lanigera,34839,long-tailed chinchilla
 Chlorocebus aethiops,9534,grivet
+Chrysanthemum x morifolium,41568,mum
+Chrysoperla carnea,189513,
 Cicer arietinum,3827,chickpea
 Cichorium intybus,13427,chicory
 Citrullus lanatus,3654,wild melon
@@ -53,14 +63,18 @@ Citrus x microcarpa,164113,calamondin
 Citrus x tangelo,229630,
 Cotinus coggygria,269719,smokebush
 Cotinus obovatus,292731,
+Coturnix coromandelica,2567903,rain quail
 Crassostrea gigas,29159,Pacific oyster
+Crassostrea virginica,6565,eastern oyster
 Cucumis anguria,39473,gherkin
 Cucumis melo,3656,muskmelon
 Cucumis sativus,3659,cucumber
 Cucurbita maxima,3661,winter squash
 Cucurbita moschata,3662,crookneck pumpkin
 Cucurbita pepo,3663,vegetable marrow
+Cunninghamia lanceolata,28977,China fir
 Cynara cardunculus,4265,wild artichoke
+Cynoglossus semilaevis,244447,tongue sole
 Danio rerio,7955,zebrafish
 Daphnia magna,35525,
 Daucus carota,4039,carrot
@@ -68,6 +82,7 @@ Dianthus caryophyllus,3570,clove pink
 Dictyostelium discoideum,44689,
 Drosophila melanogaster,7227,fruit fly
 Dysdercus peruvianus,685034,
+Eisenia fetida,6396,common brandling worm
 Equus caballus,9796,horse
 Eragrostis curvula,38414,weeping love grass
 Eriobotrya japonica,32224,loquat
@@ -81,16 +96,19 @@ Gossypium barbadense,3634,sea-island cotton
 Gossypium hirsutum,3635,cotton
 Gryllus bimaculatus,6999,two-spotted cricket
 Helianthus annuus,4232,common sunflower
+Helicoverpa armigera,29058,cotton bollworm
 Hevea brasiliensis,3981,para rubber tree
 Homo sapiens,9606,human
 Hordeum vulgare,4513,barley
 Hylocereus trigonus,336126,strawberry-pear
 Ictalurus punctatus,7998,channel catfish
 Ixodes scapularis,6945,black-legged tick
+Kalanchoe daigremontiana,23013,devil's backbone
 Lactuca sativa,4236,garden lettuce
 Lemna minor,4472,
 Lens culinaris,3864,lentil
 Linum usitatissimum,4006,flax
+Liriodendron chinense x Liriodendron tulipifera,215539,
 Locusta migratoria,7004,migratory locust
 Lolium multiflorum,4521,Italian ryegrass
 Lolium perenne,4522,perennial ryegrass
@@ -99,28 +117,35 @@ Macaca fascicularis,9541,crab-eating macaque
 Macrosteles quadrilineatus,74068,aster leafhopper
 Malus domestica,3750,apple
 Malus prunifolia,106564,
+Malus pumila,283210,paradise apple
 Manduca sexta,7130,tobacco hornworm
 Mangifera indica,29780,mango
 Manihot esculenta,3983,cassava
 Medicago sativa,3879,lucerne
 Medicago truncatula,3880,barrel medic
+Meriones unguiculatus,10047,Mongolian gerbil
 Mesocricetus auratus,10036,golden hamster
 Mus musculus,10090,house mouse
 Musa acuminata,4641,dwarf banana
 Musa paradisiaca,89151,French plantain banana
 Nerium oleander,63479,common oleander
 Nicotiana benthamiana,4100,
+Nicotiana otophora,4091,
 Nicotiana paniculata,62141,
+Nicotiana sylvestris,4096,wood tobacco
 Nicotiana tabacum,4097,common tobacco
 Olea europaea,4146,common olive
 Oncorhynchus kisutch,8019,coho salmon
 Oncorhynchus mykiss,8022,rainbow trout
+Oreochromis niloticus,8128,nile tilapia
 Oryctolagus cuniculus,9986,rabbit
 Oryza sativa,4530,rice
 Ovis aries,9940,sheep
 Paralichthys olivaceus,8255,Japanese flounder
 Pelargonium hortorum,4031,common geranium
 Penaeus monodon,6687,black tiger shrimp
+Penaeus vannamei,6689,Pacific white shrimp
+Periplaneta americana,6978,American cockroach
 Persea americana,3435,avocado
 Petroselinum crispum,4043,parsley
 Phaseolus vulgaris,3885,string bean
@@ -133,7 +158,8 @@ Pinus thunbergii,3350,Japanese black pine
 Pisum sativum,3888,pea
 Plutella xylostella,51655,diamondback moth
 Populus alba,43335,xin bai yang
-Populus canadensis,3690,canadian poplar
+Populus canadensis,3690,Canadian poplar
+Populus x beijingensis,1217306,
 Potorous tridactylus,9310,long-nosed potoroo
 Prunus americana,122118,goose plum
 Prunus armeniaca,36596,apricot
@@ -141,12 +167,16 @@ Prunus avium,42229,sweet cherry
 Prunus domestica,3758,plum
 Prunus dulcis,3755,almond
 Prunus persica,3760,peach
+Punica granatum,22663,pomegranate
 Pyrus communis,23211,pear
 Pyrus pyrifolia,3767,sha li
 Raphanus sativus,3726,radish
 Rattus norvegicus,10116,Norway rat
 Rattus rattus,10117,black rat
+Rhaphiolepis bibas,2843217,loquat
 Rhipicephalus microplus,6941,southern cattle tick
+Rhizoctonia solani,456999,
+Rhodotorula mucilaginosa,5537,
 Riptortus pedestris,329032,
 Rosa odorata,267246,tea rose
 Saccharum officinarum,4547,sugarcane
@@ -159,6 +189,7 @@ Solanum lycopersicum,4081,tomato
 Solanum melongena,4111,eggplant
 Solanum microdontum,73574,
 Solanum peruvianum,4082,Peruvian tomato
+Solanum torvum,119830,turkey berry
 Solanum tuberosum,4113,potato
 Sorghum bicolor,4558,sorghum
 Spodoptera exigua,7107,beet armyworm
@@ -166,6 +197,7 @@ Spodoptera frugiperda,7108,fall armyworm
 Spodoptera littoralis,7109,African cotton leafworm
 Stylosanthes guianensis,62615,stylo
 Sus scrofa,9823,pig
+Tagetes erecta,13708,African marigold
 Tenebrio molitor,7067,yellow mealworm
 Theobroma cacao,3641,cacao
 Tribolium castaneum,7070,red flour beetle
