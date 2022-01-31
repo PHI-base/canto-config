@@ -570,6 +570,8 @@ ontology_namespace_config:
     - "is_a(gocheck_do_not_annotate)"
     - "is_a(gocheck_do_not_manually_annotate)"
 
+phenotype_condition_namespace: phenotype_condition
+
 export:
   gene_association_fields:
     db: "UniProtKB"
