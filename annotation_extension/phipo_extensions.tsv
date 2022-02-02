@@ -18,6 +18,7 @@ PHIPO:0000001	is_a	compared_to_control	MetagenotypeID	compared to control genoty
 PHIPO:0000001	is_a	gene_for_gene_interaction	PHIPO_EXT:0000001	gene-for-gene interaction		0,1	user	gene_for_gene_phenotype
 PHIPO:0000001-is_a(PHIPO:0001196)&is_a(PHIPO:0001197)	is_a	has_penetrance	FYPO_EXT:1000002|%	penetrance	proportion of the population that shows the phenotype (can be quantitative or qualitative)	0,1	user	
 PHIPO:0000402	is_a	has_penetrance	FYPO_EXT:1000002|%	penetrance	proportion of the population that shows the phenotype (can be quantitative or qualitative)	0,1	user	
+PHIPO:0000001	is_a	has_severity	FYPO_EXT:1000001	severity		0,1	user	
 PHIPO:0000082	is_a	has_severity	FYPO_EXT:1000001	severity		0,1	user	
 PHIPO:0000509	is_a	has_severity	FYPO_EXT:1000001	severity		0,1	user	
 PHIPO:0001196	is_a	has_severity	FYPO_EXT:1000001	severity		0,1	user	
