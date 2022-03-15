@@ -1,34 +1,40 @@
 NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
+470,Acinetobacter baumannii,2208,"81, ATCC 19606, DSM 6974"
+470,Acinetobacter baumannii,5377,"ATCC 17978, NCDC KC 755"
 470,Acinetobacter baumannii,AB0057Km,
-470,Acinetobacter baumannii,Ab169,
 470,Acinetobacter baumannii,AB5075,
 470,Acinetobacter baumannii,AB5075_UW,
 470,Acinetobacter baumannii,ATCC 17903,
-470,Acinetobacter baumannii,ATCC 17978,
-470,Acinetobacter baumannii,ATCC 19606,
 470,Acinetobacter baumannii,AYE,
+470,Acinetobacter baumannii,Ab169,
 470,Acinetobacter baumannii,BM4587,
 470,Acinetobacter baumannii,CI79,
 470,Acinetobacter baumannii,MAR002,
 470,Acinetobacter baumannii,S1,
+470,Acinetobacter baumannii,isolate ST2/KL22,
 106654,Acinetobacter nosocomialis,M2,
-715,Actinobacillus pleuropneumoniae,4074,S4074
+715,Actinobacillus pleuropneumoniae,4074,
+715,Actinobacillus pleuropneumoniae,HS143,
 715,Actinobacillus pleuropneumoniae,LD20,
+715,Actinobacillus pleuropneumoniae,MIDG2331,
 715,Actinobacillus pleuropneumoniae,S8,
-715,Actinobacillus pleuropneumoniae,serotype 15 strain HS143,HS143
-715,Actinobacillus pleuropneumoniae,serotype 5b strain L20,L20
+715,Actinobacillus pleuropneumoniae,SC1516,
 715,Actinobacillus pleuropneumoniae,SLW01,
+715,Actinobacillus pleuropneumoniae,Shope 4074,
+715,Actinobacillus pleuropneumoniae,serotype 15 strain HS143,
+715,Actinobacillus pleuropneumoniae,serotype 5b strain L20,
+644,Aeromonas hydrophila,NJ-35,
 644,Aeromonas hydrophila,SSU,
 644,Aeromonas hydrophila,YJ-1,
 645,Aeromonas salmonicida,A449,
-645,Aeromonas salmonicida,subsp. salmonicida strain JF2267,JF2267
+645,Aeromonas salmonicida,JF2267,
 358,Agrobacterium tumefaciens,C58,
 358,Agrobacterium tumefaciens,NT1RE,
 373,Agrobacterium vitis,F2/5,
 5599,Alternaria alternata,15A,
 5599,Alternaria alternata,AC325,
-5599,Alternaria alternata,ATCC 66981,
-5599,Alternaria alternata,ATCC 90610,
+5599,Alternaria alternata,EGS 34-016,"ATCC 66981, CBS 916.96, IMI 254138"
+5599,Alternaria alternata,EGS 37-132.2,"ATCC 90610, Tottori 15A"
 5599,Alternaria alternata,EV-MIL31,
 5599,Alternaria alternata,HC-2S,
 5599,Alternaria alternata,HC1,
@@ -37,91 +43,95 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5599,Alternaria alternata,SD-1,
 5599,Alternaria alternata,SH20,
 5599,Alternaria alternata,Z7,
-29001,Alternaria brassicicola,Abra43,
-29001,Alternaria brassicicola,abta14,
-29001,Alternaria brassicicola,ATCC 96836,
 29001,Alternaria brassicicola,ATCC 96866,
+29001,Alternaria brassicicola,Abra43,
+29001,Alternaria brassicicola,EGS 42-002,ATCC 96836
 29001,Alternaria brassicicola,Tf383,
-135859,Alternaria citri,OR1,ATCC 58171
+29001,Alternaria brassicicola,abta14,
+135859,Alternaria citri,OR1,
 160389,Alternaria longipes,C-00,
 48100,Alternaria solani,ALS1,
 48100,Alternaria solani,ALS2,
-13349,Arthrobotrys oligospora,CBS 115.81,"ATCC 24927, DSM 1491"
-13349,Arthrobotrys oligospora,YMF 1.3170,
 5454,Ascochyta rabiei,AR628,
+40993,Aspergillus carbonarius,NRRL 368,
 5059,Aspergillus flavus,12,
 5059,Aspergillus flavus,CA14,
-5059,Aspergillus flavus,CA14 (Δku70 ΔpyrG::AfpyrG),
 5059,Aspergillus flavus,CA14 PTS,
-5059,Aspergillus flavus,NRRL 3357,ATCC 200026
+5059,Aspergillus flavus,CA14 PTS Δku70 ΔpyrG,
+5059,Aspergillus flavus,CA14 Δku70 ΔpyrG::AfpyrG,
+5059,Aspergillus flavus,NRRL 3357,
 5059,Aspergillus flavus,PTS Δku70 ΔpyrG,
-5059,Aspergillus flavus,PTSΔku70ΔpyrG::AfpyrG,
-5059,Aspergillus flavus,"Δku70, ΔpyrG::AfpyrG",
-5059,Aspergillus flavus,"Δku70, ΔpyrG::pyrG",
+5059,Aspergillus flavus,PTS Δku70 ΔpyrG::AfpyrG,
 746128,Aspergillus fumigatus,237,
 746128,Aspergillus fumigatus,293.1,
-746128,Aspergillus fumigatus,5233,ATCC 13073
+746128,Aspergillus fumigatus,5233,
 746128,Aspergillus fumigatus,A1160,
-746128,Aspergillus fumigatus,"A1160 (Δku80, pyrG)",A1160
-746128,Aspergillus fumigatus,"A1160 (Δku80, pyrG1)",
 746128,Aspergillus fumigatus,A1160C,
 746128,Aspergillus fumigatus,A1160P+,
+746128,Aspergillus fumigatus,A1161,
+746128,Aspergillus fumigatus,AF293.1,
 746128,Aspergillus fumigatus,Af14,
 746128,Aspergillus fumigatus,Af293,
-746128,Aspergillus fumigatus,AF293.1,
 746128,Aspergillus fumigatus,AfS35,
 746128,Aspergillus fumigatus,AfS77,
-746128,Aspergillus fumigatus,akuB<KU80>,
-746128,Aspergillus fumigatus,AkuB<KU80>,
-746128,Aspergillus fumigatus,ATCC 46645,
 746128,Aspergillus fumigatus,B-5233,
-746128,Aspergillus fumigatus,CBS144.89,
+746128,Aspergillus fumigatus,CBS 144.89,
 746128,Aspergillus fumigatus,CEA10,
-746128,Aspergillus fumigatus,CEA17,AF14
+746128,Aspergillus fumigatus,CEA17,
+746128,Aspergillus fumigatus,CEA17 akuBKU80,
 746128,Aspergillus fumigatus,CEA17 Δku80,
 746128,Aspergillus fumigatus,D141,
 746128,Aspergillus fumigatus,H237,
-746128,Aspergillus fumigatus,Ku80,
-746128,Aspergillus fumigatus,KU80ΔpyrG,ΔakuB
-746128,Aspergillus fumigatus,NRC A-4-56,"WB 5122, ATCC 16424"
+746128,Aspergillus fumigatus,IF1SW-F4,
+746128,Aspergillus fumigatus,KU70,
+746128,Aspergillus fumigatus,KU80,
+746128,Aspergillus fumigatus,KU80ΔpyrG,
+746128,Aspergillus fumigatus,NCPF 2109,ATCC 46645
+746128,Aspergillus fumigatus,NRC A-4-56,
 746128,Aspergillus fumigatus,YJ-407,
+746128,Aspergillus fumigatus,akuBKU80,
 162425,Aspergillus nidulans,A26,
 162425,Aspergillus nidulans,pabaA1,
 728,Avibacterium paragallinarum,TW07,
 728,Avibacterium paragallinarum,TW94,
-1392,Bacillus anthracis,Sterne,
+1392,Bacillus anthracis,ANR-1,
 1392,Bacillus anthracis,STI,
-1392,Bacillus anthracis,Vollum,ATCC 14578
+1392,Bacillus anthracis,Sterne,
+1392,Bacillus anthracis,Vollum,
+1396,Bacillus cereus,0-9,
 1396,Bacillus cereus,ATCC 14579,
 1396,Bacillus cereus,F4810/72,
 1396,Bacillus cereus,G9241,
+1396,Bacillus cereus,HN001,
 176275,Beauveria bassiana,ANU1,
 176275,Beauveria bassiana,ARSEF 2575,
 176275,Beauveria bassiana,ARSEF 2860,
 176275,Beauveria bassiana,ARSEF 2861,
-176275,Beauveria bassiana,ATCC 90517,
-176275,Beauveria bassiana,Bb0062,CGMCC 7.34
-176275,Beauveria bassiana,Bb2860,
+176275,Beauveria bassiana,ATCC 90517,NRRL 20698
 176275,Beauveria bassiana,BCC 2660,
+176275,Beauveria bassiana,Bb0062,
+176275,Beauveria bassiana,Bb2860,
+176275,Beauveria bassiana,GXsk1011,
 176275,Beauveria bassiana,JEF-007,
-5016,Bipolaris maydis,C4,
+5016,Bipolaris maydis,C4,ATCC 48331
 5016,Bipolaris maydis,C5,
-5016,Bipolaris maydis,HITO7711,MAT1-2
+5016,Bipolaris maydis,HITO7711,
 101162,Bipolaris oryzae,WK-1C,
 45130,Bipolaris sorokiniana,ND90Pr,
 40125,Bipolaris victoriae,HvW,
 5017,Bipolaris zeicola,164R10,
 5017,Bipolaris zeicola,367-1a,
-5017,Bipolaris zeicola,SB111,"2R15, ATCC 90305"
-5039,Blastomyces dermatitidis,A,ATCC 60915
-5039,Blastomyces dermatitidis,SCB-2,ATCC 26199
+5017,Bipolaris zeicola,SB111,
+5039,Blastomyces dermatitidis,A,
+5039,Blastomyces dermatitidis,SCB-2,
 34373,Blumeria graminis,CC148,
-34373,Blumeria graminis,f. sp. hordei,
-34373,Blumeria graminis,f. sp. hordei race A6,
-34373,Blumeria graminis,f. sp. hordei strain CH4.8,CH4.8
-34373,Blumeria graminis,f. sp. hordei strain DH14,DH14
-34373,Blumeria graminis,f. sp. tritici,
+34373,Blumeria graminis,CH4.8,
+34373,Blumeria graminis,DH14,
 34373,Blumeria graminis,Fel09,
+34373,Blumeria graminis,isolate Bgt_JIW2,
+34373,Blumeria graminis,isolate K1,
+34373,Blumeria graminis,race A6,
+518,Bordetella bronchiseptica,D445,
 518,Bordetella bronchiseptica,KM22,
 518,Bordetella bronchiseptica,RB50,
 518,Bordetella bronchiseptica,S798,
@@ -135,30 +145,34 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 139,Borreliella burgdorferi,B31,
 139,Borreliella burgdorferi,B31 5A18,
 139,Borreliella burgdorferi,B31 5A18 NP1,
+139,Borreliella burgdorferi,B31 5A4,B31-5A4
 139,Borreliella burgdorferi,B31 A3,
-139,Borreliella burgdorferi,B31-5A4,
 139,Borreliella burgdorferi,GCB920,
+139,Borreliella burgdorferi,ML23,
 40559,Botrytis cinerea,1750,
-40559,Botrytis cinerea,38B1,
-40559,Botrytis cinerea,38B1 (CGMCC 4006),CGMCC 4006
+40559,Botrytis cinerea,38B1,CGMCC 4006
 40559,Botrytis cinerea,A-1-3,
 40559,Botrytis cinerea,A1,
 40559,Botrytis cinerea,B05.10,
 40559,Botrytis cinerea,BC22,
-40559,Botrytis cinerea,Bd90,
 40559,Botrytis cinerea,BY4741,
+40559,Botrytis cinerea,Bd90,
+40559,Botrytis cinerea,FJ1-3,
 40559,Botrytis cinerea,HYOGO11,
 40559,Botrytis cinerea,IK2018,
+40559,Botrytis cinerea,NY76,
 40559,Botrytis cinerea,SAS56,
 40559,Botrytis cinerea,T4,
 278938,Botrytis elliptica,Be9401,
 235,Brucella abortus,1119-3,
-235,Brucella abortus,2308,S2308
+235,Brucella abortus,2308,
 29459,Brucella melitensis,133,
 29459,Brucella melitensis,16M,
+29459,Brucella melitensis,2308,
 29459,Brucella melitensis,M28,
 29459,Brucella melitensis,NI,
-29461,Brucella suis,1330,"ATCC 23444, NCTC 10316"
+444163,Brucella microti,CCM4915,
+29461,Brucella suis,1330,
 95486,Burkholderia cenocepacia,H111,
 95486,Burkholderia cenocepacia,J2315,
 95486,Burkholderia cenocepacia,K56-2,
@@ -171,10 +185,10 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 337,Burkholderia glumae,BGR1,
 337,Burkholderia glumae,FU13,
 337,Burkholderia glumae,M3,
+337,Burkholderia glumae,PG1,
 337,Burkholderia glumae,Pg-10,
 337,Burkholderia glumae,Pg-15,
 337,Burkholderia glumae,Pg-7,
-337,Burkholderia glumae,PG1,
 337,Burkholderia glumae,SL2376,
 13373,Burkholderia mallei,ATCC 23344,
 28450,Burkholderia pseudomallei,1026b,
@@ -185,23 +199,26 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 28450,Burkholderia pseudomallei,JW280,
 28450,Burkholderia pseudomallei,K96243,
 28450,Burkholderia pseudomallei,K96423,
+28450,Burkholderia pseudomallei,MSHR668,
+57975,Burkholderia thailandensis,ATCC 700388D-5,
 57975,Burkholderia thailandensis,E264,
 6326,Bursaphelenchus xylophilus,AMA3,
 6326,Bursaphelenchus xylophilus,AMA3cl,
+6326,Bursaphelenchus xylophilus,NXY61,
 6326,Bursaphelenchus xylophilus,YW4,
 197,Campylobacter jejuni,11-164,
 197,Campylobacter jejuni,11168,
 197,Campylobacter jejuni,81-176,
 197,Campylobacter jejuni,81116,
 197,Campylobacter jejuni,CS2,
+197,Campylobacter jejuni,F38011,
+197,Campylobacter jejuni,IA3902,
 197,Campylobacter jejuni,M1,
 197,Campylobacter jejuni,NCTC 11168,
 197,Campylobacter jejuni,NCTC 11168-O,
 197,Campylobacter jejuni,PopP2,
-5476,Candida albicans,10261,
 5476,Candida albicans,10560-B,
 5476,Candida albicans,A72,
-5476,Candida albicans,ATCC 10261,
 5476,Candida albicans,BWP17,
 5476,Candida albicans,BWP17+cIP30,
 5476,Candida albicans,CAF-3,
@@ -212,95 +229,113 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5476,Candida albicans,CAI-7,
 5476,Candida albicans,CAI4,
 5476,Candida albicans,CEC2908,
+5476,Candida albicans,CW542,
 5476,Candida albicans,DAY1,
 5476,Candida albicans,DAY185,
 5476,Candida albicans,DK318,
+5476,Candida albicans,DP42,
 5476,Candida albicans,GP1,
 5476,Candida albicans,HBCA 16,
+5476,Candida albicans,IOC 2023,"2023, 582 (phase S), ATCC 10261, CBS 2718, CCY 29-3-108, FMJ 1011, IFO 1061"
 5476,Candida albicans,JC1936,
 5476,Candida albicans,JC747,
 5476,Candida albicans,KC645,
+5476,Candida albicans,M1477,
 5476,Candida albicans,R8,
+5476,Candida albicans,RM100,
 5476,Candida albicans,RM1000,
 5476,Candida albicans,SC5314,
+5476,Candida albicans,SGC2024,
 5476,Candida albicans,SGY243,
+5476,Candida albicans,SN148,
 5476,Candida albicans,SN152,
 5476,Candida albicans,SN250,
 5476,Candida albicans,SN425,
 5476,Candida albicans,SN76,
+5476,Candida albicans,W303a,
 5476,Candida albicans,YJA10,
 42374,Candida dubliniensis,Wü284,
+5478,Candida glabrata,311,
 5478,Candida glabrata,BG14,
 5478,Candida glabrata,BG2,
-5478,Candida glabrata,CBS 138,ATCC 2001
+5478,Candida glabrata,CBS 138,
 5478,Candida glabrata,HTL,
 5478,Candida glabrata,KUE100,
 5480,Candida parapsilosis,AM2001/0013,
-5480,Candida parapsilosis,CBS 604,ATCC 22019
+5480,Candida parapsilosis,BC014S,
+5480,Candida parapsilosis,CBS 604,
 5480,Candida parapsilosis,CDC317,
 5480,Candida parapsilosis,CLIB 214,
 5480,Candida parapsilosis,GA1,
-5482,Candida tropicalis,ATCC 750,
-5482,Candida tropicalis,ATCC MYA-3404,"MYA-3404, T1"
-5158,Ceratocystis fimbriata,f. sp. platani strain AF 100,AF 100
+5482,Candida tropicalis,1909,"ATCC 4563, ATCC 7349, ATCC 750, CBS 94, CCRC 20520, IFO 1070, IFO 1400, JCM 1541, NRRL Y-12699, NRRL Y-12968, NRRL Y-607"
+5482,Candida tropicalis,MYA3404,
+5482,Candida tropicalis,T1,ATCC MYA-3404
+5158,Ceratocystis fimbriata,AF 100,
 312341,Ceratocystis harringtonii,119.78,
 84275,Cercospora kikuchii,PR,
-29003,Cercospora nicotianae,14,ATCC 18366
+29003,Cercospora nicotianae,14,
 135779,Cercospora zeae-maydis,SCOH1-5,
 83560,Chlamydia muridarum,CMUT3,
 83560,Chlamydia muridarum,Nigg,
 83560,Chlamydia muridarum,Nigg3,
 813,Chlamydia trachomatis,25667R,
+813,Chlamydia trachomatis,A2497,
 813,Chlamydia trachomatis,D-LC,
 813,Chlamydia trachomatis,D/UW-3/CX,
-67825,Citrobacter rodentium,DBS100,ATCC 51459
+813,Chlamydia trachomatis,L2,
+67825,Citrobacter rodentium,DBS100,
+67825,Citrobacter rodentium,DBS770,
+67825,Citrobacter rodentium,GPM1831a,
 67825,Citrobacter rodentium,ICC168,
 67825,Citrobacter rodentium,ICC169,
 67825,Citrobacter rodentium,ICC180,
 28447,Clavibacter michiganensis,Cm15-2.0 sm,
-28447,Clavibacter michiganensis,subsp. michiganensis strain NCPPB382,NCPPB382
+28447,Clavibacter michiganensis,NCPPB382,
 5111,Claviceps purpurea,20.1,
 5111,Claviceps purpurea,20.1Δku70,
 5111,Claviceps purpurea,Cp20.1,
 5111,Claviceps purpurea,PI,
-36911,Clavispora lusitaniae,ATCC 42720,
+36911,Clavispora lusitaniae,45090,ATCC 42720
 1496,Clostridioides difficile,630,
 1496,Clostridioides difficile,630Δerm,
 1496,Clostridioides difficile,JIR8094,
 1496,Clostridioides difficile,M7404,
 1496,Clostridioides difficile,R20291,
 1496,Clostridioides difficile,RT027,
+1502,Clostridium perfringens,26,"A.J. Wilsdon type A, ATCC 3624, L.S. McClung 1997"
 1502,Clostridium perfringens,56,
+1502,Clostridium perfringens,CNEOP004,
 1502,Clostridium perfringens,CP1,
 1502,Clostridium perfringens,EHE-NE18,
 1502,Clostridium perfringens,JIR325,
 1502,Clostridium perfringens,NCTC 3110,
-1502,Clostridium perfringens,type D strain CN1020,CN1020
+1502,Clostridium perfringens,type D strain CN1020,
 5501,Coccidioides immitis,C735,
 199306,Coccidioides posadasii,C735,
+27357,Colletotrichum acutatum,Coll-153,
 27358,Colletotrichum coccodes,Si-60,
 27358,Colletotrichum coccodes,US-41,
 474922,Colletotrichum gloeosporioides,CFCC80308,
 474922,Colletotrichum gloeosporioides,Cg-14,
-474922,Colletotrichum gloeosporioides,f. sp. aeschynomenes,
+474922,Colletotrichum gloeosporioides,EX2016-02,
 474922,Colletotrichum gloeosporioides,SMCG1#C,
 474922,Colletotrichum gloeosporioides,UQ62,
 474922,Colletotrichum gloeosporioides,W16,
 474922,Colletotrichum gloeosporioides,WT178,
 31870,Colletotrichum graminicola,CgM2,
-31870,Colletotrichum graminicola,M1.001,M2
+31870,Colletotrichum graminicola,M1.001,
 31870,Colletotrichum graminicola,M2,
 80884,Colletotrichum higginsianum,337-5,
+80884,Colletotrichum higginsianum,CH-1,
 80884,Colletotrichum higginsianum,Chku80,
 80884,Colletotrichum higginsianum,IMI349061,CH-1
-80884,Colletotrichum higginsianum,IMI349061 (CH-1),
 5462,Colletotrichum lagenaria,104-T,
 5462,Colletotrichum lagenaria,9201Y,
 1585795,Colletotrichum lentis,CT-21,
 290576,Colletotrichum lindemuthianum,89 A2 2-3,
 290576,Colletotrichum lindemuthianum,N9.20,
-290576,Colletotrichum lindemuthianum,race beta,race β
 290576,Colletotrichum lindemuthianum,UPS9,
+290576,Colletotrichum lindemuthianum,race beta,
 5465,Colletotrichum orbiculare,104-T,
 5465,Colletotrichum orbiculare,MAFF240422,
 5466,Colletotrichum trifolii,race 1,
@@ -308,9 +343,9 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1717,Corynebacterium diphtheriae,HC04,
 1717,Corynebacterium diphtheriae,NCTC 13129,
 65058,Corynebacterium ulcerans,809,
-777,Coxiella burnetii,Nine Mile Phase I,"NMI, RSA 493"
-777,Coxiella burnetii,Nine Mile phase II,"NMII, RSA 439"
-777,Coxiella burnetii,Nine Mile phase II clone 4,"NMPIIC4, RSA 439 clone 4"
+777,Coxiella burnetii,Nine Mile Phase I,
+777,Coxiella burnetii,Nine Mile phase II,
+777,Coxiella burnetii,Nine Mile phase II clone 4,
 777,Coxiella burnetii,RSA 439,
 777,Coxiella burnetii,Tn1832,
 413502,Cronobacter turicensis,LMG 23827,
@@ -318,13 +353,15 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5116,Cryphonectria parasitica,EP155,
 5116,Cryphonectria parasitica,EP155/2,
 5116,Cryphonectria parasitica,Δcpku80,
-552467,Cryptococcus gattii vgiii,NIH 444,
-552467,Cryptococcus gattii vgiii,R265,
+552467,Cryptococcus gattii VGIII,NIH 444,
+552467,Cryptococcus gattii VGIII,R265,
+5207,Cryptococcus neoformans,H99,
 5207,Cryptococcus neoformans,B-3501,
 5207,Cryptococcus neoformans,B-4476,
 5207,Cryptococcus neoformans,B-4500,
 5207,Cryptococcus neoformans,B4131,
-5207,Cryptococcus neoformans,cap10-F2F0,
+5207,Cryptococcus neoformans,CM018,
+5207,Cryptococcus neoformans,CNU125,
 5207,Cryptococcus neoformans,E2,
 5207,Cryptococcus neoformans,H99,
 5207,Cryptococcus neoformans,H99FOA19,
@@ -332,29 +369,26 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5207,Cryptococcus neoformans,JEC33,
 5207,Cryptococcus neoformans,JEC43,
 5207,Cryptococcus neoformans,KN99,
-5207,Cryptococcus neoformans,KN99α,
-5207,Cryptococcus neoformans,M001 (H99 ade2),
+5207,Cryptococcus neoformans,KN99α,KN99alpha
+5207,Cryptococcus neoformans,M001,
+5207,Cryptococcus neoformans,MATa KN99,
 5207,Cryptococcus neoformans,RC2,
-5207,Cryptococcus neoformans,serotype A M049,M049
-5207,Cryptococcus neoformans,serotype A strain B-4551,B-4551
-5207,Cryptococcus neoformans,serotype A strain H99,H99
-5207,Cryptococcus neoformans,serotype A strain KN99,KN99
-5207,Cryptococcus neoformans,serotype D strain ATCC 208819,ATCC 208819
-5207,Cryptococcus neoformans,serotype D strain B4500,B4500
-5207,Cryptococcus neoformans,serotype D strain JEC 43,JEC43
-5207,Cryptococcus neoformans,serotype D strain JEC155,JEC155
-5207,Cryptococcus neoformans,serotype D strain JEC20,JEC20
-5207,Cryptococcus neoformans,serotype D strain JEC20/21,JEC20/21
-5207,Cryptococcus neoformans,serotype D strain JEC21,JEC21
-5207,Cryptococcus neoformans,serotype D strain LP2,LP2
-5207,Cryptococcus neoformans,serotype D strain LP8,LP8
-5207,Cryptococcus neoformans,serotype D strain NE167-170,NE167-170
-5207,Cryptococcus neoformans,var grubii serotype A strain H99,H99
-5207,Cryptococcus neoformans,var. grubii serotype A strain H99,H99
-5207,Cryptococcus neoformans,var. grubii strain CM018,CM018
-5207,Cryptococcus neoformans,var. grubii strain H99,H99
 5207,Cryptococcus neoformans,WSA-7,
 5207,Cryptococcus neoformans,XL280,
+5207,Cryptococcus neoformans,cap10F2FO,
+5207,Cryptococcus neoformans,serotype A strain B-4551,
+5207,Cryptococcus neoformans,serotype A strain H99,
+5207,Cryptococcus neoformans,serotype A strain KN99,
+5207,Cryptococcus neoformans,serotype A strain M049,
+5207,Cryptococcus neoformans,serotype D strain ATCC 208819,
+5207,Cryptococcus neoformans,serotype D strain B4500,
+5207,Cryptococcus neoformans,serotype D strain JEC155,
+5207,Cryptococcus neoformans,serotype D strain JEC20,
+5207,Cryptococcus neoformans,serotype D strain JEC21,
+5207,Cryptococcus neoformans,serotype D strain JEC43,
+5207,Cryptococcus neoformans,serotype D strain LP2,
+5207,Cryptococcus neoformans,serotype D strain LP8,
+5207,Cryptococcus neoformans,serotype D strain NE167-170,
 5503,Curvularia lunata,CX-3,
 43,Cystobacter fuscus,DSMZ2262,
 430498,Dactylellina haptotyla,CBS 200.50,
@@ -365,9 +399,11 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1089444,Dickeya solani,IFB0158,
 1089444,Dickeya solani,IFB0221,
 1089444,Dickeya solani,IFB0223,
+1089444,Dickeya solani,IPO 2222,
 67780,Edwardsiella ictaluri,93-146,
 67780,Edwardsiella ictaluri,HSN- 1,
 636,Edwardsiella tarda,EIB202,
+636,Edwardsiella tarda,ET13,
 636,Edwardsiella tarda,H1,
 636,Edwardsiella tarda,PPD130/91,
 636,Edwardsiella tarda,TX01,
@@ -377,6 +413,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1351,Enterococcus faecalis,JH2-2,
 1351,Enterococcus faecalis,MMH594,
 1351,Enterococcus faecalis,OG1RF,
+1351,Enterococcus faecalis,S613,
 1351,Enterococcus faecalis,Symbioflor 1,
 1351,Enterococcus faecalis,V583,
 1352,Enterococcus faecium,DO,
@@ -384,11 +421,12 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1352,Enterococcus faecium,U0317,
 35717,Epichloe festucae,E2368,
 35717,Epichloe festucae,Fl1,
+552,Erwinia amylovora,1189,
 552,Erwinia amylovora,CFBP 1430,
 552,Erwinia amylovora,Ea1189,
 552,Erwinia amylovora,Ea321,
 552,Erwinia amylovora,HKN06P1,
-552,Erwinia amylovora,NCPPB1665,
+552,Erwinia amylovora,NCPPB 1665,
 562,Escherichia coli,042,
 562,Escherichia coli,12-05829,
 562,Escherichia coli,392 ISS,
@@ -397,13 +435,18 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 562,Escherichia coli,A1749,
 562,Escherichia coli,A192PP,
 562,Escherichia coli,AE17,
+562,Escherichia coli,AE81,
 562,Escherichia coli,APCE94,
-562,Escherichia coli,APEC (ST117 O83:H4),
 562,Escherichia coli,APEC DE205B,
 562,Escherichia coli,APEC O1,
-562,Escherichia coli,APEC strain SCI-07,"SCI-07, ONT:H31"
+562,Escherichia coli,APEC serotype O83:H4 ST117,
+562,Escherichia coli,APEC strain SCI-07,ONT:H31
 562,Escherichia coli,APEC-34 O91,
+562,Escherichia coli,APEC94,
+562,Escherichia coli,BA320,
 562,Escherichia coli,BW25113,
+562,Escherichia coli,C227-11,
+562,Escherichia coli,C83902,
 562,Escherichia coli,CE129,
 562,Escherichia coli,CFT073,
 562,Escherichia coli,CH2,
@@ -415,60 +458,67 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 562,Escherichia coli,E2348/69,
 562,Escherichia coli,E44,
 562,Escherichia coli,EAEC 042,
+562,Escherichia coli,EAEC CV323/77,
 562,Escherichia coli,ECB480,
 562,Escherichia coli,EDL933,
+562,Escherichia coli,EPEC E2348/69,
 562,Escherichia coli,F11,
+562,Escherichia coli,F149H1S2,
 562,Escherichia coli,FY26,
 562,Escherichia coli,H10407,
 562,Escherichia coli,J53,
 562,Escherichia coli,J96,
+562,Escherichia coli,JM103,
 562,Escherichia coli,K1 ZD1,
+562,Escherichia coli,KP7600,
 562,Escherichia coli,LF82,
 562,Escherichia coli,LRT9,
 562,Escherichia coli,M12,
 562,Escherichia coli,MS7163,
-562,Escherichia coli,Nissle 1917,EcN
-562,Escherichia coli,O157,EHEC O157:H7
-562,Escherichia coli,O78:H9,
+562,Escherichia coli,MT78,
+562,Escherichia coli,Nissle 1917,
 562,Escherichia coli,PA45B,
 562,Escherichia coli,PCN033,
 562,Escherichia coli,PPECC42,
 562,Escherichia coli,QCT598,
 562,Escherichia coli,RS218,
 562,Escherichia coli,SEPT362,
-562,Escherichia coli,serotype O127:H6 strain E2348/69,E2348/69
-562,Escherichia coli,serotype O157:H7,O157:H7
-562,Escherichia coli,serotype O157:H7 strain 86-24,86-24
-562,Escherichia coli,serotype O157:H7 strain CDC EDL 933,"CDC EDL 933, ATCC 43895"
-562,Escherichia coli,serotype O157:H7 strain EDL932,"O157:H7 EDL932, EDL932, ATCC 43894"
-562,Escherichia coli,serotype O157:H7 strain EDL933,"EDL933, O157:H7 EDL933"
-562,Escherichia coli,serotype O2 strain DE17,DE17
-562,Escherichia coli,serotype O2:K1 strain DE719,DE719
-562,Escherichia coli,serotype O2:K1:H7 strain M78,M78
-562,Escherichia coli,serotype O32:H37 strain P4,P4
-562,Escherichia coli,serotype O78:K80:H9 strain χ7122,χ7122
 562,Escherichia coli,SP15,
 562,Escherichia coli,TW-XM,
 562,Escherichia coli,TW08571,
 562,Escherichia coli,TW14359,
 562,Escherichia coli,U8,
-562,Escherichia coli,UCB34 (O17:K+:H18),UCB34
+562,Escherichia coli,UCB34,
 562,Escherichia coli,UTI89,
 562,Escherichia coli,XM,
-5970,Exophiala dermatitidis,8656,"ATCC 34100, CBS 525.76, NIH/UT8656"
+562,Escherichia coli,serotype O127:H6 strain E2348/69,
+562,Escherichia coli,serotype O157,EHEC O157:H7
+562,Escherichia coli,serotype O157:H7,
+562,Escherichia coli,serotype O157:H7 strain 620,
+562,Escherichia coli,serotype O157:H7 strain 86-24,
+562,Escherichia coli,serotype O157:H7 strain EDL932,
+562,Escherichia coli,serotype O157:H7 strain EDL933,
+562,Escherichia coli,serotype O2 strain DE17,
+562,Escherichia coli,serotype O2:K1 strain DE719,
+562,Escherichia coli,serotype O2:K1:H7 strain M78,
+562,Escherichia coli,serotype O32:H37 strain P4,
+562,Escherichia coli,serotype O78:H9,
+562,Escherichia coli,serotype O78:K80:H9 strain χ7122,serotype O78:K80:H9 strain chi7122
+562,Escherichia coli,serotype O91:H21 strain B2F1,
+5970,Exophiala dermatitidis,8656,
 5970,Exophiala dermatitidis,CBS 525.76,
 5970,Exophiala dermatitidis,Wd8656,
 93612,Exserohilum turcicum,Et28A,
 96345,Flavobacterium psychrophilum,FKR9801,
 96345,Flavobacterium psychrophilum,NCIMB1947,
+96345,Flavobacterium psychrophilum,OSU THCO2-90,
 263,Francisella tularensis,FSC200,
-263,Francisella tularensis,LVS,
+263,Francisella tularensis,LVS,ATCC 29684
 263,Francisella tularensis,SCHU P0,
-263,Francisella tularensis,SCHU S4,Schu S4
-263,Francisella tularensis,subsp. holarctica strain LVS,"LVS, ATCC 29684"
-263,Francisella tularensis,subsp. novicida strain U112,U112
+263,Francisella tularensis,SCHU S4,
 263,Francisella tularensis,U112,
 282267,Fusarium asiaticum,2021,
+282267,Fusarium asiaticum,EXAP-08,
 282267,Fusarium asiaticum,FaJT041,
 282267,Fusarium asiaticum,GJ33,
 282267,Fusarium asiaticum,zj-1,
@@ -485,13 +535,13 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5518,Fusarium graminearum,5035,
 5518,Fusarium graminearum,54606,
 5518,Fusarium graminearum,8/1,
-5518,Fusarium graminearum,8/151,Fg 8/151
+5518,Fusarium graminearum,8/151,
 5518,Fusarium graminearum,CS3005,
 5518,Fusarium graminearum,DAOM 180378,
 5518,Fusarium graminearum,DAOM 233423,
+5518,Fusarium graminearum,FSK511,
 5518,Fusarium graminearum,Fg 8/1,
 5518,Fusarium graminearum,Fg 820,
-5518,Fusarium graminearum,FSK511,
 5518,Fusarium graminearum,GZ03643,
 5518,Fusarium graminearum,GZ3639,
 5518,Fusarium graminearum,HN9-1,
@@ -508,89 +558,99 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5518,Fusarium graminearum,Z03639,
 5518,Fusarium graminearum,Z03643,
 5518,Fusarium graminearum,Z3936,
+5507,Fusarium oxysporum,007,
+5507,Fusarium oxysporum,26406,
 5507,Fusarium oxysporum,297,
 5507,Fusarium oxysporum,4287,
 5507,Fusarium oxysporum,4288,
+5507,Fusarium oxysporum,CGMCC3.2830,
 5507,Fusarium oxysporum,CK3-1,
-5507,Fusarium oxysporum,f. sp lycopersici race 2 strain 4287,"4287, FGSC 9935, FOL 4287, NRRL 34936"
-5507,Fusarium oxysporum,f. sp. cepae,
-5507,Fusarium oxysporum,f. sp. conglutinans,
-5507,Fusarium oxysporum,f. sp. cubense race 4 strain XJZ2,XJZ2
-5507,Fusarium oxysporum,f. sp. cubense TR4 strain II5,"NRRL 54006, Tropical Race 4 strain II5"
-5507,Fusarium oxysporum,f. sp. cucumerinum strain F9,F9
-5507,Fusarium oxysporum,f. sp. cucumerinum strain FocGD,FocGD
-5507,Fusarium oxysporum,f. sp. lycopersici,Fol
-5507,Fusarium oxysporum,f. sp. lycopersici race 2 strain 4287,"4287, FOL 4287, FGSC 9935, NRRL 34936"
-5507,Fusarium oxysporum,f. sp. lycopersici race 2 strain Fol007,Fol007
-5507,Fusarium oxysporum,f. sp. lycopersici strain 007,007
-5507,Fusarium oxysporum,f. sp. lycopersici strain 4287,4287
-5507,Fusarium oxysporum,f. sp. lycopersici strain Chiba-5,Chiba-5
-5507,Fusarium oxysporum,f. sp. lycopersici strain Fol007,Fol007
-5507,Fusarium oxysporum,f. sp. lycopersici strain H1-ChFP,H1-ChFP
-5507,Fusarium oxysporum,f. sp. melonis race 1,
-5507,Fusarium oxysporum,f. sp. melonis race 2,
-5507,Fusarium oxysporum,f. sp. melonis race 2 strain Mel02010,Mel02010
-5507,Fusarium oxysporum,f. sp. melonis strain 26406,26406
-5507,Fusarium oxysporum,f. sp. phaseoli strain FOP-SP1,FOP-SP1
-5507,Fusarium oxysporum,f. sp. phaseoli strain FOP-SP2,FOP-SP2
+5507,Fusarium oxysporum,Chiba-5,
+5507,Fusarium oxysporum,F9,
+5507,Fusarium oxysporum,FGSC 10442,
+5507,Fusarium oxysporum,FOP-SP1,
+5507,Fusarium oxysporum,FOP-SP2,
 5507,Fusarium oxysporum,Fo5176,
+5507,Fusarium oxysporum,FocGD,
+5507,Fusarium oxysporum,Fol007,
 5507,Fusarium oxysporum,Foxy20,
+5507,Fusarium oxysporum,H1-ChFP,
 5507,Fusarium oxysporum,O-685,
-5507,Fusarium oxysporum,race 2 strain 42-87,42-87
+5507,Fusarium oxysporum,TR4,
+5507,Fusarium oxysporum,TR4 strain II5,"NRRL 54006, Tropical Race 4 strain II5"
+5507,Fusarium oxysporum,race 1,
+5507,Fusarium oxysporum,race 2,
+5507,Fusarium oxysporum,race 2 strain 42-87,
+5507,Fusarium oxysporum,race 2 strain 4287,"FGSC 9935, FOL 4287, NRRL 34936"
+5507,Fusarium oxysporum,race 2 strain Fol007,
+5507,Fusarium oxysporum,race 2 strain Mel02010,
+5507,Fusarium oxysporum,race 4,
+5507,Fusarium oxysporum,race 4 strain XJZ2,
 948311,Fusarium proliferatum,FP9,
+101028,Fusarium pseudograminearum,CS11286,
 101028,Fusarium pseudograminearum,CS3096,
 101028,Fusarium pseudograminearum,CS3427,
+101028,Fusarium pseudograminearum,CS5519,
 101028,Fusarium pseudograminearum,IBT 1544,
 101028,Fusarium pseudograminearum,WZ-8A,
+101028,Fusarium pseudograminearum,WZ2-8,
+101028,Fusarium pseudograminearum,WZ2-8A,
 5128,Fusarium sambucinum,R6380,
 169388,Fusarium solani,114,
-169388,Fusarium solani,f. sp. cucurbitae strain PGB153,PGB153
+169388,Fusarium solani,230-30-6,
+169388,Fusarium solani,77-13-7,
+169388,Fusarium solani,94-6-1,
+169388,Fusarium solani,PGB153,
+169388,Fusarium solani,T8,
 5514,Fusarium sporotrichioides,NRRL 3299,
 117187,Fusarium verticillioides,5611,
 117187,Fusarium verticillioides,7598,
 117187,Fusarium verticillioides,7600,
 117187,Fusarium verticillioides,A00999,
-117187,Fusarium verticillioides,ITEM 10027,MPVP 294
+117187,Fusarium verticillioides,ITEM 10027,
 117187,Fusarium verticillioides,M-3120,
 117187,Fusarium verticillioides,M-3125,
 232082,Fusarium virguliforme,Mont-1,
-29850,Gaeumannomyces graminis,var. avenae strain A3,A3
-29850,Gaeumannomyces graminis,var. tritici strain LY3-21,
+29850,Gaeumannomyces graminis,A3,
+29850,Gaeumannomyces graminis,LY3-21,
 738,Glaesserella parasuis,HS49,
 738,Glaesserella parasuis,LC,
 738,Glaesserella parasuis,SC096,
 738,Glaesserella parasuis,SC1401,
 36090,Globodera pallida,Pa 2/3,
 31243,Globodera rostochiensis,Ro1-Mierenbos,
-5563,Gloeocercospora sorghi,T-442,
 226899,Grosmannia clavigera,kw1407,
 730,Haemophilus ducreyi,35000HP,
 727,Haemophilus influenzae,2866,
 727,Haemophilus influenzae,375,
+727,Haemophilus influenzae,86-028NP,
 727,Haemophilus influenzae,NTHI 2019,
 727,Haemophilus influenzae,NTHi 375,
 727,Haemophilus influenzae,PittII,
 210,Helicobacter pylori,10A,
 210,Helicobacter pylori,17875/Leb23,
-210,Helicobacter pylori,26695,ATCC 700392
+210,Helicobacter pylori,26695,
 210,Helicobacter pylori,51B,
 210,Helicobacter pylori,64,
 210,Helicobacter pylori,7.13,
 210,Helicobacter pylori,AB31,
 210,Helicobacter pylori,AB5,
+210,Helicobacter pylori,ATCC 43504,"JCM 7653, NCTC 11637, RPH 13487"
 210,Helicobacter pylori,B128,
 210,Helicobacter pylori,B128-S,
 210,Helicobacter pylori,G27,
+210,Helicobacter pylori,N6,
 210,Helicobacter pylori,PMSS1,
+210,Helicobacter pylori,SS1,
 210,Helicobacter pylori,X47,
 210,Helicobacter pylori,X47-2AL,
 13563,Heterobasidion annosum,3012,
 5037,Histoplasma capsulatum,G184AS,
 5037,Histoplasma capsulatum,G186A,
-5037,Histoplasma capsulatum,G186ARura5,
-5037,Histoplasma capsulatum,G217B,ATCC 26032
-5037,Histoplasma capsulatum,G217B ura5Δ,WU15
-5037,Histoplasma capsulatum,G217Bura5,
+5037,Histoplasma capsulatum,G186AR ura5,
+5037,Histoplasma capsulatum,G217B,
+5037,Histoplasma capsulatum,G217B ura5,
+5037,Histoplasma capsulatum,G217B ura5Δ,
 5037,Histoplasma capsulatum,UC26,
 272952,Hyaloperonospora arabidopsidis,Cala2,
 272952,Hyaloperonospora arabidopsidis,Emco5,
@@ -600,54 +660,65 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 272952,Hyaloperonospora arabidopsidis,Noco2,
 272952,Hyaloperonospora arabidopsidis,Noks1,
 272952,Hyaloperonospora arabidopsidis,Waco9,
+504,Kingella kingae,KK003,
 504,Kingella kingae,PYKK081,
 573,Klebsiella pneumoniae,123/01,
 573,Klebsiella pneumoniae,52.145,
+573,Klebsiella pneumoniae,ATCC 43816,
+573,Klebsiella pneumoniae,CDC 298/53,"ATCC 13883, CDCD 298/53, DSM 30104, IAM 14200, JCM 1662, NCTC 9633, WDCM 00097"
 573,Klebsiella pneumoniae,CG43,
-573,Klebsiella pneumoniae,hvKP1,
 573,Klebsiella pneumoniae,K2044,
-573,Klebsiella pneumoniae,Kp52.145,
+573,Klebsiella pneumoniae,KL1,
+573,Klebsiella pneumoniae,KL47,
 573,Klebsiella pneumoniae,KPPR1,
 573,Klebsiella pneumoniae,KPPR1S,
+573,Klebsiella pneumoniae,Kp52.145,
 573,Klebsiella pneumoniae,LM21,
 573,Klebsiella pneumoniae,MKP103,
-573,Klebsiella pneumoniae,NCTC 9633,NCTC 9633
 573,Klebsiella pneumoniae,NTUH-2044,
 573,Klebsiella pneumoniae,NTUH-K2044,
 573,Klebsiella pneumoniae,ST86,
-573,Klebsiella pneumoniae,TOP52,1721
+573,Klebsiella pneumoniae,TOP52,
+573,Klebsiella pneumoniae,UKP8,
+573,Klebsiella pneumoniae,hvKP1,
 1358,Lactococcus lactis,MG1363,
 93591,Lecanicillium fungicola,150-1,
 446,Legionella pneumophila,130b,
+446,Legionella pneumophila,AA100/130b,
 446,Legionella pneumophila,CR39,
+446,Legionella pneumophila,Corby,
 446,Legionella pneumophila,JR32,
 446,Legionella pneumophila,Lp01,
 446,Legionella pneumophila,Lp02,
 446,Legionella pneumophila,Lp02pj,
-446,Legionella pneumophila,Paris,CIP 107629T
+446,Legionella pneumophila,Paris,
 446,Legionella pneumophila,Philadelphia-1 Lp02,
-446,Legionella pneumophila,serogroup 1 strain 130b,"130b, ATCC BAA-74"
 5671,Leishmania infantum,JPCM5,
-5664,Leishmania major,lv39,
-5664,Leishmania major,MHOM/IL/80/Friedlin,NIH Friedlin V
+5664,Leishmania major,CC1,
+5664,Leishmania major,MHOM/IL/80/Friedlin,
 5664,Leishmania major,MHOM/IL/81/Friedlin,
-5664,Leishmania major,MHOM/JL/80/Friedlin,"Friedlin VI, FVI, MHOM/JL/80/FN"
+5664,Leishmania major,MHOM/JL/80/Friedlin,
 5664,Leishmania major,MHOM/SU/73/5-ASKH,
+5664,Leishmania major,WHOM/IR/-/173,
+5664,Leishmania major,lv39,
 5665,Leishmania mexicana,M379,
-5665,Leishmania mexicana,MNYC/BZ/62/M379,MNYC/BZ/1962/M379
+5665,Leishmania mexicana,MNYC/BZ/62/M379,
 5022,Leptosphaeria maculans,00-100,
-5022,Leptosphaeria maculans,D5,"M1, IBCN18"
+5022,Leptosphaeria maculans,D5,
+5022,Leptosphaeria maculans,DS103,
 5022,Leptosphaeria maculans,IBCN 14,
 5022,Leptosphaeria maculans,ICBN 18,
+5022,Leptosphaeria maculans,JN3,
 5022,Leptosphaeria maculans,M1,
 5022,Leptosphaeria maculans,Nzt-4,
 5022,Leptosphaeria maculans,v23.1.3,
-5022,Leptosphaeria maculans,v23.1.3 × v37.1. 4,
+5022,Leptosphaeria maculans,v23.1.3 × v37.1.4,v23.1.3 x v37.1.4
 173,Leptospira interrogans,702,
 173,Leptospira interrogans,Lai,
-173,Leptospira interrogans,serovar Copenhageni strain M20,M20
-173,Leptospira interrogans,serovar Manilae strain L495,L495
-1639,Listeria monocytogenes,10403S,NF-L100
+173,Leptospira interrogans,serovar Copenhageni strain M20,
+173,Leptospira interrogans,serovar Lai strain LR31,
+173,Leptospira interrogans,serovar Manilae strain L495,
+1639,Listeria monocytogenes,10403S,
 1639,Listeria monocytogenes,BUG 1600,
 1639,Listeria monocytogenes,BUG 1777,
 1639,Listeria monocytogenes,EGD,
@@ -661,12 +732,12 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1639,Listeria monocytogenes,M7,
 1639,Listeria monocytogenes,NTSN,
 1639,Listeria monocytogenes,QOC1,
-1639,Listeria monocytogenes,serotype 1/2a strain EGD-e,"EGD-e, EDGe, ATCC-BAA-679"
-1639,Listeria monocytogenes,serotype 1/2b strain 2011L-2858,2011L-2858
 1639,Listeria monocytogenes,SHL006,
 1639,Listeria monocytogenes,SHL12-2,
 1639,Listeria monocytogenes,SHL12-22,
 1639,Listeria monocytogenes,SHL13-12,
+1639,Listeria monocytogenes,serotype 1/2a strain EGD-e,
+1639,Listeria monocytogenes,serotype 1/2b strain 2011L-2858,
 71657,Lonsdalea quercina,N-5-1,
 318829,Magnaporthe oryzae,2539,
 318829,Magnaporthe oryzae,3986-R45,
@@ -683,24 +754,23 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 318829,Magnaporthe oryzae,B157,
 318829,Magnaporthe oryzae,Br48,
 318829,Magnaporthe oryzae,CP987,
-318829,Magnaporthe oryzae,Guy-11,
-318829,Magnaporthe oryzae,Guy11,
-318829,Magnaporthe oryzae,Guy11 Δku70,
+318829,Magnaporthe oryzae,Guy11,Guy-11
+318829,Magnaporthe oryzae,Guy11 Δku70,Guy-11 Δku70
 318829,Magnaporthe oryzae,H3:eGFP,
 318829,Magnaporthe oryzae,Hoku-1,
-318829,Magnaporthe oryzae,Ina168,INA168
-318829,Magnaporthe oryzae,Ina72,INA72
+318829,Magnaporthe oryzae,Ina168,
+318829,Magnaporthe oryzae,Ina72,
 318829,Magnaporthe oryzae,Ina86-137,
 318829,Magnaporthe oryzae,JL0910,
 318829,Magnaporthe oryzae,JS153,
+318829,Magnaporthe oryzae,KJ201,
+318829,Magnaporthe oryzae,KJ301,
+318829,Magnaporthe oryzae,KV1,
+318829,Magnaporthe oryzae,KV103,
 318829,Magnaporthe oryzae,Ken53-33,
 318829,Magnaporthe oryzae,Ken54-20,
 318829,Magnaporthe oryzae,Kita 1,
-318829,Magnaporthe oryzae,KJ201,
-318829,Magnaporthe oryzae,KJ301,
 318829,Magnaporthe oryzae,Ku80,
-318829,Magnaporthe oryzae,KU80,
-318829,Magnaporthe oryzae,KV103,
 318829,Magnaporthe oryzae,LY-130,
 318829,Magnaporthe oryzae,LY-130-R1,
 318829,Magnaporthe oryzae,LY-130-R4,
@@ -718,7 +788,6 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 318829,Magnaporthe oryzae,Q-3,
 318829,Magnaporthe oryzae,Q-8,
 318829,Magnaporthe oryzae,R88-002,
-318829,Magnaporthe oryzae,race 031 strain Ina72,Ina72
 318829,Magnaporthe oryzae,RB22,
 318829,Magnaporthe oryzae,RO1-1,
 318829,Magnaporthe oryzae,Sasa2,
@@ -726,6 +795,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 318829,Magnaporthe oryzae,Y-34,
 318829,Magnaporthe oryzae,Y34,
 318829,Magnaporthe oryzae,YN125,
+318829,Magnaporthe oryzae,race 031 strain Ina72,
 203908,Melampsora larici-populina,98AG31,
 6303,Meloidogyne javanica,VW4,
 92637,Metarhizium acridum,CQMa 102,
@@ -735,15 +805,22 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5530,Metarhizium anisopliae,SM04,
 568076,Metarhizium robertsii,ARSEF 23,
 568076,Metarhizium robertsii,ARSEF 2575,
+1682391,Microdochium sorghi,T-442,
+38448,Monilinia fructicola,Bmpc7,
 38448,Monilinia fructicola,MS9,
-38448,Monilinia fructicola,MUK-1,M1
+38448,Monilinia fructicola,MUK-1,
 153609,Moniliophthora perniciosa,CP02,
 552546,Muricauda olearia,Th120,
+1764,Mycobacterium avium,104,"MAC104, MAH 104"
 1764,Mycobacterium avium,au2,
-1764,Mycobacterium avium,subsp. hominissuis strain 104,"104, MAC104, MAH 104"
 1781,Mycobacterium marinum,E11,
-1781,Mycobacterium marinum,M,ATCC BAA-535
-1781,Mycobacterium marinum,M<USA>,
+1781,Mycobacterium marinum,M,
+1781,Mycobacterium marinum,M USA,"M<USA>, MUSA"
+1781,Mycobacterium marinum,MUSA,
+1773,Mycobacterium tuberculosis,AF2122/97,
+1773,Mycobacterium tuberculosis,BCG,
+1773,Mycobacterium tuberculosis,CDC 1551,
+1773,Mycobacterium tuberculosis,CDC 1551,
 1773,Mycobacterium tuberculosis,CDC1551,
 1773,Mycobacterium tuberculosis,Erdman,
 1773,Mycobacterium tuberculosis,H37Ra,
@@ -752,39 +829,39 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1773,Mycobacterium tuberculosis,Mt103,
 36809,Mycobacteroides abscessus,19977-IP,
 36809,Mycobacteroides abscessus,CIP 104536,
-36809,Mycobacteroides abscessus,subsp. bolletii,
-36809,Mycobacteroides abscessus,subsp. bolletii strain CIP 108541,CIP 108541
-36809,Mycobacteroides abscessus,subsp. massiliense strain CIP 104536<T>,CIP 104536<T>
+36809,Mycobacteroides abscessus,CIP 104536T,CIP 104536<T>
+36809,Mycobacteroides abscessus,CIP 108541,
+1774,Mycobacteroides chelonae,CCUG 47445,
 1772,Mycolicibacterium smegmatis,MC2 155,
 2110,Mycoplasma agalactiae,PG2,
+28903,Mycoplasma bovis,HB0801,
 2096,Mycoplasma gallisepticum,Ap3AS,
+2096,Mycoplasma gallisepticum,R,
 13164,Myzus persicae,RRes (genotype O),
-140110,Nectria haematococca,230-30-6,
-140110,Nectria haematococca,77-13-7,
-140110,Nectria haematococca,94-6-1,
-140110,Nectria haematococca,T8,
 485,Neisseria gonorrhoeae,FA 1090,
+487,Neisseria meningitidis,93/4286,
 487,Neisseria meningitidis,FAM20,
-487,Neisseria meningitidis,MC58,ATCC BAA335
+487,Neisseria meningitidis,MC58,
 487,Neisseria meningitidis,NIID84 Δcps,
 487,Neisseria meningitidis,"Norman B:14:P1.7,16",
-1464,Paenibacillus larvae,subsp. larvae,
-1464,Paenibacillus larvae,subsp. larvae strain ATCC9545,ATCC 9545
-1464,Paenibacillus larvae,subsp. larvae strain DSM 25430,DSM 25430
+2813651,Orbilia oligospora,ATCC 24927,"CBS 115.81, DSM 1491"
+2813651,Orbilia oligospora,CBS 115.81,
+2813651,Orbilia oligospora,YMF 1.3170,
+1464,Paenibacillus larvae,846,"ATCC 9545, NRRL B-2605"
+1464,Paenibacillus larvae,DSM 25430,
 553,Pantoea ananatis,LMG 20103,
 553,Pantoea ananatis,LMG 2665,
 553,Pantoea ananatis,OC5a Rpr,
-66269,Pantoea stewartii,subsp. stewartii,
-66269,Pantoea stewartii,subsp. stewartii strain DC283,DC283
-66269,Pantoea stewartii,subsp. stewartii strain SS104,SS104
+66269,Pantoea stewartii,DC283,
+66269,Pantoea stewartii,SS104,
 121759,Paracoccidioides brasiliensis,18,
-121759,Paracoccidioides brasiliensis,ATCC 60855,
+121759,Paracoccidioides brasiliensis,GR 8898,ATCC 60855
 121759,Paracoccidioides brasiliensis,Pb18,
 121759,Paracoccidioides brasiliensis,Pb339,
 13684,Parastagonospora nodorum,BS171,
 13684,Parastagonospora nodorum,LAW95,
-13684,Parastagonospora nodorum,Sch1-30,
 13684,Parastagonospora nodorum,SN15,
+13684,Parastagonospora nodorum,Sch1-30,
 13684,Parastagonospora nodorum,Sn1501,
 13684,Parastagonospora nodorum,Sn2000,
 5499,Passalora fulva,race 0,
@@ -794,31 +871,35 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5499,Passalora fulva,race 5,
 5499,Passalora fulva,race 9,
 29471,Pectobacterium atrosepticum,SCRI 1043,
+29471,Pectobacterium atrosepticum,SCRI1039,
+180957,Pectobacterium brasiliense,BF45,
+554,Pectobacterium carotovorum,1692,
+554,Pectobacterium carotovorum,Ecc71,
 554,Pectobacterium carotovorum,KD100,
-554,Pectobacterium carotovorum,subsp. brasiliense strain 1692,1692
-554,Pectobacterium carotovorum,subsp. carotovorum strain Ecc71,Ecc71
-554,Pectobacterium carotovorum,subsp. carotovorum strain Pcc21,Pcc21
-554,Pectobacterium carotovorum,subsp. carotovorum strain PccS1,PccS1
-554,Pectobacterium carotovorum,subsp. carotovorum strain WPP14,WPP14
+554,Pectobacterium carotovorum,Pcc21,
+554,Pectobacterium carotovorum,PccS1,
+554,Pectobacterium carotovorum,WPP14,
 55208,Pectobacterium wasabiae,SCC3193,
-36651,Penicillium digitatum,CECT20796 PHI26,
 36651,Penicillium digitatum,HS-F6,
+36651,Penicillium digitatum,PHI26,
 36651,Penicillium digitatum,Pd01,
 36651,Penicillium digitatum,Pd1,
 36651,Penicillium digitatum,Pd149,
 36651,Penicillium digitatum,Pd27,
 36651,Penicillium digitatum,PdKH8,
-36651,Penicillium digitatum,PdW03,CBS130527
-36651,Penicillium digitatum,PHI26,CECT 20796
+36651,Penicillium digitatum,PdW03,
+36651,Penicillium digitatum,isolate PHI26 strain CECT20796,
+27334,Penicillium expansum,CMP-1,
+27334,Penicillium expansum,MD-8,
 27334,Penicillium expansum,NRRL 35695,
-27334,Penicillium expansum,Pe-21,
-27334,Penicillium expansum,Pe-T01,
 27334,Penicillium expansum,PE100/PEX2,
 27334,Penicillium expansum,PEX1,
 27334,Penicillium expansum,PEX2,
+27334,Penicillium expansum,Pe-21,
+27334,Penicillium expansum,Pe-T01,
 27334,Penicillium expansum,T01,
 27334,Penicillium expansum,TJT1.1,
-38293,Photobacterium damselae,subsp. piscicida strain DI21,DI21
+38293,Photobacterium damselae,DI21,
 29488,Photorhabdus luminescens,158-S-2,
 29920,Phytophthora cactorum,10300,
 29920,Phytophthora cactorum,P381,
@@ -828,26 +909,30 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 4784,Phytophthora capsici,LT6535,
 4784,Phytophthora capsici,Pc537,
 4784,Phytophthora capsici,SD33,
+4787,Phytophthora infestans,14-3-GFP,
 4787,Phytophthora infestans,90128,
+4787,Phytophthora infestans,F80029,
 4787,Phytophthora infestans,HP10-45,
 4787,Phytophthora infestans,METV-618,
 4787,Phytophthora infestans,MX5-1,
 4787,Phytophthora infestans,NL-88069,
 4787,Phytophthora infestans,T30-4,
 4792,Phytophthora parasitica,1828,
-4792,Phytophthora parasitica,310,INRA-310
+4792,Phytophthora parasitica,310,
 4792,Phytophthora parasitica,98151,
-4792,Phytophthora parasitica,var. nicotianae,
-4792,Phytophthora parasitica,var. nicotianae race 0,
+4792,Phytophthora parasitica,IAC_01/95.1,
+4792,Phytophthora parasitica,race 0,
 67593,Phytophthora sojae,P6954,
 67593,Phytophthora sojae,P7076,
-67593,Phytophthora sojae,race 2 strain P6497,P6497
+67593,Phytophthora sojae,race 2 strain P6497,
 67593,Phytophthora sojae,race 7 strain P7064,
 5821,Plasmodium berghei,ANKA,
+5821,Plasmodium berghei,NK65,
 5833,Plasmodium falciparum,3D7,
 5833,Plasmodium falciparum,ANKA,
+5833,Plasmodium falciparum,CS2,
+837,Porphyromonas gingivalis,2561,ATCC 33277
 837,Porphyromonas gingivalis,A7436,
-837,Porphyromonas gingivalis,ATCC 33277,2561
 837,Porphyromonas gingivalis,W83,
 584,Proteus mirabilis,HI4320,
 584,Proteus mirabilis,N2,
@@ -857,7 +942,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 287,Pseudomonas aeruginosa,AES-1M,
 287,Pseudomonas aeruginosa,FRD1,
 287,Pseudomonas aeruginosa,H103,
-287,Pseudomonas aeruginosa,IHMA879472,IHMA87
+287,Pseudomonas aeruginosa,IHMA879472,
 287,Pseudomonas aeruginosa,LESB58,
 287,Pseudomonas aeruginosa,MPAO1,
 287,Pseudomonas aeruginosa,PA1,
@@ -870,62 +955,66 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 287,Pseudomonas aeruginosa,PAO1-UW,
 287,Pseudomonas aeruginosa,PAO1001,
 287,Pseudomonas aeruginosa,PAO1161,
+287,Pseudomonas aeruginosa,PAO1,
+287,Pseudomonas aeruginosa,S470,
 287,Pseudomonas aeruginosa,SCH0057-7,
 287,Pseudomonas aeruginosa,UCBPP-PA14,
+86840,Pseudomonas cannabina,KB211,
+36746,Pseudomonas cichorii,198,
 36746,Pseudomonas cichorii,JBC1,
 36746,Pseudomonas cichorii,SF1-54,
 294,Pseudomonas fluorescens,FD6,
 294,Pseudomonas fluorescens,TSS,
+50340,Pseudomonas fuscovaginae,DAR77795,
+50340,Pseudomonas fuscovaginae,DAR77800,
 50340,Pseudomonas fuscovaginae,UPB0736,
-29438,Pseudomonas savastanoi,pv. nerii strain Psn23,Psn23
-29438,Pseudomonas savastanoi,pv. savastanoi strain DAPP-PG 722,DAPP-PG 722
-29438,Pseudomonas savastanoi,pv. savastanoi strain NCPPB3335,NCPPB3335
+29438,Pseudomonas savastanoi,DAPP-PG 722,
+29438,Pseudomonas savastanoi,NCPPB 3335,
+29438,Pseudomonas savastanoi,Psn23,
+317,Pseudomonas syringae,1302A,
+317,Pseudomonas syringae,1448A,
+317,Pseudomonas syringae,151,
+317,Pseudomonas syringae,61,
+317,Pseudomonas syringae,6605,
+317,Pseudomonas syringae,7B40,
+317,Pseudomonas syringae,870A,
+317,Pseudomonas syringae,A2,
+317,Pseudomonas syringae,B728a,
+317,Pseudomonas syringae,BRIP34876,
+317,Pseudomonas syringae,CFCC 1336,
+317,Pseudomonas syringae,DC3000,
+317,Pseudomonas syringae,DC3000 D36E,
+317,Pseudomonas syringae,ES4326,
+317,Pseudomonas syringae,HL1,
+317,Pseudomonas syringae,JL1065,
+317,Pseudomonas syringae,M2,
+317,Pseudomonas syringae,M228,
+317,Pseudomonas syringae,M301315,
+317,Pseudomonas syringae,M6,
 317,Pseudomonas syringae,MB03,
-317,Pseudomonas syringae,pv. averrhoi strain HL1,HL1
-317,Pseudomonas syringae,pv. glycinea race 1,
-317,Pseudomonas syringae,pv. glycinea race 3,
-317,Pseudomonas syringae,pv. glycinea race 4,
-317,Pseudomonas syringae,pv. glycinea race 6,
-317,Pseudomonas syringae,pv. lachrymans strain M301315,M301315
-317,Pseudomonas syringae,pv. maculicola,
-317,Pseudomonas syringae,pv. maculicola strain ES4326,ES4326
-317,Pseudomonas syringae,pv. maculicola strain M2,M2
-317,Pseudomonas syringae,pv. maculicola strain M6,M6
-317,Pseudomonas syringae,pv. morsprunorum strain R1-5244,R1-5244
-317,Pseudomonas syringae,pv. phaseolicola race 3,
-317,Pseudomonas syringae,pv. phaseolicola race 4 strain 1302A,1302A
-317,Pseudomonas syringae,pv. phaseolicola race 6,race 6
-317,Pseudomonas syringae,pv. phaseolicola race 6 strain 1448A,1448A
-317,Pseudomonas syringae,pv. phaseolicola race 7 strain 1449B,1449B
-317,Pseudomonas syringae,pv. phaseolicola strain 1302A,Pph 1302A
-317,Pseudomonas syringae,pv. phaseolicola strain 1448A,1448A
-317,Pseudomonas syringae,pv. phaseolicola strain NPS3121,NPS3121
-317,Pseudomonas syringae,pv. pisi strain 151,151
-317,Pseudomonas syringae,pv. pisi strain 870A,870A
-317,Pseudomonas syringae,pv. syringae,
-317,Pseudomonas syringae,pv. syringae strain 61,61
-317,Pseudomonas syringae,pv. syringae strain 7B40,7B40
-317,Pseudomonas syringae,pv. syringae strain B728a,B728a
-317,Pseudomonas syringae,pv. syringae strain BRIP34876,BRIP34876
-317,Pseudomonas syringae,pv. syringae strain CFCC 1336,CFCC 1336
-317,Pseudomonas syringae,pv. tabaci,
-317,Pseudomonas syringae,pv. tabaci strain 6605,6605
-317,Pseudomonas syringae,pv. tomato strain DC3000,DC3000
-317,Pseudomonas syringae,pv. tomato strain JL1065,JL1065
-317,Pseudomonas syringae,pv. tomato strain PT23,PT23
+317,Pseudomonas syringae,NPS3121,
+317,Pseudomonas syringae,PT23,
+317,Pseudomonas syringae,R1-5244,
+317,Pseudomonas syringae,biovar 3 strain ICMP 18884,
+317,Pseudomonas syringae,biovar 3 strain ICMP 18884,
+317,Pseudomonas syringae,race 1,
+317,Pseudomonas syringae,race 3,
+317,Pseudomonas syringae,race 4,
+317,Pseudomonas syringae,race 4 strain 1302A,
+317,Pseudomonas syringae,race 6,
+317,Pseudomonas syringae,race 6 strain 1448A,
+317,Pseudomonas syringae,race 7 strain 1449B,
 29442,Pseudomonas tolaasii,6264,
 285811,Pseudopyrenochaeta lycopersici,ISPaVe ER 1211,
-5297,Puccinia graminis,f. sp. tritici,
-5297,Puccinia graminis,f. sp. tritici strain CRL 75-36-700-3,CRL 75-36-700-3
-27350,Puccinia striiformis,f. sp. tritici,
-27350,Puccinia striiformis,f. sp. tritici strain CYR31,CYR31
-27350,Puccinia striiformis,f. sp. tritici strain CYR32,CYR32
+5297,Puccinia graminis,CRL 75-36-700-3,
+27350,Puccinia striiformis,CYR31,
+27350,Puccinia striiformis,CYR32,
 53485,Pyrenophora teres,15A,
 45151,Pyrenophora tritici-repentis,Alg3-24,
-45151,Pyrenophora tritici-repentis,race 4 strain B16,B16
-45151,Pyrenophora tritici-repentis,race 4 strain B17,B17
-45151,Pyrenophora tritici-repentis,race 5,
 45151,Pyrenophora tritici-repentis,SD-20,
+45151,Pyrenophora tritici-repentis,race 4 strain B16,
+45151,Pyrenophora tritici-repentis,race 4 strain B17,
+45151,Pyrenophora tritici-repentis,race 5,
 329,Ralstonia pickettii,WP1,
 305,Ralstonia solanacearum,BK1002,
 305,Ralstonia solanacearum,GMI1000,
@@ -933,6 +1022,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 305,Ralstonia solanacearum,OE1-1,
 305,Ralstonia solanacearum,RS1000,
 305,Ralstonia solanacearum,RS1002,
+305,Ralstonia solanacearum,Rs-09-161,
 305,Ralstonia solanacearum,SL2029,
 305,Ralstonia solanacearum,SL341,
 305,Ralstonia solanacearum,UW551,
@@ -942,66 +1032,68 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 914237,Rhynchosporium commune,1130,
 914237,Rhynchosporium commune,UK7,
 34085,Riemerella anatipestifer,RA-CH-1,
-34085,Riemerella anatipestifer,serotype 1 strain CH3,CH3
-34085,Riemerella anatipestifer,Yb2,
 34085,Riemerella anatipestifer,YZb1,
+34085,Riemerella anatipestifer,Yb2,
+34085,Riemerella anatipestifer,serotype 1 strain CH3,
 77044,Rosellinia necatrix,W97,
 4932,Saccharomyces cerevisiae,BY4741,
 4932,Saccharomyces cerevisiae,NCPF8313,
 4932,Saccharomyces cerevisiae,S288c,
-28901,Salmonella enterica,serovar Enteritidis strain 90-13-706,90-13-706
-28901,Salmonella enterica,serovar Pullorum strain S6702,S6702
-28901,Salmonella enterica,subsp. enterica serovar Agona strain Ag 1,Ag 1
-28901,Salmonella enterica,subsp. enterica serovar Choleraesuis strain ATCC13312,ATCC13312
-28901,Salmonella enterica,subsp. enterica serovar Dublin strain 2229,2229
-28901,Salmonella enterica,subsp. enterica serovar Dublin strain CT_02021853,CT_02021853
-28901,Salmonella enterica,subsp. enterica serovar Dublin strain Lane,Lane
-28901,Salmonella enterica,subsp. enterica serovar Enteritidis,
-28901,Salmonella enterica,subsp. enterica serovar Enteritidis strain 13076,13076
-28901,Salmonella enterica,subsp. enterica serovar Enteritidis strain 50336,50336
-28901,Salmonella enterica,subsp. enterica serovar Enteritidis strain C50041,C50041
-28901,Salmonella enterica,subsp. enterica serovar Enteritidis strain CDC_2010K_0968,CDC_2010K_0968
-28901,Salmonella enterica,subsp. enterica serovar Enteritidis strain CVCC3378,CVCC3378
-28901,Salmonella enterica,subsp. enterica serovar Enteritidis strain E2627,E2627
-28901,Salmonella enterica,subsp. enterica serovar Enteritidis strain LA5,LA5
-28901,Salmonella enterica,subsp. enterica serovar Enteritidis strain P125109,P125109
-28901,Salmonella enterica,subsp. enterica serovar Enteritidis strain SM6,SM6
-28901,Salmonella enterica,subsp. enterica serovar Gallinarum strain 287/91,287/91
-28901,Salmonella enterica,subsp. enterica serovar Gallinarum strain G9,G9
-28901,Salmonella enterica,subsp. enterica serovar Gallinarum strain J91,J91
-28901,Salmonella enterica,subsp. enterica serovar Infantis strain 119944,119944
-28901,Salmonella enterica,subsp. enterica serovar Pullorum strain C79-13,C79-13
-28901,Salmonella enterica,subsp. enterica serovar Pullorum strain S06004,S06004
-28901,Salmonella enterica,subsp. enterica serovar Typhi strain GIFU10007,GIFU10007
-28901,Salmonella enterica,subsp. enterica serovar Typhi strain STH2370,STH2370
-28901,Salmonella enterica,subsp. enterica serovar Typhi strain Ty2,Ty2
-28901,Salmonella enterica,subsp. enterica serovar Typhi strain UK-1,UK-1
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium,
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain 12023,12023
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain 14028,14028
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain 14028s,14028s
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain ATCC 14028,ATCC 14028
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain ATCC 14028s,ATCC 14028s
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain ATCC 14029,ATCC 14029
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain BRD509,BRD509
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain C5,C5
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain E-2375,E-2375
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain HA420,HA420
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain HA431,HA431
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain IR715,IR715
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain JSG210,JSG210
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain LT2,LT2
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain NCTC 12023,NCTC 12023
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain NCTC S12023,NCTC S12023
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain SAT52,SAT52
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain SL1344,SL1344
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain ST313,ST313
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain ST4/74,ST4/74
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain SV5015,SV5015
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain UMR1,UMR1
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain X3306,X3306
-28901,Salmonella enterica,subsp. enterica serovar Typhimurium strain X4232,X4232
-28901,Salmonella enterica,subsp. salamae strain 3588/07,3588/07
+28901,Salmonella enterica,119944,
+28901,Salmonella enterica,12023,
+28901,Salmonella enterica,13076,
+28901,Salmonella enterica,2229,
+28901,Salmonella enterica,287/91,
+28901,Salmonella enterica,3588/07,
+28901,Salmonella enterica,50336,
+28901,Salmonella enterica,90-13-706,
+28901,Salmonella enterica,ATCC 13312,NCTC 5735
+28901,Salmonella enterica,ATCC 14028s,
+28901,Salmonella enterica,ATCC 14029,"Bader M51, CDC 3085-55, NCIB 9242, NCTC 10360, RH 798"
+28901,Salmonella enterica,Ag 1,
+28901,Salmonella enterica,BRD509,
+28901,Salmonella enterica,C5,
+28901,Salmonella enterica,C50041,
+28901,Salmonella enterica,C79-13,
+28901,Salmonella enterica,CA4787,
+28901,Salmonella enterica,CDC 6516-60,ATCC 14028
+28901,Salmonella enterica,CDC 6516-60,"ATCC 14028, DSM 19587, LMG 14933, NCIMB 13284, NCTC 12023, WDCM 00031"
+28901,Salmonella enterica,CDC_2010K_0968,
+28901,Salmonella enterica,CT_02021853,
+28901,Salmonella enterica,CVCC3378,
+28901,Salmonella enterica,E-2375,
+28901,Salmonella enterica,E2627,
+28901,Salmonella enterica,G9,
+28901,Salmonella enterica,GIFU10007,
+28901,Salmonella enterica,HA420,
+28901,Salmonella enterica,HA431,
+28901,Salmonella enterica,IR715,
+28901,Salmonella enterica,J91,
+28901,Salmonella enterica,JSG210,
+28901,Salmonella enterica,LA5,
+28901,Salmonella enterica,LT2,
+28901,Salmonella enterica,Lane,
+28901,Salmonella enterica,MvP771,
+28901,Salmonella enterica,NCTC S12023,
+28901,Salmonella enterica,P125109,
+28901,Salmonella enterica,PT4,
+28901,Salmonella enterica,S06004,
+28901,Salmonella enterica,S6702,
+28901,Salmonella enterica,SAT52,
+28901,Salmonella enterica,SB300,
+28901,Salmonella enterica,SD3246,
+28901,Salmonella enterica,SE211,
+28901,Salmonella enterica,SL1344,
+28901,Salmonella enterica,SM6,
+28901,Salmonella enterica,ST313,
+28901,Salmonella enterica,ST4/74,
+28901,Salmonella enterica,STH2370,
+28901,Salmonella enterica,SV5015,
+28901,Salmonella enterica,Ty2,
+28901,Salmonella enterica,UK1,UK-1
+28901,Salmonella enterica,UMR1,
+28901,Salmonella enterica,X3306,
+28901,Salmonella enterica,X4232,
 5180,Sclerotinia sclerotiorum,1980,
 5180,Sclerotinia sclerotiorum,1980 UF-70,
 5180,Sclerotinia sclerotiorum,274,
@@ -1011,7 +1103,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5180,Sclerotinia sclerotiorum,HLJ4,
 5180,Sclerotinia sclerotiorum,JRUF1,
 5180,Sclerotinia sclerotiorum,Scl02-05,
-5180,Sclerotinia sclerotiorum,Sunf-M,SUN-F-M
+5180,Sclerotinia sclerotiorum,Sunf-M,
 5180,Sclerotinia sclerotiorum,UF1,
 5180,Sclerotinia sclerotiorum,WMA1,
 39703,Septoria lycopersici,NEV,
@@ -1019,38 +1111,47 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 615,Serratia marcescens,CH-1,
 615,Serratia marcescens,Db10,
 615,Serratia marcescens,K904,
-615,Serratia marcescens,SCBI,South African Caenorhabditis briggsae isolate
+615,Serratia marcescens,SCBI,
 615,Serratia marcescens,SM-R,
+623,Shigella flexneri,2457T,
 623,Shigella flexneri,M90T,
 623,Shigella flexneri,M90T-Sm,
-623,Shigella flexneri,serotype 2a strain 2457T,2457T
-623,Shigella flexneri,serotype 2a strain 301,301
+623,Shigella flexneri,serotype 2a strain 2457T,
+623,Shigella flexneri,serotype 2a strain 301,
 1280,Staphylococcus aureus,10833,
 1280,Staphylococcus aureus,502A,
 1280,Staphylococcus aureus,923,
+1280,Staphylococcus aureus,AH1263,
+1280,Staphylococcus aureus,BA01611,
 1280,Staphylococcus aureus,BD02-25,
+1280,Staphylococcus aureus,CA-MRSA ST59 isolate RJ-2,
 1280,Staphylococcus aureus,CB1634,
 1280,Staphylococcus aureus,CB5014,
 1280,Staphylococcus aureus,COL,
-1280,Staphylococcus aureus,F-182,ATCC 43300
+1280,Staphylococcus aureus,F-182,
 1280,Staphylococcus aureus,HG001,
-1280,Staphylococcus aureus,HT20030749,Geraldine clone strain HT20030749
+1280,Staphylococcus aureus,HT20030749,
+1280,Staphylococcus aureus,JCM2874,
 1280,Staphylococcus aureus,JE2,
 1280,Staphylococcus aureus,JSNZ,
 1280,Staphylococcus aureus,LAC,
+1280,Staphylococcus aureus,MN8,
+1280,Staphylococcus aureus,MR23,
+1280,Staphylococcus aureus,MRSA 252,"ATCC BAA-1720, MRSA-252, NCTC 13277"
+1280,Staphylococcus aureus,MRSA-118,
 1280,Staphylococcus aureus,MSSA476,
 1280,Staphylococcus aureus,Mu50,
-1280,Staphylococcus aureus,NCTC 13277,MRSA-252
-1280,Staphylococcus aureus,NCTC 8325,
 1280,Staphylococcus aureus,NCTC 8325-4,
-1280,Staphylococcus aureus,Newman,
-1280,Staphylococcus aureus,Newman D2C,
 1280,Staphylococcus aureus,NI-13,
 1280,Staphylococcus aureus,NYU Newman,
+1280,Staphylococcus aureus,Newman,
+1280,Staphylococcus aureus,Newman D2C,
 1280,Staphylococcus aureus,O11,
+1280,Staphylococcus aureus,PS47,"36 , NCTC 8325"
 1280,Staphylococcus aureus,RF122,
 1280,Staphylococcus aureus,RN4220,
 1280,Staphylococcus aureus,RN6390,
+1280,Staphylococcus aureus,SA113,
 1280,Staphylococcus aureus,SA564,
 1280,Staphylococcus aureus,SA75,
 1280,Staphylococcus aureus,SAR17,
@@ -1058,35 +1159,48 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1280,Staphylococcus aureus,SF8300,
 1280,Staphylococcus aureus,SH1000,
 1280,Staphylococcus aureus,ST398,
-1280,Staphylococcus aureus,subsp. aureus strain Newman,Newman
 1280,Staphylococcus aureus,UAMS-1,
 1280,Staphylococcus aureus,USA300,
+1280,Staphylococcus aureus,USA300 2406,USA300-2406
 1280,Staphylococcus aureus,USA300 AH1263,
 1280,Staphylococcus aureus,USA300 HOU,
 1280,Staphylococcus aureus,USA300 JE2,
 1280,Staphylococcus aureus,USA300 LAC,
+1280,Staphylococcus aureus,USA300 LAC 13C,
+1280,Staphylococcus aureus,USA300-2406,
 1280,Staphylococcus aureus,WCUH29,
+1280,Staphylococcus aureus,Wichita,
 1282,Staphylococcus epidermidis,1457,
+28035,Staphylococcus lugdunensis,DSM 4804,
 28035,Staphylococcus lugdunensis,N920143,
+28035,Staphylococcus lugdunensis,Sl44,
+28035,Staphylococcus lugdunensis,Sl48,
 29385,Staphylococcus saprophyticus,7108,
 29385,Staphylococcus saprophyticus,9325,
 40324,Stenotrophomonas maltophilia,E77,
 40324,Stenotrophomonas maltophilia,K279a,
+40324,Stenotrophomonas maltophilia,KJ,
 40324,Stenotrophomonas maltophilia,M30,
 1311,Streptococcus agalactiae,A909,
 1311,Streptococcus agalactiae,BM110,
 1311,Streptococcus agalactiae,COH1,
 1311,Streptococcus agalactiae,GD201008-001,
-1311,Streptococcus agalactiae,group B serotype V strain CNCTC 10/84,"CNCTC 10/84, 1169-NT1, ATCC 49447"
-1311,Streptococcus agalactiae,group B strain 83-T-61,83-T-61
 1311,Streptococcus agalactiae,NEM316,
 1311,Streptococcus agalactiae,THN0901,
 1311,Streptococcus agalactiae,UPSA 807,
-1336,Streptococcus equi,subsp.zooepidemicus strain C74-63,"C74-63, ATCC 35246"
+1311,Streptococcus agalactiae,group B serotype V strain CNCTC 10/84,
+1311,Streptococcus agalactiae,group B strain 83-T-61,
+1336,Streptococcus equi,C74-63,ATCC 35246
+1346,Streptococcus iniae,HNM-1,
 1346,Streptococcus iniae,SF1,
+1309,Streptococcus mutans,LAR01,
+1309,Streptococcus mutans,OMZ175,
+1309,Streptococcus mutans,UA159,
 1348,Streptococcus parauberis,KSP20,
 1313,Streptococcus pneumoniae,100993,
 1313,Streptococcus pneumoniae,4496,
+1313,Streptococcus pneumoniae,519/43 ST 5316,
+1313,Streptococcus pneumoniae,519/43 ST5316,519/43 ST 5316
 1313,Streptococcus pneumoniae,6301,
 1313,Streptococcus pneumoniae,85,
 1313,Streptococcus pneumoniae,88,
@@ -1094,23 +1208,25 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1313,Streptococcus pneumoniae,EF3030,
 1313,Streptococcus pneumoniae,PN4595-T23,
 1313,Streptococcus pneumoniae,R6,
-1313,Streptococcus pneumoniae,serotype 2 strain D39,"D39, NCTC 7466"
-1313,Streptococcus pneumoniae,serotype 3 strain M23,M23
-1313,Streptococcus pneumoniae,serotype 4 strain TIGR4,TIGR4
 1313,Streptococcus pneumoniae,WCH16,
 1313,Streptococcus pneumoniae,WCH43,
 1313,Streptococcus pneumoniae,WU2,
+1313,Streptococcus pneumoniae,serotype 2 strain D39,
+1313,Streptococcus pneumoniae,serotype 3 strain M23,
+1313,Streptococcus pneumoniae,serotype 4 strain TIGR4,
 1314,Streptococcus pyogenes,1529,
 1314,Streptococcus pyogenes,5448,
 1314,Streptococcus pyogenes,A-20,
 1314,Streptococcus pyogenes,AP1,
 1314,Streptococcus pyogenes,D471,
-1314,Streptococcus pyogenes,GAS M1T1 5448,M1T1 5448
-1314,Streptococcus pyogenes,group A serotype M1,
-1314,Streptococcus pyogenes,group A serotype M49 strain 591,591
+1314,Streptococcus pyogenes,GAS M1T1 5448,
+1314,Streptococcus pyogenes,H3,
 1314,Streptococcus pyogenes,HSC5,
 1314,Streptococcus pyogenes,M1,
 1314,Streptococcus pyogenes,M18,
+1314,Streptococcus pyogenes,M2,
+1314,Streptococcus pyogenes,M28,
+1314,Streptococcus pyogenes,M3,
 1314,Streptococcus pyogenes,M49-16,
 1314,Streptococcus pyogenes,MGAS10270,
 1314,Streptococcus pyogenes,MGAS10870,
@@ -1118,27 +1234,32 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1314,Streptococcus pyogenes,MGAS2096,
 1314,Streptococcus pyogenes,MGAS2221,
 1314,Streptococcus pyogenes,MGAS23530,
+1314,Streptococcus pyogenes,MGAS27961,
 1314,Streptococcus pyogenes,MGAS315,
 1314,Streptococcus pyogenes,MGAS5005,
 1314,Streptococcus pyogenes,MGAS6180,
 1314,Streptococcus pyogenes,NZ131,
-1314,Streptococcus pyogenes,serotype M1 strain 5448,5448
-1314,Streptococcus pyogenes,serotype M1 strain 854,"M1 854, 854"
-1314,Streptococcus pyogenes,serotype M18 strain MGAS8232,MGAS8232
-1314,Streptococcus pyogenes,serotype M3 strain MGAS10870,MGAS10870
-1314,Streptococcus pyogenes,serotype M4,
-1314,Streptococcus pyogenes,serotype M49 strain 591,591
-1314,Streptococcus pyogenes,serotype M6 strain K006,K006
-1314,Streptococcus pyogenes,serotype M89,
-1314,Streptococcus pyogenes,serotype M89 strain MGAS27556,MGAS27556
 1314,Streptococcus pyogenes,SF370,
 1314,Streptococcus pyogenes,SSI-9,
+1314,Streptococcus pyogenes,group A serotype M1,
+1314,Streptococcus pyogenes,group A serotype M49 strain 591,
+1314,Streptococcus pyogenes,serotype M1 strain 5448,
+1314,Streptococcus pyogenes,serotype M1 strain 854,
+1314,Streptococcus pyogenes,serotype M18 strain MGAS8232,
+1314,Streptococcus pyogenes,serotype M28 strain MGAS28426,
+1314,Streptococcus pyogenes,serotype M3 strain MGAS10870,
+1314,Streptococcus pyogenes,serotype M4,
+1314,Streptococcus pyogenes,serotype M49 strain M49 591,serotype M49 strain 591
+1314,Streptococcus pyogenes,serotype M6 strain K006,
+1314,Streptococcus pyogenes,serotype M89,
+1314,Streptococcus pyogenes,serotype M89 strain MGAS27556,
 36470,Streptococcus sp. 'group a',5448,
 36470,Streptococcus sp. 'group a',serotype M18,
 1307,Streptococcus suis,05ZY,
 1307,Streptococcus suis,05ZYH33,
 1307,Streptococcus suis,10,
 1307,Streptococcus suis,31533,
+1307,Streptococcus suis,CVCC606,
 1307,Streptococcus suis,CZ130302,
 1307,Streptococcus suis,DAN13730,
 1307,Streptococcus suis,DN13,
@@ -1146,38 +1267,43 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1307,Streptococcus suis,JX081101,
 1307,Streptococcus suis,P1/7,
 1307,Streptococcus suis,S735,
+1307,Streptococcus suis,SC-19,
 1307,Streptococcus suis,SC19,
 1307,Streptococcus suis,SC84,
-1307,Streptococcus suis,serotype 2,
-1307,Streptococcus suis,serotype 2 strain 05ZYH33,05ZYH33
-1307,Streptococcus suis,serotype 2 strain 10,10
-1307,Streptococcus suis,serotype 2 strain 89/1591,89/1591
-1307,Streptococcus suis,serotype 2 strain P1/7,P1/7
-1307,Streptococcus suis,serotype 2 strain SC19,SC19
-1307,Streptococcus suis,serotype 2 strain ZY458,ZY458
-1307,Streptococcus suis,serotype 9 strain 1135776,1135776
 1307,Streptococcus suis,SS2-1,
 1307,Streptococcus suis,SS9-P10,
 1307,Streptococcus suis,ST1,
-1307,Streptococcus suis,ST7 serotype 2 strain SC84,SC84
+1307,Streptococcus suis,ST7 serotype 2 strain SC84,
 1307,Streptococcus suis,ZY05719,
+1307,Streptococcus suis,serotype 2,
+1307,Streptococcus suis,serotype 2 strain 05ZYH33,
+1307,Streptococcus suis,serotype 2 strain 10,
+1307,Streptococcus suis,serotype 2 strain 89/1591,
+1307,Streptococcus suis,serotype 2 strain P1/7,
+1307,Streptococcus suis,serotype 2 strain SC19,
+1307,Streptococcus suis,serotype 2 strain ZY458,
+1307,Streptococcus suis,serotype 9 strain 1135776,
 1349,Streptococcus uberis,UT888,
 1930,Streptomyces scabiei,87.22,
 85558,Streptomyces turgidiscabies,Car8,
+286115,Synchytrium endobioticum,pathotype 1(D1) isolate MB42,
+5811,Toxoplasma gondii,CZ1,
 5811,Toxoplasma gondii,GT1,
 5811,Toxoplasma gondii,PLK,
-5811,Toxoplasma gondii,Prugniaud,Pru
-5811,Toxoplasma gondii,PruΔKu80,
 5811,Toxoplasma gondii,PRY225,
+5811,Toxoplasma gondii,Prugniaud,
+5811,Toxoplasma gondii,PruΔKu80,
 5811,Toxoplasma gondii,RH,
 5811,Toxoplasma gondii,RHΔKu80,
 5811,Toxoplasma gondii,TgHB2,
-5811,Toxoplasma gondii,type Chinese 1 strain WH3,WH3
-5811,Toxoplasma gondii,type II strain ME49,ME49
-158,Treponema denticola,ATCC 35405,
+5811,Toxoplasma gondii,type Chinese 1 strain WH3,
+5811,Toxoplasma gondii,type II,
+5811,Toxoplasma gondii,type II strain ME49,
+158,Treponema denticola,a,"ATCC 35405, CIP 103919, DSM 14222"
 29875,Trichoderma virens,Gv29-8,
 29875,Trichoderma virens,Tv10.4,
-523103,Trichophyton mentagrophytes,360-A,"M1804, PYCC 4527, ATCC 16424"
+523103,Trichophyton mentagrophytes,360-A,
+5551,Trichophyton rubrum,CBS 118892,
 5551,Trichophyton rubrum,NFI 5146,
 5551,Trichophyton rubrum,NFI 5150,
 5551,Trichophyton rubrum,NFI 5166,
@@ -1189,6 +1315,8 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1159556,Ustilaginoidea virens,HWD-2,
 1159556,Ustilaginoidea virens,JZ11-28,
 1159556,Ustilaginoidea virens,P1,
+1159556,Ustilaginoidea virens,Uv2-51,
+1159556,Ustilaginoidea virens,Uv2-51,
 120017,Ustilago hordei,Uh364,
 120017,Ustilago hordei,Uh365,
 5270,Ustilago maydis,1/2,
@@ -1202,11 +1330,9 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5270,Ustilago maydis,AB33,
 5270,Ustilago maydis,Bub8,
 5270,Ustilago maydis,CL13,
-5270,Ustilago maydis,d132,
-5270,Ustilago maydis,"d132, UT0305, ISO1-1",
 5270,Ustilago maydis,FB,
 5270,Ustilago maydis,FB1,
-5270,Ustilago maydis,FB2,ATCC 201384
+5270,Ustilago maydis,FB2,
 5270,Ustilago maydis,FBD11,
 5270,Ustilago maydis,HA103,
 5270,Ustilago maydis,HA1033,
@@ -1215,98 +1341,103 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5270,Ustilago maydis,LV7,
 5270,Ustilago maydis,SG200,
 5270,Ustilago maydis,SG200AM1,
-105487,Valsa mali,03-8,
+5270,Ustilago maydis,d132,
+105487,Valsa mali,03-8,03–8
+105487,Valsa mali,LXS080601,
 5025,Venturia inaequalis,WC,
 27337,Verticillium dahliae,12008,
 27337,Verticillium dahliae,70V,
 27337,Verticillium dahliae,70wt-r1,
+27337,Verticillium dahliae,991,
 27337,Verticillium dahliae,Dvd-T5,
 27337,Verticillium dahliae,JR2,
+27337,Verticillium dahliae,TO22,
 27337,Verticillium dahliae,V592,
+27337,Verticillium dahliae,VDG1,
 27337,Verticillium dahliae,Vd080,
 27337,Verticillium dahliae,Vd8,
 27337,Verticillium dahliae,Vd9,
-27337,Verticillium dahliae,Vd991,V991
-27337,Verticillium dahliae,VDG1,
+27337,Verticillium dahliae,Vd991,
+27337,Verticillium dahliae,VdGn3,
 27337,Verticillium dahliae,VdLs.17,
 27337,Verticillium dahliae,XS11,
 100787,Verticillium longisporum,Vl43,
 28171,Vibrio aestuarianus,07_115,
 55601,Vibrio anguillarum,M93Sm,
-680,Vibrio campbellii,BB120,ATCC BAA-1116
+680,Vibrio campbellii,BB120,
 666,Vibrio cholerae,C6706,
+666,Vibrio cholerae,E1 Tor C6706,
 666,Vibrio cholerae,El Tor,
 666,Vibrio cholerae,El Tor C6706,
 666,Vibrio cholerae,El Tor Ogawa,
-666,Vibrio cholerae,JB58 (Sm<r> ΔlacZ),JB58
+666,Vibrio cholerae,JB58,
+666,Vibrio cholerae,O139,
 666,Vibrio cholerae,O395,
 666,Vibrio cholerae,PSU 966,
-666,Vibrio cholerae,race 5,
 666,Vibrio cholerae,S2CHK17,
-666,Vibrio cholerae,serotype O1 strain El Tor A1552,A1552
-666,Vibrio cholerae,serotype O1 strain El Tor N16961,N16961
 666,Vibrio cholerae,SIO,
+666,Vibrio cholerae,race 5,
+666,Vibrio cholerae,serotype O1 biovar El Tor strain A1552,
+666,Vibrio cholerae,serotype O1 biovar El Tor strain N16961,
 669,Vibrio harveyi,BB120,
 669,Vibrio harveyi,SF-1,
-670,Vibrio parahaemolyticus,ATCC 33847,"279, 11590"
+670,Vibrio parahaemolyticus,279,"11590, ATCC 33847"
 670,Vibrio parahaemolyticus,HZ,
+670,Vibrio parahaemolyticus,M0904,
 670,Vibrio parahaemolyticus,RIMD 2210633,
+670,Vibrio parahaemolyticus,VpAHPND 123,
 212663,Vibrio tasmaniensis,LGP32,
-672,Vibrio vulnificus,CDC B9629,"324, ATCC 27562"
+672,Vibrio vulnificus,CDC B9629,
 672,Vibrio vulnificus,CECT4999,
 672,Vibrio vulnificus,CMCP6,
-672,Vibrio vulnificus,CMCP6 ΔvvhA Rif<r>,
+672,Vibrio vulnificus,CMCP6 ΔvvhA Rifr,CMCP6 ΔvvhA Rif<r>
 672,Vibrio vulnificus,CMCP6rif,
 672,Vibrio vulnificus,MO6-24/O,
 672,Vibrio vulnificus,YJ016,
 29447,Xanthomonas albilineans,XaFL07-1,
-53413,Xanthomonas axonopodis,pv. citri,
-53413,Xanthomonas axonopodis,pv. glycines strain 8ra,"Xag 8ra, 8ra"
-53413,Xanthomonas axonopodis,pv. glycines strain KU-P-SW005,KU-P-SW005
-53413,Xanthomonas axonopodis,pv. manihotis strain CFBP1851,CFBP1851
-53413,Xanthomonas axonopodis,pv. punicae strain ITCCBD0003,ITCCBD0003
+53413,Xanthomonas axonopodis,8ra,Xag 8ra
+53413,Xanthomonas axonopodis,CFBP1851,
+53413,Xanthomonas axonopodis,ITCCBD0003,
+53413,Xanthomonas axonopodis,KU-P-SW005,
+339,Xanthomonas campestris,17,
+339,Xanthomonas campestris,8004,
+339,Xanthomonas campestris,85-10,
 339,Xanthomonas campestris,97-2,
-339,Xanthomonas campestris,pv. campestris strain 17,17
-339,Xanthomonas campestris,pv. campestris strain 8004,8004
-339,Xanthomonas campestris,pv. campestris strain B186,B186
-339,Xanthomonas campestris,pv. campestris strain Xc1,Xc1
-339,Xanthomonas campestris,pv. campestris strain Xc17,Xc17
-339,Xanthomonas campestris,pv. campestris strain Xc17(pRK415),Xc17(pRK415)
-339,Xanthomonas campestris,pv. campestris strain Xcc17,Xcc17
-339,Xanthomonas campestris,pv. campestris strain XcFC2,XcFC2
-339,Xanthomonas campestris,pv. vesicatoria strain 85-10,85-10
-339,Xanthomonas campestris,pv. vesicatoria strain Bv5-4a,Bv5-4a
-339,Xanthomonas campestris,pv. vesicatoria strain Ds1,Ds1
-346,Xanthomonas citri,subsp. citri,
-346,Xanthomonas citri,subsp. citri strain 306,306
-346,Xanthomonas citri,subsp. citri strain 99-1330,99-1330
-346,Xanthomonas citri,subsp. citri strain Xcc99-1330,Xcc99-1330
-346,Xanthomonas citri,subsp. citri strain XHG3,XHG3
-346,Xanthomonas citri,subsp. citri strain XW19,XW19
-346,Xanthomonas citri,subsp. malvacearum strain H1005,H1005
+339,Xanthomonas campestris,B186,
+339,Xanthomonas campestris,Bv5-4a,
+339,Xanthomonas campestris,Ds1,
+339,Xanthomonas campestris,Xc1,
+339,Xanthomonas campestris,Xc17,Xcc17
+339,Xanthomonas campestris,XcFC2,
+346,Xanthomonas citri,306,
+346,Xanthomonas citri,99-1330,
+346,Xanthomonas citri,H1005,
+346,Xanthomonas citri,XHG3,
+346,Xanthomonas citri,XW19,
+346,Xanthomonas citri,Xcc99-1330,
+346,Xanthomonas citri,Xss-V2–18,
 456327,Xanthomonas euvesicatoria,UPB139,
-56454,Xanthomonas hortorum,pv. pelargonii strain 305,305
+456327,Xanthomonas euvesicatoria,Xe85-10,
+56454,Xanthomonas hortorum,305,
+347,Xanthomonas oryzae,13751,
 347,Xanthomonas oryzae,BAI3,
-347,Xanthomonas oryzae,pv. oryzae,
-347,Xanthomonas oryzae,pv. oryzae strain 13751,13751
-347,Xanthomonas oryzae,pv. oryzae strain BXO1,BXO1
-347,Xanthomonas oryzae,pv. oryzae strain BXO43,BXO43
-347,Xanthomonas oryzae,pv. oryzae strain IR42,IR42
-347,Xanthomonas oryzae,pv. oryzae strain KACC 10331,KACC 10331
-347,Xanthomonas oryzae,pv. oryzae strain MAFF 311018,MAFF 311018
-347,Xanthomonas oryzae,pv. oryzae strain PXO124,PXO124
-347,Xanthomonas oryzae,pv. oryzae strain PXO99,PXO99
-347,Xanthomonas oryzae,pv. oryzae strain PXO99A,PXO99A
-347,Xanthomonas oryzae,pv. oryzae strain X11-5A,X11-5A
-347,Xanthomonas oryzae,pv. oryzae strain XKK.12,XKK.12
-347,Xanthomonas oryzae,pv. oryzae strain ZJ173,ZJ173
-347,Xanthomonas oryzae,pv. oryzicola,
-347,Xanthomonas oryzae,pv. oryzicola strain BLS256,BLS256
-347,Xanthomonas oryzae,pv. oryzicola strain GX01,GX01
-347,Xanthomonas oryzae,pv. oryzicola strain MAI10,MAI10
-347,Xanthomonas oryzae,pv. oryzicola strain RS105,RS105
+347,Xanthomonas oryzae,BLS256,
+347,Xanthomonas oryzae,BXO1,
+347,Xanthomonas oryzae,BXO43,
+347,Xanthomonas oryzae,GX01,
+347,Xanthomonas oryzae,IR42,
+347,Xanthomonas oryzae,KACC 10331,
+347,Xanthomonas oryzae,MAFF 311018,
+347,Xanthomonas oryzae,MAI10,
+347,Xanthomonas oryzae,PXO124,
+347,Xanthomonas oryzae,PXO99,
+347,Xanthomonas oryzae,PXO99A,
+347,Xanthomonas oryzae,RS105,
 347,Xanthomonas oryzae,X11-5A,
-343,Xanthomonas translucens,pv. graminis strain ART-Xtg29,ART-Xtg29
+347,Xanthomonas oryzae,XKK.12,
+347,Xanthomonas oryzae,ZJ173,
+343,Xanthomonas translucens,ART-Xtg29,
+343,Xanthomonas translucens,NXtc01,
 628,Xenorhabdus nematophila,ATCC 19061,
 628,Xenorhabdus nematophila,F1,
 2371,Xylella fastidiosa,9a5c,
@@ -1318,26 +1449,28 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 2371,Xylella fastidiosa,TemeculaL,
 2371,Xylella fastidiosa,WM1-1,
 630,Yersinia enterocolitica,JB580v,
-630,Yersinia enterocolitica,serotype O:3 strain 6471/76,6471/76
-630,Yersinia enterocolitica,serotype O:8,
 630,Yersinia enterocolitica,WA-314,
 630,Yersinia enterocolitica,YE12/03,
+630,Yersinia enterocolitica,serotype O:3 strain 6471/76,
+630,Yersinia enterocolitica,serotype O:8,
 632,Yersinia pestis,201,
 632,Yersinia pestis,91001,
-632,Yersinia pestis,biovar Microtus strain 91001,91001
 632,Yersinia pestis,CO92,
 632,Yersinia pestis,GB,
 632,Yersinia pestis,KIM/D27,
 632,Yersinia pestis,KIM1001,
 632,Yersinia pestis,KIM5,
-632,Yersinia pestis,Kim53,
 632,Yersinia pestis,KIM6+,
+632,Yersinia pestis,Kim53,
+632,Yersinia pestis,biovar Microtus strain 91001,
 633,Yersinia pseudotuberculosis,32777,
 633,Yersinia pseudotuberculosis,488,
 633,Yersinia pseudotuberculosis,IP2666,
 633,Yersinia pseudotuberculosis,IP32953,
+633,Yersinia pseudotuberculosis,YP126,
+633,Yersinia pseudotuberculosis,YP216,
 633,Yersinia pseudotuberculosis,YPIII,
-633,Yersinia pseudotuberculosis,YPIII/pIB102,YPIII(pIB102)
+633,Yersinia pseudotuberculosis,YPIII/pIB102,
 29486,Yersinia ruckeri,150,
 29486,Yersinia ruckeri,SC09,
 1047171,Zymoseptoria tritici,Berdun 4,
@@ -1347,7 +1480,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1047171,Zymoseptoria tritici,K1562,
 1047171,Zymoseptoria tritici,R6-31,
 1047171,Zymoseptoria tritici,ST1/MBC,
-1047171,Zymoseptoria tritici,UK field isolate,
+1047171,Zymoseptoria tritici,ST99CH_1E4,
 1047171,Zymoseptoria tritici,V103.9,
 1047171,Zymoseptoria tritici,V115.3,
 1047171,Zymoseptoria tritici,V202.1,
