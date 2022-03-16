@@ -355,14 +355,12 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 10090,Mus musculus,C57BL/6N,
 10090,Mus musculus,C57BL/6NCr,
 10090,Mus musculus,C57BL/6NCrl,"C57BL/6NCrlBR, C57BL/6NCrlBr"
-10090,Mus musculus,C57BL/6NCrl,C57BL/6NCrlBr
 10090,Mus musculus,C57BL/6NHsd,
 10090,Mus musculus,C57BL/6NJ,"B6N, Black 6N, C57BL/6NCrJ"
 10090,Mus musculus,CBA,"C, CB, XXXIX"
 10090,Mus musculus,CBA/J,"CBA Jackson, CBA/J-Mx1<s2>, CBA/J-Pde6b<rd1>"
 10090,Mus musculus,CBA/JCrHsd,
 10090,Mus musculus,CBySmn.Cg-Prkdc<scid>/J,"BALB scid, BALB/c scid, CBySmn.CB17-Prkdc<scid>/J"
-10090,Mus musculus,CD-1,Crl:CD1(ICR)
 10090,Mus musculus,CD-1,Crl:CD1(ICR)
 10090,Mus musculus,CEABAC10,
 10090,Mus musculus,CF1,Crl:CF1
