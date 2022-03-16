@@ -57,11 +57,11 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5059,Aspergillus flavus,12,
 5059,Aspergillus flavus,CA14,
 5059,Aspergillus flavus,CA14 PTS,
-5059,Aspergillus flavus,CA14 PTS Δku70 ΔpyrG,
-5059,Aspergillus flavus,CA14 Δku70 ΔpyrG::AfpyrG,
+5059,Aspergillus flavus,CA14 PTS Δku70 ΔpyrG,CA14 PTS deltaku70 deltapyrG
+5059,Aspergillus flavus,CA14 Δku70 ΔpyrG::AfpyrG,CA14 deltaku70 deltapyrG::AfpyrG
 5059,Aspergillus flavus,NRRL 3357,
-5059,Aspergillus flavus,PTS Δku70 ΔpyrG,
-5059,Aspergillus flavus,PTS Δku70 ΔpyrG::AfpyrG,
+5059,Aspergillus flavus,PTS Δku70 ΔpyrG,PTS deltaku70 deltapyrG
+5059,Aspergillus flavus,PTS Δku70 ΔpyrG::AfpyrG,PTS deltaku70 deltapyrG::AfpyrG
 746128,Aspergillus fumigatus,237,
 746128,Aspergillus fumigatus,293.1,
 746128,Aspergillus fumigatus,5233,
@@ -79,13 +79,13 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 746128,Aspergillus fumigatus,CEA10,
 746128,Aspergillus fumigatus,CEA17,
 746128,Aspergillus fumigatus,CEA17 akuBKU80,
-746128,Aspergillus fumigatus,CEA17 Δku80,
+746128,Aspergillus fumigatus,CEA17 Δku80,CEA17 deltaku80
 746128,Aspergillus fumigatus,D141,
 746128,Aspergillus fumigatus,H237,
 746128,Aspergillus fumigatus,IF1SW-F4,
 746128,Aspergillus fumigatus,KU70,
 746128,Aspergillus fumigatus,KU80,
-746128,Aspergillus fumigatus,KU80ΔpyrG,
+746128,Aspergillus fumigatus,KU80ΔpyrG,KU80deltapyrG
 746128,Aspergillus fumigatus,NCPF 2109,ATCC 46645
 746128,Aspergillus fumigatus,NRC A-4-56,
 746128,Aspergillus fumigatus,YJ-407,
@@ -292,12 +292,12 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 28447,Clavibacter michiganensis,Cm15-2.0 sm,
 28447,Clavibacter michiganensis,NCPPB382,
 5111,Claviceps purpurea,20.1,
-5111,Claviceps purpurea,20.1Δku70,
+5111,Claviceps purpurea,20.1Δku70,20.1deltaku70
 5111,Claviceps purpurea,Cp20.1,
 5111,Claviceps purpurea,PI,
 36911,Clavispora lusitaniae,45090,ATCC 42720
 1496,Clostridioides difficile,630,
-1496,Clostridioides difficile,630Δerm,
+1496,Clostridioides difficile,630Δerm,630deltaerm
 1496,Clostridioides difficile,JIR8094,
 1496,Clostridioides difficile,M7404,
 1496,Clostridioides difficile,R20291,
@@ -352,7 +352,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 535744,Cronobacter universalis,LMG 26249,
 5116,Cryphonectria parasitica,EP155,
 5116,Cryphonectria parasitica,EP155/2,
-5116,Cryphonectria parasitica,Δcpku80,
+5116,Cryphonectria parasitica,Δcpku80,deltacpku80
 552467,Cryptococcus gattii VGIII,NIH 444,
 552467,Cryptococcus gattii VGIII,R265,
 5207,Cryptococcus neoformans,H99,
@@ -649,7 +649,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5037,Histoplasma capsulatum,G186AR ura5,
 5037,Histoplasma capsulatum,G217B,
 5037,Histoplasma capsulatum,G217B ura5,
-5037,Histoplasma capsulatum,G217B ura5Δ,
+5037,Histoplasma capsulatum,G217B ura5Δ,G217B ura5delta
 5037,Histoplasma capsulatum,UC26,
 272952,Hyaloperonospora arabidopsidis,Cala2,
 272952,Hyaloperonospora arabidopsidis,Emco5,
@@ -754,7 +754,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 318829,Magnaporthe oryzae,Br48,
 318829,Magnaporthe oryzae,CP987,
 318829,Magnaporthe oryzae,Guy11,Guy-11
-318829,Magnaporthe oryzae,Guy11 Δku70,Guy-11 Δku70
+318829,Magnaporthe oryzae,Guy11 Δku70,"Guy-11 Δku70, Guy11 deltaku70"
 318829,Magnaporthe oryzae,H3:eGFP,
 318829,Magnaporthe oryzae,Hoku-1,
 318829,Magnaporthe oryzae,Ina168,
@@ -840,7 +840,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 487,Neisseria meningitidis,93/4286,
 487,Neisseria meningitidis,FAM20,
 487,Neisseria meningitidis,MC58,
-487,Neisseria meningitidis,NIID84 Δcps,
+487,Neisseria meningitidis,NIID84 Δcps,NIID84 deltacps
 487,Neisseria meningitidis,"Norman B:14:P1.7,16",
 2813651,Orbilia oligospora,ATCC 24927,"CBS 115.81, DSM 1491"
 2813651,Orbilia oligospora,CBS 115.81,
@@ -1287,9 +1287,9 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5811,Toxoplasma gondii,PLK,
 5811,Toxoplasma gondii,PRY225,
 5811,Toxoplasma gondii,Prugniaud,
-5811,Toxoplasma gondii,PruΔKu80,
+5811,Toxoplasma gondii,PruΔKu80,PrudeltaKu80
 5811,Toxoplasma gondii,RH,
-5811,Toxoplasma gondii,RHΔKu80,
+5811,Toxoplasma gondii,RHΔKu80,RHdeltaKu80
 5811,Toxoplasma gondii,TgHB2,
 5811,Toxoplasma gondii,type Chinese 1 strain WH3,
 5811,Toxoplasma gondii,type II,
@@ -1384,7 +1384,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 672,Vibrio vulnificus,CDC B9629,
 672,Vibrio vulnificus,CECT4999,
 672,Vibrio vulnificus,CMCP6,
-672,Vibrio vulnificus,CMCP6 ΔvvhA Rifr,CMCP6 ΔvvhA Rif<r>
+672,Vibrio vulnificus,CMCP6 ΔvvhA Rifr,CMCP6 deltavvhA Rifr
 672,Vibrio vulnificus,CMCP6rif,
 672,Vibrio vulnificus,MO6-24/O,
 672,Vibrio vulnificus,YJ016,
@@ -1469,8 +1469,8 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 29486,Yersinia ruckeri,SC09,
 1047171,Zymoseptoria tritici,Berdun 4,
 1047171,Zymoseptoria tritici,IPO323,
-1047171,Zymoseptoria tritici,IPO323 ΔKu70,
-1047171,Zymoseptoria tritici,IPO323 ΔKu80,
+1047171,Zymoseptoria tritici,IPO323 ΔKu70,IPO323 deltaKu70
+1047171,Zymoseptoria tritici,IPO323 ΔKu80,IPO323 deltaKu80
 1047171,Zymoseptoria tritici,K1562,
 1047171,Zymoseptoria tritici,R6-31,
 1047171,Zymoseptoria tritici,ST1/MBC,
@@ -1482,4 +1482,4 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1047171,Zymoseptoria tritici,V209.9,
 1047171,Zymoseptoria tritici,V212.2,
 1047171,Zymoseptoria tritici,V214.7,
-1047171,Zymoseptoria tritici,ΔKu80,
+1047171,Zymoseptoria tritici,ΔKu80,deltaKu80
