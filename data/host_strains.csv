@@ -320,7 +320,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 10090,Mus musculus,129S6/SvEvTac,
 10090,Mus musculus,129S7/SvEvBrd-Hprt<+>,
 10090,Mus musculus,129X1(B6)-Camp<tm1Rlg>/Kini,
-10090,Mus musculus,129X1/SvJ,"129/SvJ, 129/SvJ, 129X1"
+10090,Mus musculus,129X1/SvJ,"129/SvJ, 129X1"
 10090,Mus musculus,A/J,"A, AJ"
 10090,Mus musculus,A/JCr,
 10090,Mus musculus,A/JJmsSlc,A/JSlc
@@ -380,7 +380,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 10090,Mus musculus,J774.2 cell line,
 10090,Mus musculus,J774A1 cell line,"J-774A.1, J774A.1"
 10090,Mus musculus,KI E16P,
-10090,Mus musculus,Kunming,"KM mouse, Kongmin, Kongmin White, Kongmin White, Kunmin"
+10090,Mus musculus,Kunming,"KM mouse, Kongmin, Kongmin White, Kunmin"
 10090,Mus musculus,L2 cell line,L2
 10090,Mus musculus,L929 cell line,"Earles's L cells, L cell, NCTC 929, clone 929"
 10090,Mus musculus,LA-4 cell line,LA4
@@ -400,7 +400,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 10090,Mus musculus,SCID,Severe Combined Immunodeficiency
 10090,Mus musculus,SKH1,SKH-1
 10090,Mus musculus,SPF CD-1,
-10090,Mus musculus,SWR,"SW, SW, Swiss, Swiss-8, Swiss-R"
+10090,Mus musculus,SWR,"SW, Swiss, Swiss-8, Swiss-R"
 10090,Mus musculus,Slc:ICR,
 10090,Mus musculus,Swiss Webster,"Swiss-Webster, Tac:SW"
 10090,Mus musculus,Swiss albino,
