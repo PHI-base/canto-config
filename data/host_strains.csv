@@ -236,7 +236,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 9606,Homo sapiens,MKN28 cell line,MKN-28
 9606,Homo sapiens,MRC-5 cell line,"MRCV, Medical Research Council cell strain-5"
 9606,Homo sapiens,NCI-H292,
-9606,Homo sapiens,PBMC,
+9606,Homo sapiens,PBMCs,
 9606,Homo sapiens,S1 cell line,
 9606,Homo sapiens,SF268 cell line,SF-268
 9606,Homo sapiens,SW480 cell line,SW-480
@@ -412,15 +412,14 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 10090,Mus musculus,hu-SRC-SCID,
 10090,Mus musculus,mBMDCs,murine Bone Marrow-derived Dendritic Cells
 10090,Mus musculus,mBMDMs,murine Bone Marrow-Derived Macrophages
-4641,Musa acuminata,Cavendish subgroup,
 4641,Musa acuminata,Nakitembe clone set,
 4641,Musa acuminata,cv. BX,
 4641,Musa acuminata,cv. Baxi,
-4641,Musa acuminata,cv. Brazil Cavendish,
+4641,Musa acuminata,cv. Brazil,
+4641,Musa acuminata,cv. Brazilian,
 4641,Musa acuminata,cv. Grand Nain,
 4641,Musa acuminata,cv. Guangfen-1,
 4641,Musa acuminata,cv. Rasthali,
-89151,Musa x paradisiaca,cv. Cavendish,
 63479,Nerium oleander,Cesena Italy,
 4100,Nicotiana benthamiana,cv. NC-95,
 4100,Nicotiana benthamiana,cv. Xanthi-nc,
@@ -766,9 +765,9 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 4565,Triticum aestivum,cv. Zhoumai 26,
 4565,Triticum aestivum,cv. Zimai 1,
 4565,Triticum aestivum,cv. Zimai 22,
-4566,Triticum aestivum x triticum timopheevi,cv. Nandu,
-4566,Triticum aestivum x triticum timopheevi,cv. Norm,
-4566,Triticum aestivum x triticum timopheevi,cv. Zimai 2,
+4566,Triticum aestivum x Triticum timopheevi,cv. Nandu,
+4566,Triticum aestivum x Triticum timopheevi,cv. Norm,
+4566,Triticum aestivum x Triticum timopheevi,cv. Zimai 2,
 4571,Triticum turgidum,cv. Alkabo,
 4571,Triticum turgidum,cv. Ben,
 4571,Triticum turgidum,cv. Carpio,

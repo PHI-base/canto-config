@@ -57,11 +57,8 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5059,Aspergillus flavus,12,
 5059,Aspergillus flavus,CA14,
 5059,Aspergillus flavus,CA14 PTS,
-5059,Aspergillus flavus,CA14 PTS Δku70 ΔpyrG,CA14 PTS deltaku70 deltapyrG
-5059,Aspergillus flavus,CA14 Δku70 ΔpyrG::AfpyrG,CA14 deltaku70 deltapyrG::AfpyrG
 5059,Aspergillus flavus,NRRL 3357,
-5059,Aspergillus flavus,PTS Δku70 ΔpyrG,PTS deltaku70 deltapyrG
-5059,Aspergillus flavus,PTS Δku70 ΔpyrG::AfpyrG,PTS deltaku70 deltapyrG::AfpyrG
+5059,Aspergillus flavus,PTS,
 746128,Aspergillus fumigatus,237,
 746128,Aspergillus fumigatus,293.1,
 746128,Aspergillus fumigatus,5233,
@@ -69,27 +66,26 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 746128,Aspergillus fumigatus,A1160C,
 746128,Aspergillus fumigatus,A1160P+,
 746128,Aspergillus fumigatus,A1161,
-746128,Aspergillus fumigatus,AF293.1,
 746128,Aspergillus fumigatus,Af14,
 746128,Aspergillus fumigatus,Af293,
+746128,Aspergillus fumigatus,Af293.1,
 746128,Aspergillus fumigatus,AfS35,
 746128,Aspergillus fumigatus,AfS77,
 746128,Aspergillus fumigatus,B-5233,
 746128,Aspergillus fumigatus,CBS 144.89,
 746128,Aspergillus fumigatus,CEA10,
 746128,Aspergillus fumigatus,CEA17,
-746128,Aspergillus fumigatus,CEA17 akuBKU80,
-746128,Aspergillus fumigatus,CEA17 Δku80,CEA17 deltaku80
+746128,Aspergillus fumigatus,CEA17Δku80,CEA17deltaku80
 746128,Aspergillus fumigatus,D141,
 746128,Aspergillus fumigatus,H237,
 746128,Aspergillus fumigatus,IF1SW-F4,
-746128,Aspergillus fumigatus,KU70,
-746128,Aspergillus fumigatus,KU80,
 746128,Aspergillus fumigatus,KU80ΔpyrG,KU80deltapyrG
 746128,Aspergillus fumigatus,NCPF 2109,ATCC 46645
 746128,Aspergillus fumigatus,NRC A-4-56,
 746128,Aspergillus fumigatus,YJ-407,
 746128,Aspergillus fumigatus,akuBKU80,
+746128,Aspergillus fumigatus,ku70,
+746128,Aspergillus fumigatus,ku80,
 162425,Aspergillus nidulans,A26,
 162425,Aspergillus nidulans,pabaA1,
 728,Avibacterium paragallinarum,TW07,
@@ -268,7 +264,6 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5480,Candida parapsilosis,CLIB 214,
 5480,Candida parapsilosis,GA1,
 5482,Candida tropicalis,1909,"ATCC 4563, ATCC 7349, ATCC 750, CBS 94, CCRC 20520, IFO 1070, IFO 1400, JCM 1541, NRRL Y-12699, NRRL Y-12968, NRRL Y-607"
-5482,Candida tropicalis,MYA3404,
 5482,Candida tropicalis,T1,ATCC MYA-3404
 5158,Ceratocystis fimbriata,AF 100,
 312341,Ceratocystis harringtonii,119.78,
@@ -355,7 +350,6 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5116,Cryphonectria parasitica,Δcpku80,deltacpku80
 552467,Cryptococcus gattii VGIII,NIH 444,
 552467,Cryptococcus gattii VGIII,R265,
-5207,Cryptococcus neoformans,H99,
 5207,Cryptococcus neoformans,B-3501,
 5207,Cryptococcus neoformans,B-4476,
 5207,Cryptococcus neoformans,B-4500,
@@ -363,6 +357,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5207,Cryptococcus neoformans,CM018,
 5207,Cryptococcus neoformans,CNU125,
 5207,Cryptococcus neoformans,E2,
+5207,Cryptococcus neoformans,H99,
 5207,Cryptococcus neoformans,H99FOA19,
 5207,Cryptococcus neoformans,JEC21,
 5207,Cryptococcus neoformans,JEC33,
@@ -400,7 +395,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1089444,Dickeya solani,IFB0223,
 1089444,Dickeya solani,IPO 2222,
 67780,Edwardsiella ictaluri,93-146,
-67780,Edwardsiella ictaluri,HSN- 1,
+67780,Edwardsiella ictaluri,HSN-1,
 636,Edwardsiella tarda,EIB202,
 636,Edwardsiella tarda,ET13,
 636,Edwardsiella tarda,H1,
@@ -439,7 +434,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 562,Escherichia coli,APEC DE205B,
 562,Escherichia coli,APEC O1,
 562,Escherichia coli,APEC serotype O83:H4 ST117,
-562,Escherichia coli,APEC strain SCI-07,ONT:H31
+562,Escherichia coli,APEC strain SCI-07,
 562,Escherichia coli,APEC-34 O91,
 562,Escherichia coli,APEC94,
 562,Escherichia coli,BA320,
@@ -769,7 +764,6 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 318829,Magnaporthe oryzae,Ken53-33,
 318829,Magnaporthe oryzae,Ken54-20,
 318829,Magnaporthe oryzae,Kita 1,
-318829,Magnaporthe oryzae,Ku80,
 318829,Magnaporthe oryzae,LY-130,
 318829,Magnaporthe oryzae,LY-130-R1,
 318829,Magnaporthe oryzae,LY-130-R4,
@@ -794,6 +788,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 318829,Magnaporthe oryzae,Y-34,
 318829,Magnaporthe oryzae,Y34,
 318829,Magnaporthe oryzae,YN125,
+318829,Magnaporthe oryzae,ku80,
 318829,Magnaporthe oryzae,race 031 strain Ina72,
 203908,Melampsora larici-populina,98AG31,
 6303,Meloidogyne javanica,VW4,
@@ -815,11 +810,9 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1781,Mycobacterium marinum,E11,
 1781,Mycobacterium marinum,M,
 1781,Mycobacterium marinum,M USA,"M<USA>, MUSA"
-1781,Mycobacterium marinum,MUSA,
 1773,Mycobacterium tuberculosis,AF2122/97,
 1773,Mycobacterium tuberculosis,BCG,
 1773,Mycobacterium tuberculosis,CDC 1551,
-1773,Mycobacterium tuberculosis,CDC1551,
 1773,Mycobacterium tuberculosis,Erdman,
 1773,Mycobacterium tuberculosis,H37Ra,
 1773,Mycobacterium tuberculosis,H37Rv,
@@ -827,7 +820,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1773,Mycobacterium tuberculosis,Mt103,
 36809,Mycobacteroides abscessus,19977-IP,
 36809,Mycobacteroides abscessus,CIP 104536,
-36809,Mycobacteroides abscessus,CIP 104536T,CIP 104536<T>
+36809,Mycobacteroides abscessus,CIP 104536T,
 36809,Mycobacteroides abscessus,CIP 108541,
 1774,Mycobacteroides chelonae,CCUG 47445,
 1772,Mycolicibacterium smegmatis,MC2 155,
@@ -957,7 +950,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 287,Pseudomonas aeruginosa,SCH0057-7,
 287,Pseudomonas aeruginosa,UCBPP-PA14,
 86840,Pseudomonas cannabina,KB211,
-36746,Pseudomonas cichorii,198,
+36746,Pseudomonas cichorii,198,ATCC 10857
 36746,Pseudomonas cichorii,JBC1,
 36746,Pseudomonas cichorii,SF1-54,
 294,Pseudomonas fluorescens,FD6,
@@ -1085,6 +1078,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 28901,Salmonella enterica,STH2370,
 28901,Salmonella enterica,SV5015,
 28901,Salmonella enterica,Ty2,
+28901,Salmonella enterica,UK-1,UK1
 28901,Salmonella enterica,UK1,UK-1
 28901,Salmonella enterica,UMR1,
 28901,Salmonella enterica,X3306,
@@ -1141,7 +1135,6 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1280,Staphylococcus aureus,NYU Newman,
 1280,Staphylococcus aureus,Newman,
 1280,Staphylococcus aureus,Newman D2C,
-1280,Staphylococcus aureus,O11,
 1280,Staphylococcus aureus,PS47,"36 , NCTC 8325"
 1280,Staphylococcus aureus,RF122,
 1280,Staphylococcus aureus,RN4220,
@@ -1162,9 +1155,9 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1280,Staphylococcus aureus,USA300 JE2,
 1280,Staphylococcus aureus,USA300 LAC,
 1280,Staphylococcus aureus,USA300 LAC 13C,
-1280,Staphylococcus aureus,USA300-2406,
 1280,Staphylococcus aureus,WCUH29,
-1280,Staphylococcus aureus,Wichita,
+1280,Staphylococcus aureus,Wichita,ATCC 29213
+1280,Staphylococcus aureus,serotype O11,
 1282,Staphylococcus epidermidis,1457,
 28035,Staphylococcus lugdunensis,DSM 4804,
 28035,Staphylococcus lugdunensis,N920143,
@@ -1195,7 +1188,6 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1313,Streptococcus pneumoniae,100993,
 1313,Streptococcus pneumoniae,4496,
 1313,Streptococcus pneumoniae,519/43 ST 5316,
-1313,Streptococcus pneumoniae,519/43 ST5316,519/43 ST 5316
 1313,Streptococcus pneumoniae,6301,
 1313,Streptococcus pneumoniae,85,
 1313,Streptococcus pneumoniae,88,
@@ -1215,7 +1207,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1314,Streptococcus pyogenes,AP1,
 1314,Streptococcus pyogenes,D471,
 1314,Streptococcus pyogenes,GAS M1T1 5448,
-1314,Streptococcus pyogenes,H3,
+1314,Streptococcus pyogenes,H3,ATCC 11434
 1314,Streptococcus pyogenes,HSC5,
 1314,Streptococcus pyogenes,M1,
 1314,Streptococcus pyogenes,M18,
@@ -1360,17 +1352,16 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 55601,Vibrio anguillarum,M93Sm,
 680,Vibrio campbellii,BB120,
 666,Vibrio cholerae,C6706,
-666,Vibrio cholerae,E1 Tor C6706,
 666,Vibrio cholerae,El Tor,
 666,Vibrio cholerae,El Tor C6706,
 666,Vibrio cholerae,El Tor Ogawa,
 666,Vibrio cholerae,JB58,
-666,Vibrio cholerae,O139,
 666,Vibrio cholerae,O395,
 666,Vibrio cholerae,PSU 966,
 666,Vibrio cholerae,S2CHK17,
 666,Vibrio cholerae,SIO,
 666,Vibrio cholerae,race 5,
+666,Vibrio cholerae,serogroup O139,
 666,Vibrio cholerae,serotype O1 biovar El Tor strain A1552,
 666,Vibrio cholerae,serotype O1 biovar El Tor strain N16961,
 669,Vibrio harveyi,BB120,
@@ -1409,7 +1400,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 346,Xanthomonas citri,XHG3,
 346,Xanthomonas citri,XW19,
 346,Xanthomonas citri,Xcc99-1330,
-346,Xanthomonas citri,Xss-V2–18,
+346,Xanthomonas citri,Xss-V2–18,Xss-V2-18
 456327,Xanthomonas euvesicatoria,UPB139,
 456327,Xanthomonas euvesicatoria,Xe85-10,
 56454,Xanthomonas hortorum,305,
