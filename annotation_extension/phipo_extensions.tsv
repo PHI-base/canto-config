@@ -8,6 +8,7 @@ PHIPO:0001025	is_a	assayed_using	GeneID	assayed protein		0,1	user
 PHIPO:0001060	is_a	assayed_using	GeneID	assayed RNA		0,1	user	
 PHIPO:0001064	is_a	assayed_using	GeneID	assayed RNA		0,1	user	
 PHIPO:0001118	is_a	assayed_using	GeneID	assayed protein		0,1	user	
+PHIPO:0001245	is_a	assayed_using	GeneID	assayed protein		0,1	user	
 PHIPO:0001262	is_a	assayed_using	GeneID	assayed protein		0,1	user	
 PHIPO:0001263	is_a	assayed_using	GeneID	assayed RNA		0,1	user	
 PHIPO:0001267	is_a	assayed_using	GeneID	assayed RNA		0,1	user	
