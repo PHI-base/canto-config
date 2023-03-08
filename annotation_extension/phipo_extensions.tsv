@@ -1,4 +1,5 @@
 domain ID	subset relation	extension relation	range ID	Canto display text	Help text	cardinality	role	annotation_type_name
+PHIPO:0001218	is_a	alteration_in_archetype	Text	alteration in archetype		0,1	user	
 PHIPO:0000131	is_a	assayed_using	GeneID	affected proteins (add TWO, i.e. both binding partners)		2	user	
 PHIPO:0000132	is_a	assayed_using	GeneID	affected proteins (add TWO, i.e. both binding partners)		2	user	
 PHIPO:0000237	is_a	assayed_using	GeneID	assayed protein		0,1	user	
