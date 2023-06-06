@@ -23,6 +23,14 @@ canto_demo_url: "http://demo-canto.phi-base.org"
 
 google_analytics_id: UA-12077899-6
 
+oauth:
+  authenticator: ORCID
+  grant_uri: 'https://orcid.org/oauth/authorize'
+  token_uri: 'https://orcid.org/oauth/token'
+  client_id: 'ORCID_CLIENT_ID'
+  client_secret: 'ORCID_CLIENT_SECRET'
+  scope: '/authenticate'
+
 strains_mode: 1
 allow_single_wildtype_allele: 1
 show_quick_wild_type_buttons: 1
