@@ -32,6 +32,7 @@ oauth:
   scope: '/authenticate'
 
 strains_mode: 1
+diploid_mode: 1
 allow_single_wildtype_allele: 1
 show_quick_wild_type_buttons: 1
 
