@@ -1,10 +1,11 @@
 #!/bin/sh
 
 update_self () {
-  if [ -f config/server/deploy.sh ]; then
+  new_config_path="config/scripts/server/deploy.sh"
+  if [ -f $new_config_path ]; then
     this_script="$0"
-    if ! cmp -s config/server/deploy.sh "$this_script"; then
-      cp config/server/deploy.sh "$this_script"
+    if ! cmp -s $new_config_path "$this_script"; then
+      cp $new_config_path "$this_script"
       sh "$this_script"
       exit 0
     fi
