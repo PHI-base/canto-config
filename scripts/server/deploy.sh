@@ -55,7 +55,7 @@ config/data/* \
 config/annotation_extension/*
 
 cp config/canto_deploy.yaml ./canto_deploy.tmp.yaml &&
-sh patch_canto_deploy.sh --mode "$deploy_mode" &&
+sh patch_canto_deploy.sh --mode "$deploy_mode" ./canto_deploy.tmp.yaml &&
 mv ./canto_deploy.tmp.yaml ./canto/canto_deploy.yaml
 
 rm -f ./canto_deploy.tmp.yaml
