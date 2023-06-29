@@ -59,3 +59,5 @@ sh patch_canto_deploy.sh --mode "$deploy_mode" &&
 mv ./canto_deploy.tmp.yaml ./canto/canto_deploy.yaml
 
 rm -f ./canto_deploy.tmp.yaml
+
+sh update_ext_config.sh
