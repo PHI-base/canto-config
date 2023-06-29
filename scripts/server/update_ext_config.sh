@@ -22,8 +22,10 @@ download "${github_url}/GO_BP_A_E_config" /tmp/GO_BP_A_E_config.tsv
 download "${github_url}/GO_CC_A_E_config" /tmp/GO_CC_A_E_config.tsv
 download "${github_url}/GO_MF_A_E_config" /tmp/GO_MF_A_E_config.tsv
 download "${github_url}/PSI-MOD_A_E_config" /tmp/PSI-MOD_A_E_config.tsv
+download "${github_url}/PomGeneEx_A_E_config" PomGeneEx_A_E_config.tsv
 
 mv /tmp/GO_BP_A_E_config.tsv ${destination}
 mv /tmp/GO_CC_A_E_config.tsv ${destination}
 mv /tmp/GO_MF_A_E_config.tsv ${destination}
 mv /tmp/PSI-MOD_A_E_config.tsv ${destination}
+mv /tmp/PomGeneEx_A_E_config.tsv" ${destination}
