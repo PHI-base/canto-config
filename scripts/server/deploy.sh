@@ -1,24 +1,60 @@
 #!/bin/sh
 
-cd /var/canto_space/ || exit 1
+update_self () {
+  if [ -f config/server/deploy.sh ]; then
+    this_script="$0"
+    if ! cmp -s config/server/deploy.sh "$this_script"; then
+      cp config/server/deploy.sh "$this_script"
+      sh "$this_script"
+      exit 0
+    fi
+  fi
+}
 
-cp config_canto/canto_deploy.yaml canto/canto_deploy.yaml
+# Change to directory of the current script file
+cd "$(dirname "$(readlink -f -- "$0")")" || exit 1
 
-cp config_canto/species_strain_map.yaml import_export/
-cp config_canto/host_organism_taxon_ids.yaml import_export/
+if [ ! -d ./config ]; then
+  echo "Can't locate config directory at config/ - Aborting."
+  exit 1
+fi
 
-cp config_canto/scripts/server/load_ontologies.sh ./
-cp config_canto/scripts/server/backup_curation_sessions.sh ./
-cp config_canto/scripts/server/update_ext_config.sh ./
-cp config_canto/scripts/server/export_gaf.sh ./
+update_self
 
-cp config_canto/data/host_species.csv import_export/
-cp config_canto/data/host_strains.csv import_export/
-cp config_canto/data/pathogen_species.csv import_export/
-cp config_canto/data/pathogen_strains.csv import_export/
+if [ -f deploy_mode ]; then
+  deploy_mode="$(cat deploy_mode)"
+else
+  echo "Can't find the deploy_mode file. Aborting."
+  exit 1
+fi
 
-cp config_canto/annotation_extension/phipo_extension_relations.obo import_export/
-cp config_canto/annotation_extension/phipo_extensions.tsv import_export/
-cp config_canto/annotation_extension/phido_extensions.tsv import_export/
-cp config_canto/annotation_extension/phibase_go_extensions.tsv import_export/
-cp config_canto/annotation_extension/PomGeneEx_A_E_config.tsv import_export/
+case $deploy_mode in
+  prod|production|demo|dev|development|test) ;;
+  *)
+    echo "Invalid deployment mode. Valid modes are 'prod', 'dev', 'test', or 'demo'. Aborting."
+    exit 1
+  ;;
+esac
+
+cp -t ./ \
+config/scripts/server/backup_curation_sessions.sh \
+config/scripts/server/daily_update.sh \
+config/scripts/server/export_gaf.sh \
+config/scripts/server/load_ontologies.sh \
+config/scripts/server/patch_canto_deploy.sh \
+config/scripts/server/pull_config.sh \
+config/scripts/server/update_canto.sh \
+config/scripts/server/update_ext_config.sh \
+config/scripts/server/upgrade_db.sh
+
+cp -t import_export/ \
+config/species_strain_map.yaml \
+config/host_organism_taxon_ids.yaml \
+config/data/* \
+config/annotation_extension/*
+
+cp config/canto_deploy.yaml ./canto_deploy.tmp.yaml &&
+sh patch_canto_deploy.sh --mode "$deploy_mode" &&
+mv ./canto_deploy.tmp.yaml ./canto/canto_deploy.yaml
+
+rm -f ./canto_deploy.tmp.yaml
