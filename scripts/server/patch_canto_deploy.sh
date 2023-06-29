@@ -109,6 +109,7 @@ case $mode in
   test)
     disable_email
     disable_google_analytics
+    use_orcid_sandbox
   ;;
   dev|development)
     disable_email
