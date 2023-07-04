@@ -1,27 +1,51 @@
 #!/bin/sh
 
-canto_data_dir="/var/canto_space/data"
-sql_dump_dir="/var/canto_space/backup/sql_dumps"
-archive_dir="/var/canto_space/backup"
-
-command -v sqlite3 >/dev/null 2>&1 || {
-  echo >&2 "sqlite3 is not installed. Aborting.";
-  exit 1;
+# Get container ID of Canto container
+get_canto_id () {
+  docker ps -a | awk '$2>"pombase/canto-base" { print $1 }'
 }
 
-if [ ! -d $archive_dir ]; then
-  mkdir $archive_dir
+# canto_dir is the directory of the current script file
+canto_dir="$(dirname "$(readlink -f -- "$0")")"
+backup_dir="$canto_dir/backup"
+sql_export_dir="$canto_dir/import_export/sql_backup"
+sql_backup_dir="$backup_dir/sql_backup"
+sqlite3_cmd="docker exec -ti $(get_canto_id) sqlite3"
+date_str=$(date --utc "+%F")
+
+cd "$canto_dir" || exit
+
+# Sanity check
+if [ "$(basename "$PWD")" != "canto_space" ]; then
+  echo "Not in canto_space directory."
+  exit 1
 fi
 
-if [ ! -d $sql_dump_dir ]; then
-  mkdir $sql_dump_dir
+if [ ! -d ./data ]; then
+  echo "Data directory not found at data/"
+  exit 1
 fi
 
-cd $canto_data_dir || exit 1
+if [ ! -d "$backup_dir" ]; then
+  mkdir "$backup_dir"
+fi
+
+if [ ! -d "$sql_backup_dir" ]; then
+  mkdir "$sql_backup_dir"
+fi
+
+if [ ! -d "$sql_export_dir" ]; then
+  mkdir "$sql_export_dir"
+fi
+
+cd ./data || exit
 
 for i in *.sqlite3; do
-  sqlite3 "$i" .dump > ${sql_dump_dir}/"$i".sql_dump;
+  $sqlite3_cmd "/data/$i" ".backup '/import_export/sql_backup/$i'";
 done
 
-date_str=$(date --utc "+%F")
-tar -czf ${archive_dir}/canto_"${date_str}".tar.gz -C $sql_dump_dir .
+tar -czf - -C "$sql_export_dir" . |
+gzip -9 > "$sql_backup_dir/canto_$date_str.tar.gz"
+
+# Cleanup
+rm "$sql_export_dir"/*
