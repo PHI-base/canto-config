@@ -1,16 +1,11 @@
 #!/bin/sh
 
-# Get container ID of Canto container
-get_canto_id () {
-  docker ps -a | awk '$2>"pombase/canto-base" { print $1 }'
-}
-
 # canto_dir is the directory of the current script file
 canto_dir="$(dirname "$(readlink -f -- "$0")")"
 backup_dir="$canto_dir/backup"
 sql_export_dir="$canto_dir/import_export/sql_backup"
 sql_backup_dir="$backup_dir/sql_backup"
-sqlite3_cmd="docker exec -ti $(get_canto_id) sqlite3"
+sqlite3_cmd="$canto_dir/canto/script/canto_docker sqlite3"
 date_str=$(date --utc "+%F")
 
 cd "$canto_dir" || exit
@@ -41,7 +36,8 @@ fi
 cd ./data || exit
 
 for i in *.sqlite3; do
-  $sqlite3_cmd "/data/$i" ".backup '/import_export/sql_backup/$i'";
+  (cd "$canto_dir" || exit;
+  $sqlite3_cmd "/data/$i" ".backup '/import_export/sql_backup/$i'");
 done
 
 tar -czf - -C "$sql_export_dir" . |
