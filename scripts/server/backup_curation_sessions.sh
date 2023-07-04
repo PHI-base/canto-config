@@ -40,7 +40,7 @@ for i in *.sqlite3; do
   $sqlite3_cmd "/data/$i" ".backup '/import_export/sql_backup/$i'");
 done
 
-tar -czf - -C "$sql_export_dir" . |
+tar -cf - -C "$sql_export_dir" . |
 gzip -9 > "$sql_backup_dir/canto_$date_str.tar.gz"
 
 # Cleanup
