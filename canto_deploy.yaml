@@ -628,6 +628,8 @@ curs_config:
         curation tool.
       </p>
 
+privacy_policy_url: "https://github.com/PHI-base/PHI5_web_display/wiki/Privacy-Policy"
+
 extra_sponsors:
   - link_url: "https://bbsrc.ukri.org/"
     logo_url: "/logos/bbsrc_logo.png"
