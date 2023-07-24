@@ -587,6 +587,7 @@ load:
     term_boosts:
       "PHIPO:0000022": 2.0
       "PHIPO:0000021": 2.0
+      "PHIPO:0001308": 2.0
 
 export:
   gene_association_fields:
