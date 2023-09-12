@@ -239,7 +239,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 9606,Homo sapiens,MKN28 cell line,MKN-28
 9606,Homo sapiens,MRC-5 cell line,"MRCV, Medical Research Council cell strain-5"
 9606,Homo sapiens,NCI-H292,
-9606,Homo sapiens,PBMCs,
+9606,Homo sapiens,PBMCs,Peripheral Blood Mononuclear Cells
 9606,Homo sapiens,S1 cell line,
 9606,Homo sapiens,SF268 cell line,SF-268
 9606,Homo sapiens,SW480 cell line,SW-480
@@ -307,6 +307,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 3750,Malus domestica,cv. Saireline,
 3750,Malus domestica,MM106,MM 106
 106564,Malus prunifolia,cv. Ringo,
+29780,Mangifera indica,cv. Jinhuang Mang,
 3983,Manihot esculenta,cv. HMC-1,
 3879,Medicago sativa,cv. 57Q77,
 3880,Medicago truncatula,cv. A17,
@@ -584,6 +585,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 4081,Solanum lycopersicum,cv. Castlemart,
 4081,Solanum lycopersicum,cv. Corbarino,
 4081,Solanum lycopersicum,cv. Craigella,
+4081,Solanum lycopersicum,cv. Daianna,
 4081,Solanum lycopersicum,cv. Daniela,
 4081,Solanum lycopersicum,cv. Encore,
 4081,Solanum lycopersicum,cv. Farmer 301,
@@ -593,6 +595,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 4081,Solanum lycopersicum,cv. Hawaii 7998,
 4081,Solanum lycopersicum,cv. Hongfen,
 4081,Solanum lycopersicum,cv. Hongyangli,
+4081,Solanum lycopersicum,cv. Kaisa,
 4081,Solanum lycopersicum,cv. Kwang-Bok,
 4081,Solanum lycopersicum,cv. Kwang-Soo,
 4081,Solanum lycopersicum,cv. LA3940,
@@ -697,6 +700,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 4565,Triticum aestivum,cv. Chancellor,
 4565,Triticum aestivum,cv. Chinese Spring,
 4565,Triticum aestivum,cv. Corack,
+4565,Triticum aestivum,cv. Courtot,
 4565,Triticum aestivum,cv. Drifter,
 4565,Triticum aestivum,cv. Emu Rock,
 4565,Triticum aestivum,cv. Erik,
