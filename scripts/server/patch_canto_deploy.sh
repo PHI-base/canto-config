@@ -105,6 +105,7 @@ case $mode in
   ;;
   demo)
     enable_demo_mode
+    use_orcid_sandbox
   ;;
   test)
     disable_email
