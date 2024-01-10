@@ -1,18 +1,33 @@
 #!/bin/sh
 
-# canto_dir is the directory of the current script file
+backup_dir=$1
+
+# Change directory to the location of the script file:
+# The script file should be in the canto_space directory
 canto_dir="$(dirname "$(readlink -f -- "$0")")"
-backup_dir="$canto_dir/backup"
+
+# Default to canto_space/backup/ if no backup directory is specified
+backup_dir=${backup_dir:="$canto_dir/backup"}
+
+# Temporary directory for making sqlite backups
 sql_export_dir="$canto_dir/import_export/sql_backup"
-sql_backup_dir="$backup_dir/sql_backup"
-sqlite3_cmd="$canto_dir/canto/script/canto_docker sqlite3"
-date_str=$(date --utc "+%F")
+
+# Run sqlite3 through the Canto Docker container
+sqlite3_cmd="$canto_dir/canto/script/canto_docker --non-interactive sqlite3"
+
+# Use ISO 8601 basic format for dates, with UTC+0 timezone
+date_str=$(date "+%Y%m%dT%H%M%SZ")
+
+if [ ! -d "$backup_dir" ]; then
+  echo "backup directory not found at $backup_dir"
+  exit 1
+fi
 
 cd "$canto_dir" || exit
 
 # Sanity check
 if [ "$(basename "$PWD")" != "canto_space" ]; then
-  echo "Not in canto_space directory."
+  echo "not in canto_space directory"
   exit 1
 fi
 
@@ -21,16 +36,8 @@ if [ ! -d ./data ]; then
   exit 1
 fi
 
-if [ ! -d "$backup_dir" ]; then
-  mkdir "$backup_dir"
-fi
-
-if [ ! -d "$sql_backup_dir" ]; then
-  mkdir "$sql_backup_dir"
-fi
-
 if [ ! -d "$sql_export_dir" ]; then
-  mkdir "$sql_export_dir"
+  mkdir "$sql_export_dir" || exit
 fi
 
 cd ./data || exit
@@ -41,7 +48,7 @@ for i in *.sqlite3; do
 done
 
 tar -cf - -C "$sql_export_dir" . |
-gzip -9 > "$sql_backup_dir/canto_$date_str.tar.gz"
+gzip -9 > "$backup_dir/canto_backup_$date_str.tar.gz"
 
-# Cleanup
+# Remove temporary backup files
 rm "$sql_export_dir"/*
