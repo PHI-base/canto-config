@@ -16,7 +16,7 @@ sql_export_dir="$canto_dir/import_export/sql_backup"
 sqlite3_cmd="$canto_dir/canto/script/canto_docker --non-interactive sqlite3"
 
 # Use ISO 8601 basic format for dates, with UTC+0 timezone
-date_str=$(date "+%Y%m%dT%H%M%SZ")
+date_str=$(date --utc "+%Y%m%dT%H%M%SZ")
 
 if [ ! -d "$backup_dir" ]; then
   echo "backup directory not found at $backup_dir"
