@@ -550,6 +550,8 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5518,Fusarium graminearum,54606,
 5518,Fusarium graminearum,8/1,
 5518,Fusarium graminearum,8/151,
+5518,Fusarium graminearum,BM50,
+5518,Fusarium graminearum,BM6,
 5518,Fusarium graminearum,CS3005,
 5518,Fusarium graminearum,DAOM 180378,
 5518,Fusarium graminearum,DAOM 233423,
@@ -1495,6 +1497,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 1047171,Zymoseptoria tritici,IPO323,
 1047171,Zymoseptoria tritici,IPO323 ΔKu70,IPO323 deltaKu70
 1047171,Zymoseptoria tritici,IPO323 ΔKu80,IPO323 deltaKu80
+1047171,Zymoseptoria tritici,IRE30,
 1047171,Zymoseptoria tritici,K1562,
 1047171,Zymoseptoria tritici,R6-31,
 1047171,Zymoseptoria tritici,ST1/MBC,
