@@ -1147,10 +1147,10 @@ species_strain_map:
       - 622360
   135859:
     reference_strain: 135859
-    other_strains: {}
+    other_strains:
   160389:
     reference_strain: 160389
-    other_strains: {}
+    other_strains:
   48100:
     reference_strain: 48100
     other_strains:
@@ -1161,7 +1161,7 @@ species_strain_map:
       - 756982
   5454:
     reference_strain: 5454
-    other_strains: {}
+    other_strains:
   5059:
     reference_strain: 5059
     other_strains:
@@ -1681,10 +1681,10 @@ species_strain_map:
       - 1290391
   278938:
     reference_strain: 278938
-    other_strains: {}
+    other_strains:
   4779:
     reference_strain: 4779
-    other_strains: {}
+    other_strains:
   235:
     reference_strain: 235
     other_strains:
@@ -2334,7 +2334,7 @@ species_strain_map:
       - 1436064
   6326:
     reference_strain: 6326
-    other_strains: {}
+    other_strains:
   197:
     reference_strain: 197
     other_strains:
@@ -2688,20 +2688,20 @@ species_strain_map:
       - 1035309
   312341:
     reference_strain: 312341
-    other_strains: {}
+    other_strains:
   132184:
     reference_strain: 132184
-    other_strains: {}
+    other_strains:
   122368:
     reference_strain: 122368
     other_strains:
       - 697945
   84275:
     reference_strain: 84275
-    other_strains: {}
+    other_strains:
   29003:
     reference_strain: 29003
-    other_strains: {}
+    other_strains:
   135779:
     reference_strain: 135779
     other_strains:
@@ -3202,10 +3202,10 @@ species_strain_map:
       - 490069
   27357:
     reference_strain: 27357
-    other_strains: {}
+    other_strains:
   27358:
     reference_strain: 27358
-    other_strains: {}
+    other_strains:
   474922:
     reference_strain: 474922
     other_strains:
@@ -3235,20 +3235,20 @@ species_strain_map:
       - 759273
   5462:
     reference_strain: 5462
-    other_strains: {}
+    other_strains:
   1585795:
     reference_strain: 1585795
-    other_strains: {}
+    other_strains:
   290576:
     reference_strain: 290576
-    other_strains: {}
+    other_strains:
   5465:
     reference_strain: 5465
     other_strains:
       - 1213857
   5466:
     reference_strain: 5466
-    other_strains: {}
+    other_strains:
   1717:
     reference_strain: 1717
     other_strains:
@@ -8190,7 +8190,7 @@ species_strain_map:
       - 1318459
   5128:
     reference_strain: 5128
-    other_strains: {}
+    other_strains:
   169388:
     reference_strain: 169388
     other_strains:
@@ -8249,13 +8249,13 @@ species_strain_map:
       - 1450515
   36090:
     reference_strain: 36090
-    other_strains: {}
+    other_strains:
   31243:
     reference_strain: 31243
-    other_strains: {}
+    other_strains:
   5563:
     reference_strain: 5563
-    other_strains: {}
+    other_strains:
   226899:
     reference_strain: 226899
     other_strains:
@@ -8804,7 +8804,7 @@ species_strain_map:
       - 1264691
   51029:
     reference_strain: 51029
-    other_strains: {}
+    other_strains:
   5037:
     reference_strain: 5037
     other_strains:
@@ -9943,7 +9943,7 @@ species_strain_map:
       - 1331041
   13131:
     reference_strain: 13131
-    other_strains: {}
+    other_strains:
   318829:
     reference_strain: 318829
     other_strains:
@@ -9964,10 +9964,10 @@ species_strain_map:
       - 747676
   5261:
     reference_strain: 5261
-    other_strains: {}
+    other_strains:
   6303:
     reference_strain: 6303
-    other_strains: {}
+    other_strains:
   92637:
     reference_strain: 92637
     other_strains:
@@ -9987,14 +9987,14 @@ species_strain_map:
       - 1432499
   38448:
     reference_strain: 38448
-    other_strains: {}
+    other_strains:
   153609:
     reference_strain: 153609
     other_strains:
       - 554373
   552546:
     reference_strain: 552546
-    other_strains: {}
+    other_strains:
   36809:
     reference_strain: 36809
     other_strains:
@@ -13815,10 +13815,10 @@ species_strain_map:
       - 1308723
   1873960:
     reference_strain: 1873960
-    other_strains: {}
+    other_strains:
   685502:
     reference_strain: 685502
-    other_strains: {}
+    other_strains:
   287:
     reference_strain: 287
     other_strains:
@@ -14571,7 +14571,7 @@ species_strain_map:
       - 1262396
   76659:
     reference_strain: 76659
-    other_strains: {}
+    other_strains:
   53485:
     reference_strain: 53485
     other_strains:
@@ -14590,7 +14590,7 @@ species_strain_map:
       - 1223555
   46012:
     reference_strain: 46012
-    other_strains: {}
+    other_strains:
   329:
     reference_strain: 329
     other_strains:
@@ -14636,7 +14636,7 @@ species_strain_map:
       - 1810496
   914237:
     reference_strain: 914237
-    other_strains: {}
+    other_strains:
   34085:
     reference_strain: 34085
     other_strains:
@@ -14651,7 +14651,7 @@ species_strain_map:
       - 1455062
   77044:
     reference_strain: 77044
-    other_strains: {}
+    other_strains:
   4932:
     reference_strain: 4932
     other_strains:
@@ -24503,7 +24503,7 @@ species_strain_map:
       - 798300
   36470:
     reference_strain: 36470
-    other_strains: {}
+    other_strains:
   1307:
     reference_strain: 1307
     other_strains:
@@ -24825,7 +24825,7 @@ species_strain_map:
       - 1658133
   1159556:
     reference_strain: 1159556
-    other_strains: {}
+    other_strains:
   120017:
     reference_strain: 120017
     other_strains:
@@ -24837,7 +24837,7 @@ species_strain_map:
       - 559306
   5025:
     reference_strain: 5025
-    other_strains: {}
+    other_strains:
   27337:
     reference_strain: 27337
     other_strains:
@@ -24848,7 +24848,7 @@ species_strain_map:
       - 1347387
   100787:
     reference_strain: 100787
-    other_strains: {}
+    other_strains:
   28171:
     reference_strain: 28171
     other_strains:
@@ -26183,10 +26183,10 @@ species_strain_map:
       - 1257118
   5757:
     reference_strain: 5757
-    other_strains: {}
+    other_strains:
   108276:
     reference_strain: 108276
-    other_strains: {}
+    other_strains:
   5341:
     reference_strain: 5341
     other_strains:
@@ -26199,7 +26199,7 @@ species_strain_map:
       - 597362
   176616:
     reference_strain: 176616
-    other_strains: {}
+    other_strains:
   4679:
     reference_strain: 4679
     other_strains:
@@ -26210,10 +26210,10 @@ species_strain_map:
       - 8840
   7936:
     reference_strain: 7936
-    other_strains: {}
+    other_strains:
   226677:
     reference_strain: 226677
-    other_strains: {}
+    other_strains:
   7460:
     reference_strain: 7460
     other_strains:
@@ -26253,7 +26253,7 @@ species_strain_map:
       - 941588
   3702:
     reference_strain: 3702
-    other_strains: {}
+    other_strains:
   3818:
     reference_strain: 3818
     other_strains:
@@ -26266,28 +26266,28 @@ species_strain_map:
       - 925390
   85549:
     reference_strain: 85549
-    other_strains: {}
+    other_strains:
   39291:
     reference_strain: 39291
-    other_strains: {}
+    other_strains:
   4498:
     reference_strain: 4498
-    other_strains: {}
+    other_strains:
   28974:
     reference_strain: 28974
-    other_strains: {}
+    other_strains:
   7091:
     reference_strain: 7091
-    other_strains: {}
+    other_strains:
   9913:
     reference_strain: 9913
-    other_strains: {}
+    other_strains:
   15368:
     reference_strain: 15368
-    other_strains: {}
+    other_strains:
   52824:
     reference_strain: 52824
-    other_strains: {}
+    other_strains:
   3707:
     reference_strain: 3707
     other_strains:
@@ -26346,7 +26346,7 @@ species_strain_map:
       - 344680
   6239:
     reference_strain: 6239
-    other_strains: {}
+    other_strains:
   4072:
     reference_strain: 4072
     other_strains:
@@ -26356,28 +26356,28 @@ species_strain_map:
       - 1499976
   4073:
     reference_strain: 4073
-    other_strains: {}
+    other_strains:
   134033:
     reference_strain: 134033
-    other_strains: {}
+    other_strains:
   60419:
     reference_strain: 60419
-    other_strains: {}
+    other_strains:
   21020:
     reference_strain: 21020
-    other_strains: {}
+    other_strains:
   10141:
     reference_strain: 10141
-    other_strains: {}
+    other_strains:
   63459:
     reference_strain: 63459
-    other_strains: {}
+    other_strains:
   10152:
     reference_strain: 10152
-    other_strains: {}
+    other_strains:
   34839:
     reference_strain: 34839
-    other_strains: {}
+    other_strains:
   9534:
     reference_strain: 9534
     other_strains:
@@ -26385,10 +26385,10 @@ species_strain_map:
       - 101841
   3827:
     reference_strain: 3827
-    other_strains: {}
+    other_strains:
   13427:
     reference_strain: 13427
-    other_strains: {}
+    other_strains:
   3654:
     reference_strain: 3654
     other_strains:
@@ -26396,29 +26396,29 @@ species_strain_map:
       - 260673
   159033:
     reference_strain: 159033
-    other_strains: {}
+    other_strains:
   79217:
     reference_strain: 79217
-    other_strains: {}
+    other_strains:
   64884:
     reference_strain: 64884
-    other_strains: {}
+    other_strains:
   2708:
     reference_strain: 2708
-    other_strains: {}
+    other_strains:
   171249:
     reference_strain: 171249
-    other_strains: {}
+    other_strains:
   85571:
     reference_strain: 85571
-    other_strains: {}
+    other_strains:
   2711:
     reference_strain: 2711
     other_strains:
       - 558545
   55188:
     reference_strain: 55188
-    other_strains: {}
+    other_strains:
   269719:
     reference_strain: 269719
     other_strains:
@@ -26428,10 +26428,10 @@ species_strain_map:
       - 1540406
   292731:
     reference_strain: 292731
-    other_strains: {}
+    other_strains:
   29159:
     reference_strain: 29159
-    other_strains: {}
+    other_strains:
   39473:
     reference_strain: 39473
     other_strains:
@@ -26463,7 +26463,7 @@ species_strain_map:
       - 1979246
   3662:
     reference_strain: 3662
-    other_strains: {}
+    other_strains:
   4265:
     reference_strain: 4265
     other_strains:
@@ -26474,10 +26474,10 @@ species_strain_map:
       - 341669
   7955:
     reference_strain: 7955
-    other_strains: {}
+    other_strains:
   35525:
     reference_strain: 35525
-    other_strains: {}
+    other_strains:
   4039:
     reference_strain: 4039
     other_strains:
@@ -26498,7 +26498,7 @@ species_strain_map:
       - 1869348
   3570:
     reference_strain: 3570
-    other_strains: {}
+    other_strains:
   44689:
     reference_strain: 44689
     other_strains:
@@ -26507,19 +26507,19 @@ species_strain_map:
       - 1592886
   7227:
     reference_strain: 7227
-    other_strains: {}
+    other_strains:
   685034:
     reference_strain: 685034
-    other_strains: {}
+    other_strains:
   9796:
     reference_strain: 9796
-    other_strains: {}
+    other_strains:
   38414:
     reference_strain: 38414
-    other_strains: {}
+    other_strains:
   32224:
     reference_strain: 32224
-    other_strains: {}
+    other_strains:
   4606:
     reference_strain: 4606
     other_strains:
@@ -26537,7 +26537,7 @@ species_strain_map:
       - 1703814
   7137:
     reference_strain: 7137
-    other_strains: {}
+    other_strains:
   9031:
     reference_strain: 9031
     other_strains:
@@ -26548,7 +26548,7 @@ species_strain_map:
       - 405000
   3847:
     reference_strain: 3847
-    other_strains: {}
+    other_strains:
   3634:
     reference_strain: 3634
     other_strains:
@@ -26564,7 +26564,7 @@ species_strain_map:
       - 1620506
   6999:
     reference_strain: 6999
-    other_strains: {}
+    other_strains:
   4232:
     reference_strain: 4232
     other_strains:
@@ -26585,13 +26585,13 @@ species_strain_map:
       - 1288822
   336126:
     reference_strain: 336126
-    other_strains: {}
+    other_strains:
   7998:
     reference_strain: 7998
-    other_strains: {}
+    other_strains:
   6945:
     reference_strain: 6945
-    other_strains: {}
+    other_strains:
   4236:
     reference_strain: 4236
     other_strains:
@@ -26601,7 +26601,7 @@ species_strain_map:
       - 1759395
   4472:
     reference_strain: 4472
-    other_strains: {}
+    other_strains:
   3864:
     reference_strain: 3864
     other_strains:
@@ -26621,14 +26621,14 @@ species_strain_map:
       - 238696
   4521:
     reference_strain: 4521
-    other_strains: {}
+    other_strains:
   4522:
     reference_strain: 4522
     other_strains:
       - 281081
   7200:
     reference_strain: 7200
-    other_strains: {}
+    other_strains:
   9541:
     reference_strain: 9541
     other_strains:
@@ -26637,21 +26637,21 @@ species_strain_map:
       - 1747270
   74068:
     reference_strain: 74068
-    other_strains: {}
+    other_strains:
   3750:
     reference_strain: 3750
     other_strains:
       - 1457994
   106564:
     reference_strain: 106564
-    other_strains: {}
+    other_strains:
   7130:
     reference_strain: 7130
     other_strains:
       - 1104469
   29780:
     reference_strain: 29780
-    other_strains: {}
+    other_strains:
   3983:
     reference_strain: 3983
     other_strains:
@@ -26674,7 +26674,7 @@ species_strain_map:
       - 304102
   10036:
     reference_strain: 10036
-    other_strains: {}
+    other_strains:
   10090:
     reference_strain: 10090
     other_strains:
@@ -26719,13 +26719,13 @@ species_strain_map:
       - 2283350
   4100:
     reference_strain: 4100
-    other_strains: {}
+    other_strains:
   62141:
     reference_strain: 62141
-    other_strains: {}
+    other_strains:
   4097:
     reference_strain: 4097
-    other_strains: {}
+    other_strains:
   4146:
     reference_strain: 4146
     other_strains:
@@ -26739,7 +26739,7 @@ species_strain_map:
       - 158386
   8019:
     reference_strain: 8019
-    other_strains: {}
+    other_strains:
   8022:
     reference_strain: 8022
     other_strains:
@@ -26770,10 +26770,10 @@ species_strain_map:
       - 30528
   8255:
     reference_strain: 8255
-    other_strains: {}
+    other_strains:
   6687:
     reference_strain: 6687
-    other_strains: {}
+    other_strains:
   3435:
     reference_strain: 3435
     other_strains:
@@ -26818,7 +26818,7 @@ species_strain_map:
       - 1616480
   3350:
     reference_strain: 3350
-    other_strains: {}
+    other_strains:
   3888:
     reference_strain: 3888
     other_strains:
@@ -26835,7 +26835,7 @@ species_strain_map:
       - 257612
   51655:
     reference_strain: 51655
-    other_strains: {}
+    other_strains:
   43335:
     reference_strain: 43335
     other_strains:
@@ -26915,7 +26915,7 @@ species_strain_map:
       - 1740720
   6941:
     reference_strain: 6941
-    other_strains: {}
+    other_strains:
   456999:
     reference_strain: 456999
     other_strains:
@@ -26948,7 +26948,7 @@ species_strain_map:
       - 1287689
   329032:
     reference_strain: 329032
-    other_strains: {}
+    other_strains:
   267246:
     reference_strain: 267246
     other_strains:
@@ -26958,10 +26958,10 @@ species_strain_map:
       - 649271
   4547:
     reference_strain: 4547
-    other_strains: {}
+    other_strains:
   52904:
     reference_strain: 52904
-    other_strains: {}
+    other_strains:
   4550:
     reference_strain: 4550
     other_strains:
@@ -26974,10 +26974,10 @@ species_strain_map:
       - 318876
   7048:
     reference_strain: 7048
-    other_strains: {}
+    other_strains:
   856898:
     reference_strain: 856898
-    other_strains: {}
+    other_strains:
   4081:
     reference_strain: 4081
     other_strains:
@@ -27001,13 +27001,13 @@ species_strain_map:
       - 80418
   4558:
     reference_strain: 4558
-    other_strains: {}
+    other_strains:
   7107:
     reference_strain: 7107
-    other_strains: {}
+    other_strains:
   7109:
     reference_strain: 7109
-    other_strains: {}
+    other_strains:
   62615:
     reference_strain: 62615
     other_strains:
@@ -27033,16 +27033,16 @@ species_strain_map:
       - 1170810
   7067:
     reference_strain: 7067
-    other_strains: {}
+    other_strains:
   3641:
     reference_strain: 3641
-    other_strains: {}
+    other_strains:
   7070:
     reference_strain: 7070
-    other_strains: {}
+    other_strains:
   96903:
     reference_strain: 96903
-    other_strains: {}
+    other_strains:
   4565:
     reference_strain: 4565
     other_strains:
@@ -27065,13 +27065,13 @@ species_strain_map:
       - 755351
   163159:
     reference_strain: 163159
-    other_strains: {}
+    other_strains:
   69721:
     reference_strain: 69721
-    other_strains: {}
+    other_strains:
   94108:
     reference_strain: 94108
-    other_strains: {}
+    other_strains:
   4577:
     reference_strain: 4577
     other_strains:
