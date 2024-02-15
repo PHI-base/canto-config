@@ -1,6 +1,7 @@
 Acanthamoeba castellanii,5755,
 Acanthamoeba polyphaga,5757,
 Acipenser sinensis,61970,Chinese sturgeon
+Actinidia arguta,64478,
 Actinidia chinensis,3625,
 Acyrthosiphon pisum,7029,pea aphid
 Adalia bipunctata,7084,two-spotted ladybird beetle
@@ -66,6 +67,7 @@ Cotinus obovatus,292731,
 Coturnix coromandelica,2567903,rain quail
 Crassostrea gigas,29159,Pacific oyster
 Crassostrea virginica,6565,eastern oyster
+Ctenopharyngodon idella,7959,grass carp
 Cucumis anguria,39473,gherkin
 Cucumis melo,3656,muskmelon
 Cucumis sativus,3659,cucumber
@@ -75,6 +77,7 @@ Cucurbita pepo,3663,vegetable marrow
 Cunninghamia lanceolata,28977,China fir
 Cynara cardunculus,4265,wild artichoke
 Cynoglossus semilaevis,244447,tongue sole
+Cyprinus carpio,7962,common carp
 Danio rerio,7955,zebrafish
 Daphnia magna,35525,
 Daucus carota,4039,carrot
@@ -89,6 +92,7 @@ Eriobotrya japonica,32224,loquat
 Festuca arundinacea,4606,tall fescue
 Festuca pratensis,4608,meadow ryegrass
 Fragaria ananassa,3747,strawberry
+Fraxinus excelsior,38873,European ash
 Galleria mellonella,7137,greater wax moth
 Gallus gallus,9031,chicken
 Glycine max,3847,soybean
@@ -118,6 +122,7 @@ Macrosteles quadrilineatus,74068,aster leafhopper
 Malus domestica,3750,apple
 Malus prunifolia,106564,
 Malus pumila,283210,paradise apple
+Mandevilla sanderi,52837,Mexican love vine
 Manduca sexta,7130,tobacco hornworm
 Mangifera indica,29780,mango
 Manihot esculenta,3983,cassava
@@ -173,6 +178,7 @@ Pyrus pyrifolia,3767,sha li
 Raphanus sativus,3726,radish
 Rattus norvegicus,10116,Norway rat
 Rattus rattus,10117,black rat
+Retama sphaerocarpa,49838,
 Rhaphiolepis bibas,2843217,loquat
 Rhipicephalus microplus,6941,southern cattle tick
 Rhodotorula mucilaginosa,5537,
@@ -190,6 +196,7 @@ Solanum microdontum,73574,
 Solanum peruvianum,4082,Peruvian tomato
 Solanum torvum,119830,turkey berry
 Solanum tuberosum,4113,potato
+Solea senegalensis,28829,Senegalese sole
 Sorghum bicolor,4558,sorghum
 Spodoptera exigua,7107,beet armyworm
 Spodoptera frugiperda,7108,fall armyworm
@@ -206,8 +213,10 @@ Triticum aestivum,4565,bread wheat
 Triticum aestivum x Triticum timopheevi,4566,
 Triticum turgidum,4571,poulard wheat
 Vicia faba,3906,fava bean
+Vigna unguiculata,3917,cowpea
 Vitis vinifera,29760,wine grape
 Xenopsylla cheopis,163159,oriental rat flea
 Zantedeschia aethiopica,69721,pig-lily
 Zantedeschia elliotiana,94108,
 Zea mays,4577,maize
+Ziziphus jujuba,326968,common jujube
