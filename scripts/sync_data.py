@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
-"""Synchronize strain lists with the PHI-base/data repository
+"""Synchronize strains and species with the PHI-base/data repository
 
-This script fetches the PHI-Canto strain lists (currently stored as CSV
-files) from the PHI-base/data repository on GitHub, and copies the file
-contents to the PHI-base/config repository. The columns of the files are
+This script fetches the PHI-Canto strain and species lists (currently stored
+as CSV files) from the PHI-base/data repository on GitHub, and copies the
+file contents to the PHI-base/config repository. The columns of the files are
 renamed to match the names used by the PHI-base/config repository.
 
 Note that this script will change directory to the directory containing this
@@ -17,7 +17,7 @@ __author__ = "James Seager"
 __copyright__ = "Copyright (C) 2023 James Seager"
 __email__ = "james.seager@rothamsted.ac.uk"
 __license__ = "GNU GPLv3"
-__version__ = "1.0"
+__version__ = "1.1"
 
 import csv
 import os
@@ -34,14 +34,14 @@ def cd_to_data_dir():
     os.chdir(data_dir)
 
 
-def get_url_reader(url):
+def get_csv_reader_from_url(url, fieldnames=None):
     response = urllib.request.urlopen(url)
     lines = (line.decode('utf-8') for line in response.readlines())
-    reader = csv.DictReader(lines)
+    reader = csv.DictReader(lines, fieldnames)
     return reader
 
 
-def get_processed_rows(reader):
+def get_strain_rows(reader):
     column_mapping = {
         'ncbi_taxid': 'NcbiTaxSpeciesId',
         'scientific_name': 'ScientificName',
@@ -58,25 +58,35 @@ def get_processed_rows(reader):
     ]
 
 
-def sort_rows(rows):
-    by_species_and_strain = lambda d: (d['ScientificName'], d['Strain'].lower())
-    return sorted(rows, key=by_species_and_strain)
+def get_species_rows(reader, fieldnames):
+    return [{col: row[col] for col in fieldnames} for row in reader]
 
 
-def write_csv(fieldnames, rows, path):
+def write_csv(rows, path, fieldnames, include_header=True):
     dialect = csv.unix_dialect()
     dialect.quoting = csv.QUOTE_MINIMAL
     with open(path, 'w', encoding='utf-8') as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames, dialect=dialect)
-        writer.writeheader()
+        if include_header:
+            writer.writeheader()
         writer.writerows(rows)
 
 
 def make_strain_csv(url, path):
+    get_species_and_strain = lambda row: (row['ScientificName'], row['Strain'].lower())
     fieldnames = ['NcbiTaxSpeciesId', 'ScientificName', 'Strain', 'Synonyms']
-    reader = get_url_reader(url)
-    rows = sort_rows(get_processed_rows(reader))
-    write_csv(fieldnames, rows, path)
+    reader = get_csv_reader_from_url(url)
+    rows = get_strain_rows(reader)
+    sorted_rows = sorted(rows, key=get_species_and_strain)
+    write_csv(sorted_rows, path, fieldnames)
+
+
+def make_species_csv(url, path):
+    fieldnames_out = ['scientific_name', 'ncbi_taxid', 'common_name']
+    reader = get_csv_reader_from_url(url)
+    rows = get_species_rows(reader, fieldnames_out)
+    sorted_rows = sorted(rows, key=lambda row: row['scientific_name'])
+    write_csv(sorted_rows, path, fieldnames_out, include_header=False)
 
 
 if __name__ == '__main__':
@@ -84,6 +94,10 @@ if __name__ == '__main__':
     repo_url = 'https://raw.githubusercontent.com/PHI-base/data/master/'
     pathogen_strain_url = repo_url + 'strains/phicanto_pathogen_strains.csv'
     host_strain_url = repo_url + 'strains/phicanto_host_strains.csv'
+    pathogen_species_url = repo_url + 'species/phicanto_pathogen_species.csv'
+    host_species_url = repo_url + 'species/phicanto_host_species.csv'
 
     make_strain_csv(pathogen_strain_url, 'pathogen_strains.csv')
     make_strain_csv(host_strain_url, 'host_strains.csv')
+    make_species_csv(pathogen_species_url, 'pathogen_species.csv')
+    make_species_csv(host_species_url, 'host_species.csv')
