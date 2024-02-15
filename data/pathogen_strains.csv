@@ -97,6 +97,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 162425,Aspergillus nidulans,A26,
 162425,Aspergillus nidulans,G191,
 162425,Aspergillus nidulans,pabaA1,
+5067,Aspergillus parasiticus,ATCC15517,
 728,Avibacterium paragallinarum,TW07,
 728,Avibacterium paragallinarum,TW94,
 1392,Bacillus anthracis,ANR-1,
@@ -281,6 +282,9 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5480,Candida parapsilosis,GA1,
 5482,Candida tropicalis,1909,"ATCC 4563, ATCC 7349, ATCC 750, CBS 94, CCRC 20520, IFO 1070, IFO 1400, JCM 1541, NRRL Y-12699, NRRL Y-12968, NRRL Y-607"
 5482,Candida tropicalis,T1,ATCC MYA-3404
+76351,Ceratobasidium cereale,R1404,
+76351,Ceratobasidium cereale,R1406,
+76351,Ceratobasidium cereale,R1410,
 5158,Ceratocystis fimbriata,AF 100,
 312341,Ceratocystis harringtonii,119.78,
 84275,Cercospora kikuchii,PR,
@@ -1365,6 +1369,7 @@ NcbiTaxSpeciesId,ScientificName,Strain,Synonyms
 5270,Ustilago maydis,HA103,
 5270,Ustilago maydis,HA1033,
 5270,Ustilago maydis,HA232,
+5270,Ustilago maydis,IMI103761,
 5270,Ustilago maydis,LV54,
 5270,Ustilago maydis,LV7,
 5270,Ustilago maydis,SG200,
