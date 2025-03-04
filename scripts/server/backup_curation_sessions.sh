@@ -18,6 +18,8 @@ sqlite3_cmd="$canto_dir/canto/script/canto_docker --non-interactive sqlite3"
 # Use ISO 8601 basic format for dates, with UTC+0 timezone
 date_str=$(date --utc "+%Y%m%dT%H%M%SZ")
 
+backup_path="$backup_dir/canto_backup_$date_str.tar.gz"
+
 if [ ! -d "$backup_dir" ]; then
   echo "backup directory not found at $backup_dir"
   exit 1
@@ -47,8 +49,7 @@ for i in *.sqlite3; do
   $sqlite3_cmd "/data/$i" ".backup '/import_export/sql_backup/$i'");
 done
 
-tar -cf - -C "$sql_export_dir" . |
-gzip -9 > "$backup_dir/canto_backup_$date_str.tar.gz"
+tar -cf - -C "$sql_export_dir" . | gzip -9 > "$backup_path"
 
 # Remove temporary backup files
 rm "$sql_export_dir"/*
