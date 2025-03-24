@@ -598,8 +598,6 @@ instance_front_mhtml: /phi_base_docs/phibase_instance_front.mhtml
 instance_front_subtitle: Currently curating fungal, protist, and bacterial pathogens
 base_docs_path: phi_base_docs
 
-message_of_the_day: Please note that the PHI-Canto will be unavailable from Thursday 20 March at 17:00 (UTC+00:00) until Saturday 22 March due to maintenance work on our servers.
-
 messages:
   gene_upload:
     systematic_identifier_desc: UniProt identifier
