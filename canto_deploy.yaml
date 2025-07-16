@@ -590,6 +590,8 @@ load:
       "PHIPO:0001308": 2.0
 
 export:
+  canto_json:
+    set_deletion_names_from_gene: 0
   gene_association_fields:
     db: "UniProtKB"
     assigned_by: "PHI-base"
