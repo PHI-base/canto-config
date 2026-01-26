@@ -185,8 +185,8 @@ available_annotation_type_list:
       - IMP
       - IPI
       - EXP
-    admin_evidence_codes:
       - TAS
+    admin_evidence_codes: []
     broad_term_suggestions: "transporter, transferase activity"
     specific_term_examples: "adenylate cyclase activity or biotin transporter activity"
     help_text: >
@@ -215,8 +215,8 @@ available_annotation_type_list:
       - IGI
       - IPI
       - EXP
-    admin_evidence_codes:
       - TAS
+    admin_evidence_codes: []
     broad_term_suggestions: "effector-mediated modulation of host process by symbiont, transport"
     specific_term_examples: "pyrimidine metabolic process or alpha-glucoside transport"
     help_text: >
@@ -252,8 +252,8 @@ available_annotation_type_list:
       - IMP
       - IPI
       - EXP
-    admin_evidence_codes:
       - TAS
+    admin_evidence_codes: []
     broad_term_suggestions: "rough endoplasmic reticulum, nucleus, ribosome"
     specific_term_examples: "condensed nuclear chromosome, inner kinetochore and GET complex"
     help_text: >
