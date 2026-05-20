@@ -41,6 +41,7 @@ cp -t ./ \
 config/scripts/server/backup_curation_sessions.sh \
 config/scripts/server/daily_update.sh \
 config/scripts/server/export_gaf.sh \
+config/scripts/server/get_ontologies.sh \
 config/scripts/server/load_ontologies.sh \
 config/scripts/server/patch_canto_deploy.sh \
 config/scripts/server/pull_config.sh \
