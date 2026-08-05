@@ -4,13 +4,14 @@
 
 This script fetches the PHI-Canto strain and species lists (currently stored
 as CSV files) from the PHI-base/data repository on GitHub, and copies the
-file contents to the PHI-base/config repository. The columns of the files are
-renamed to match the names used by the PHI-base/config repository.
+file contents to the PHI-base/canto-config repository. The columns of the 
+files are renamed to match the names used by the PHI-base/canto-config 
+repository.
 
 Note that this script will change directory to the directory containing this
 script file, then it will change to the data directory. This script expects
-to be located in the 'scripts' directory of PHI-base/config, relative to
-the root directory of the repository (see the cd_to_data_dir function).
+to be located in the 'scripts' directory of PHI-base/canto-config, relative
+to the root directory of the repository (see the cd_to_data_dir function).
 """
 
 __author__ = "James Seager"
