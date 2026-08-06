@@ -75,13 +75,13 @@ add_oauth_credentials () {
     client_id="$(cat oauth_client_id)"
   else
     echo "warning: OAuth client id not found in file oauth_client_id."
-    return 1
+    return 0
   fi
   if [ -f oauth_client_secret ]; then
     client_secret="$(cat oauth_client_secret)"
   else
     echo "warning: OAuth client secret not found in file oauth_client_secret."
-    return 1
+    return 0
   fi
   sed -i -r \
   -e "s/^(  *)client_id: .+/\1client_id: '$client_id'/" \
