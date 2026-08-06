@@ -5,4 +5,4 @@ cd "$(dirname "$(readlink -f -- "$0")")" || exit
 
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/phibase_config
-git -C "config" pull
+git -C "canto-config" pull
