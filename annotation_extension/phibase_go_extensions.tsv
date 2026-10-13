@@ -6,4 +6,4 @@ GO:0005575	is_a	with_symbiont_species	PathogenTaxonID	with symbiont species		0,1
 GO:0005575	is_a	with_host_species	HostTaxonID	with host species		0,1	admin		pathogen_gene
 GO:0044419	is_a	with_symbiont_species	PathogenTaxonID	with symbiont species		0,1	user		host_gene
 GO:0044419	is_a	with_host_species	HostTaxonID	with host species		0,1	user		pathogen_gene
-GO:0140295	is_a	has_input	Text	binds (PR:nnn ID for bound protein form)		0,1	user
+GO:0140295	is_a	has_input	Text	binds (PR:nnn ID for bound protein form)		0,1	user		
