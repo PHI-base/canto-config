@@ -38,8 +38,10 @@ case $deploy_mode in
 esac
 
 cp -t ./ \
+canto-config/scripts/server/backup_and_encrypt.sh \
 canto-config/scripts/server/backup_curation_sessions.sh \
 canto-config/scripts/server/daily_update.sh \
+canto-config/scripts/server/encrypt_curation_sessions.sh \
 canto-config/scripts/server/export_gaf.sh \
 canto-config/scripts/server/get_ontologies.sh \
 canto-config/scripts/server/load_ontologies.sh \
