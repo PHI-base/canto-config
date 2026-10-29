@@ -23,19 +23,27 @@ backup_name=$(basename "$backup_path")
 encrypted_path="$encrypted_dir/$backup_name.gpg"
 recipients_path="$canto_dir/recipients.txt"
 
+if [ ! -f "$recipients_path" ]; then
+    echo "No recipients file found at $recipients_path" >&2
+    exit 1
+fi
+
 # Create encrypted backups if the email addresses of any recipients
 # are specified in recipients.txt
-if [ -f "$recipients_path" ]; then
-    if [ ! -d "$encrypted_dir" ]; then
-        mkdir -p "$encrypted_dir"
-    fi
-
-    recipients=""
-
-    while IFS= read -r email; do
-        [ -n "$email" ] || continue  # Skip blank lines
-        recipients="$recipients --recipient $email"
-    done < "$recipients_path"
-
-    gpg --encrypt --output "$encrypted_path" $recipients "$backup_path" || exit 1
+if [ ! -d "$encrypted_dir" ]; then
+    mkdir -p "$encrypted_dir"
 fi
+
+recipients=""
+
+while IFS= read -r email; do
+    [ -n "$email" ] || continue  # Skip blank lines
+    recipients="$recipients --recipient $email"
+done < "$recipients_path"
+
+if [ -z "$recipients" ]; then
+    echo "No recipients configured in $recipients_path" >&2
+    exit 1
+fi
+
+gpg --encrypt --output "$encrypted_path" $recipients "$backup_path" || exit 1
